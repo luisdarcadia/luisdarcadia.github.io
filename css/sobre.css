@@ -1,0 +1,23 @@
+.contato {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  padding: 3em;
+}
+
+.contato p {
+  font-size: 15pt;
+}
+
+.contato form * {
+  border: 0;
+  padding: 0;
+  margin: 1vh 0;
+  width: 70%;
+}
+
+.contato div form textarea {
+  background-color: var(--c_pastel);
+  color: #000000;
+}

@@ -8,3 +8,4 @@ tipo: escondida
 {% include_relative inicio.css %}
 {% include_relative blog-post.css %}
 {% include_relative start.css %}
+{% include_relative sobre.css %}
