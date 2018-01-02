@@ -1,0 +1,15 @@
+title: DeMachinaMundi
+author: Luís Fernando Campos D'Arcadia
+email: luisfcdarcadia@gmail.com
+description: Website pessoal de Luís Fernando Campos D'Arcadia.
+baseurl: "/" 
+url: ""
+github_username: 
+
+# Build settings
+markdown: kramdown
+disqus:
+        shortname: luisfcdarcadia
+googleanalytics: UA-111692123-1
+plugins:
+         - jekyll-feed
