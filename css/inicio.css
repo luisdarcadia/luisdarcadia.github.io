@@ -24,9 +24,13 @@
 @media(min-width: 1700px){
 
   #bio-texto {
-    columns: 400px;
+    columns: 600px;
     column-gap: 3em;
     column-rule: solid;
+  }
+
+  .bio img {
+    height: 20vh;
   }
 
 }
