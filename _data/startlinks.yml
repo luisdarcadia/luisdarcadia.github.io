@@ -1,0 +1,92 @@
+- tipo: Burocracia 
+  fonte: facul
+  link: https://sistemas.unesp.br/sentinela/login.open.action 
+
+- tipo: Biblio - UNESP 
+  fonte: facul
+  link: https://www.athena.biblioteca.unesp.br/ 
+
+- tipo: Lattes 
+  fonte: facul
+  link: https://wwws.cnpq.br/cvlattesweb/pkg_login.prc_form 
+
+- tipo: Busca - VOLP 
+  fonte: facul
+  link: http://www.academia.org.br/nossa-lingua/busca-no-vocabulario 
+
+- tipo: BNP Digital 
+  fonte: facul
+  link: http://www.purl.pt 
+
+- tipo: Google Books 
+  fonte: facul
+  link: https://www.google.com/books 
+
+- tipo: JSTOR 
+  fonte: facul
+  link: https://www.jstor.org 
+
+- tipo: Netflix 
+  fonte: fun
+  link: https://www.netflix.com 
+
+- tipo: Youtube  
+  fonte: fun
+  link: https://www.youtube.com/feed/subscriptions 
+
+- tipo: Gmail  
+  fonte: fun
+  link: https://www.google.com/mail 
+
+- tipo: Yahoo!  
+  fonte: fun
+  link: https://www.yahoo.com/mail 
+
+- tipo: Facebook  
+  fonte: fun
+  link: https://www.facebook.com 
+
+- tipo: Instagram  
+  fonte: fun
+  link: https://www.instagram.com 
+
+- tipo: WhatsApp  
+  fonte: fun
+  link: https://web.whatsapp.com 
+
+- tipo: Github  
+  fonte: varia
+  link: http://www.github.com/ 
+
+- tipo: Google Drive  
+  fonte: varia
+  link: https://www.google.com/drive 
+
+- tipo: MEGA Folder  
+  fonte: varia
+  link: https://www.mega.nz 
+
+- tipo: Onedrive + Outlook  
+  fonte: varia
+  link: https://outlook.live.com/owa 
+
+- tipo: Dropbox  
+  fonte: varia
+  link: https://www.dropbox.com/ 
+
+- tipo: Jekyll
+  fonte: localhost
+  link: http://localhost:4000
+
+- tipo: Rails
+  fonte: localhost
+  link: http://localhost:3000
+
+- tipo: Transmission
+  fonte: localhost
+  link: http://localhost:8080
+
+- tipo: Router
+  fonte: localhost
+  link: http://192.168.1.1
+

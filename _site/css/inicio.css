@@ -1,0 +1,44 @@
+.bio {
+  padding: 10em 5em;
+}
+
+.bio img{
+  height: 30vw;
+  float: right;
+  margin: 3em;
+  padding: 1em;
+}
+
+.bio p {
+  padding: 0 1em;
+  font-size: 25pt;
+  text-align: justify;
+  text-justify: inter-word;
+
+}
+
+#bio-texto {
+  padding: 1em;
+}
+
+@media(min-width: 1700px){
+
+  #bio-texto {
+    columns: 400px;
+    column-gap: 3em;
+    column-rule: solid;
+  }
+
+}
+
+@media(max-width: 750px){
+
+  .bio {
+    padding: 5em;
+  }
+
+  .bio img {
+    display:none;
+  }
+
+}

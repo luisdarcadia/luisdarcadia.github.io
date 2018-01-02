@@ -1,0 +1,67 @@
+- tipo: Biblatex
+  fonte: manuais-referencias
+  link: http://ctan.mirrors.hoobly.com/macros/latex/contrib/biblatex/doc/biblatex.pdf
+
+- tipo: Biblatex-ABNT
+  fonte: manuais-referencias
+  link: http://mirror.utexas.edu/ctan/macros/latex/contrib/biblatex-contrib/biblatex-abnt/doc/biblatex-abnt.pdf  
+
+- tipo: csquotes
+  fonte: manuais-referencias
+  link: http://repositorios.cpai.unb.br/ctan/macros/latex/contrib/csquotes/csquotes.pdf
+
+- tipo: ABNTeX2
+  fonte: manuais-referencias
+  link: https://www.ctan.org/pkg/abntex2  
+  
+- tipo: Inputenc
+  fonte: manuais-cod
+  link: http://ctan.math.utah.edu/ctan/tex-archive/macros/latex/base/inputenc.pdf  
+
+- tipo: Babel
+  fonte: manuais-cod
+  link: http://mirrors.sorengard.com/ctan/macros/latex/required/babel/base/babel.pdf  
+
+- tipo: Greek Fontenc
+  fonte: manuais-cod
+  link: https://www.ctan.org/tex-archive/language/greek/greek-fontenc
+
+- tipo: Geometry
+  fonte: manuais-form
+  link: http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/geometry/geometry.pdf  
+
+- tipo: Setspace
+  fonte: manuais-form
+  link: http://ctan.math.utah.edu/ctan/tex-archive/macros/latex/contrib/setspace/setspace.sty  
+
+- tipo: Indentfirst
+  fonte: manuais-form
+  link: http://mirrors.ibiblio.org/CTAN/macros/latex/required/tools/indentfirst.pdf  
+
+- tipo: Changepage
+  fonte: manuais-form
+  link: http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/changepage/changepage.pdf  
+
+- tipo: Multicol
+  fonte: manuais-form
+  link: http://ctan.math.illinois.edu/macros/latex/required/tools/multicol.pdf  
+
+- tipo: Ulem
+  fonte: manuais-form
+  link: http://mirror.utexas.edu/ctan/macros/latex/contrib/ulem/ulem.pdf  
+
+- tipo: Lastpage
+  fonte: manuais-misc
+  link: http://mirror.utexas.edu/ctan/macros/latex/contrib/lastpage/lastpage.pdf  
+
+- tipo: Glossaries
+  fonte: manuais-misc
+  link: http://ctan.math.utah.edu/ctan/tex-archive/macros/latex/contrib/glossaries/glossaries-user.pdf  
+
+- tipo: Verse
+  fonte: manuais-misc
+  link: http://mirrors.ctan.org/macros/latex/contrib/verse/verse.pdf  
+
+- tipo: Hyperref
+  fonte: manuais-misc
+  link: http://mirror.utexas.edu/ctan/macros/latex/contrib/hyperref/doc/manual.pdf  

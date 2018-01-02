@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+
+  <head>
+  <meta charset="utf-8">
+
+  <title>DeMachinaMundi · Cheatsheet VIM</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Website pessoal de Luís Fernando Campos D'Arcadia.">
+  <meta name="author" content="Luís Fernando Campos D'Arcadia">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=EB+Garamond">
+
+</head>
+
+
+<body>
+
+  <div class="box">Aqui!</div>
+
+
+
+<div id="showcase-blog">
+  <h1>· DeMachinaMundi ·  </h1>
+</div>
+
+
+<nav>
+
+  <ul>
+    <li><a  class="sel-" href="/"> Início </a></li>
+    <li><a  class="sel-" href="/blog"> Blog </a></li>
+    <li><a  class="sel-" href="/start"> Starpage </a></li>
+    <li><a  class="sel-" href="/latex"> LaTeX </a></li>
+    <li><a  class="sel-" href="/sobre"> Sobre </a></li>
+  </ul>
+
+</nav>
+
+
+
+  <article>
+
+  <div class="article-header">
+
+    <h1><p>Cheatsheet VIM</p>
+</h1>
+
+        <p class="article-meta">
+
+        <time datetime="2017-12-26T05:00:00-02:00">
+          
+          em 26/12/2017
+        </time>
+
+        
+          • por Luís
+        
+
+      </p>
+
+  </div>
+
+  <div class="article-content">
+    <h2 id="modo-comando">modo comando</h2>
+
+<ul>
+  <li>acesso com “:” durante <em>modo normal</em></li>
+  <li>é a <em>barra de menu</em> do vim, juntamente com o <em>vimrc</em>
+    <ul>
+      <li>comando <em>w</em> salva o texto (write)</li>
+      <li>comando <em>q</em> sai do editor (quit)</li>
+      <li>comando <em>e</em> cria/abre arquivo novo</li>
+      <li>comando <em>h</em> oferece ajuda sobre algum comando</li>
+      <li>comando <em>!</em> pode executar comandos do shell</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="modo-normal">modo normal</h2>
+
+<pre><code class="language-plain">        k
+    h - | - l
+        j
+</code></pre>
+
+<ul>
+  <li>
+    <p>modo para movimentação</p>
+
+    <ul>
+      <li><em>w</em> próxima palavra</li>
+      <li><em>b</em> palavra anterior</li>
+      <li><em>f</em> movimenta até o caracter na linhas</li>
+      <li><em>F</em> movimenta até caracter antes na linha</li>
+      <li><em>{</em> e <em>}</em> para blocos de texto</li>
+      <li><em>gg</em> início do arquivo</li>
+      <li><em>G</em> fim do arquivo</li>
+      <li><em>0</em> primeiro caracter da linha</li>
+      <li><em>$</em> até o último caracter da linha</li>
+      <li><em>Ctrl+y</em> e <em>Ctrl+e</em> mover a tela</li>
+    </ul>
+  </li>
+  <li>modo para edição do texto
+    <ul>
+      <li><em>d</em> deletar conforme o argumento</li>
+      <li><em>dd</em> - deleta a linha</li>
+      <li><em>y</em> usado para copiar (yank)</li>
+      <li><em>yy</em> copiar a linha toda</li>
+      <li><em>p</em> usado par colar (paste), etc.</li>
+      <li><em>pp</em> cola a linha inteira</li>
+    </ul>
+  </li>
+  <li>comandos adicionais
+    <ul>
+      <li><em>x</em> deleta um caracter sob o cursor</li>
+      <li><em>r</em> substitui o caracter sob o cursor</li>
+      <li><em>~</em> altera o caracter em maiúsculo/minúsculo</li>
+      <li><em>Ctrl+a</em> incrementa o número (1)</li>
+      <li><em>Ctrl+x</em> decrementa o número (11)</li>
+    </ul>
+  </li>
+  <li>
+    <p>comandos seguem a <em>sintaxe</em> do vim</p>
+
+    <ul>
+      <li>(número)(ação)</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p>Frase para exemplos que legal haha</p>
+</blockquote>
+
+<h2 id="modo-de-inserção">modo de inserção</h2>
+
+<ul>
+  <li>usado para escrever</li>
+  <li>i para entrar em inserção
+    <ul>
+      <li><em>a</em> entra em inserção depois do caracter</li>
+      <li><em>I</em> entra em inserção no início da linha</li>
+      <li><em>A</em> entra em inserção no final da linha</li>
+      <li><em>s</em> deleta um caracter sob o cursor e entra em inserção</li>
+      <li><em>S</em> deleta a linha e entra em inserção</li>
+      <li><em>c</em> deleta conforme o argumento o entra em inserção</li>
+      <li><em>o</em> cria uma linha abaixo e entra em inserção</li>
+      <li><em>O</em> cria uma linha acima e entra em inserção</li>
+    </ul>
+  </li>
+  <li><em>ESC</em> para sair da inserção</li>
+</ul>
+
+<h2 id="modo-visual">modo visual</h2>
+
+<ul>
+  <li>seleciona texto em formatos que o modo normal não permita
+    <ul>
+      <li><em>v</em> para entrar em modo visual</li>
+      <li><em>V</em> para modo visual line</li>
+      <li><em>Ctrl+v</em> modo visual block</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="modo-de-busca">modo de busca</h2>
+
+<ul>
+  <li><em>/</em> ou <em>?</em> em modo normal para acessar</li>
+  <li><em>n</em> ou <em>N</em> para percorrer arquivo</li>
+</ul>
+
+<h2 id="vantagens-do-vim">vantagens do vim</h2>
+
+<ul>
+  <li>gratuito e de código aberto</li>
+  <li>plugins desde linguagem de programação a Tex, e outro formatos plain text</li>
+  <li>escrita em <em>plain text</em>, ou seja, sem distrações <em>sem distrações</em></li>
+  <li>documentos em plain text são imunes às mudanças nos  editores de texto</li>
+  <li>vim é 100% configurável</li>
+  <li>macros para edição
+    <ul>
+      <li>q q A , Esc k q</li>
+    </ul>
+  </li>
+  <li>facilita automação para converter documentos</li>
+  <li>importante na atualidade, em que textos são distribuídos em formato digital e formatação pode variar</li>
+</ul>
+
+
+  </div>
+
+  </br>
+  <hr>
+  </br>
+
+  <div id="disqus">
+  
+  </div>
+
+</article>
+
+
+  <footer>
+  <p> Não entendo dos <a href="/sobre"> copyrights </a> &copy; 2018 </p>
+  <p> Feito com <a href="https://jekyllrb.com/docs/home/"> Jekyll </a> e hospedado em <a href="https://pages.github.com/"> Github Pages </a> | <a href="/contato">Contato</a></p>
+</footer>
+
+</body>
+
+</html>

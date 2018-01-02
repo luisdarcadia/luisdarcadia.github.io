@@ -1,0 +1,15 @@
+---
+layout: blog
+title: Blog
+subtitle: Textos Recentes
+nav: nav-corblog
+cor: corblog
+---
+
+  <ul class="post-list">
+    {% for post in site.categories.blog %}
+      {% include bloglist.html %}
+    {% endfor %}
+  </ul>
+
+  <img src="../img/blog_collier.jpg">

@@ -1,0 +1,10 @@
+---
+tipo: escondida
+---
+
+{% include_relative common.css %}
+{% include_relative nav.css %}
+{% include_relative blog.css %}
+{% include_relative inicio.css %}
+{% include_relative blog-post.css %}
+{% include_relative start.css %}

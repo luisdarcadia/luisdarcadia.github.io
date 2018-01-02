@@ -1,0 +1,72 @@
+:root {
+  --c_red: #CA3E3A;
+  --c_blue: #126B8C;
+  --c_green: #3C6152;
+  --c_yellow: #CAA73A;
+  --c_black: #121714;
+  --c_pastel: #B08E55;
+  --main_ff: font-family: 'EB Garamond', serif;
+}
+
+body {
+  background-color: var(--c_black);
+  color: var(--c_pastel);
+  font-family: 'EB Garamond', serif;
+
+  margin: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  font-size: 16pt;
+  text-decoration: none;
+  color: var(--c_pastel);
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+.gridquad {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+
+  width: 70%;
+  margin-top: 15px;
+}
+
+.container {
+  margin-top: 100px;
+  display: grid;
+  justify-items: center;
+
+}
+
+form input {
+  width: 100%;
+  text-align: center;
+  background-color: var(--c_pastel);
+  color: #000000;
+  margin: 10px;
+  border: 0;
+}
+
+input[type=text]{
+  font-size: 20pt;
+}
+
+footer * {
+  font-size: 13pt;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  margin-top: 30px;
+}

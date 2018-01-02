@@ -1,0 +1,35 @@
+- tipo: Comandos
+  fonte: wikibooks
+  link: https://en.wikibooks.org/wiki/LaTeX/Macros#New_commands
+
+- tipo: Ambientes
+  fonte: wikibooks
+  link: https://en.wikibooks.org/wiki/LaTeX/Macros#New_environments
+
+- tipo: Referências Cruzadas
+  fonte: wikibooks
+  link: https://en.wikibooks.org/wiki/LaTeX/Labels_and_Cross-referencing
+
+- tipo: Notas
+  fonte: wikibooks
+  link: https://en.wikibooks.org/wiki/LaTeX/Footnotes_and_Margin_Notes  
+
+- tipo: Parágrafos
+  fonte: sharelatex
+  link: https://www.sharelatex.com/learn/Paragraphs_and_new_lines
+
+- tipo: Tipografia
+  fonte: sharelatex
+  link: https://www.sharelatex.com/learn/Bold,_italics_and_underlining
+
+- tipo: Imagens
+  fonte: sharelatex
+  link: https://www.sharelatex.com/learn/Inserting_Images
+
+- tipo: Tabelas
+  fonte: sharelatex
+  link: https://www.sharelatex.com/learn/Tables
+
+- tipo: Cabeçalhos e rodapés
+  fonte: sharelatex
+  link: https://www.sharelatex.com/learn/Headers_and_footers  
