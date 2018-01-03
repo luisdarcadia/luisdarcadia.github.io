@@ -62,20 +62,20 @@ input[type=text]{
 }
 
 footer * {
-  font-size: 13pt;
+  font-size: 12pt;
   text-align: center;
   padding: 0;
   margin: 0;
 }
 
 footer {
-  margin-top: 30px;
+  margin-top: 10vh;
 }
 
 @media(max-width: 750px){
 
   .container {
-    width: 95%;
+    width: 100vw;
   }
 
 }

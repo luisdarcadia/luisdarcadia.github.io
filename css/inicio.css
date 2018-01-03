@@ -3,7 +3,7 @@
 }
 
 .bio img{
-  height: 30vw;
+  height: 25vw;
   float: right;
   margin: 3em;
   padding: 1em;
@@ -11,7 +11,7 @@
 
 .bio p {
   padding: 0 1em;
-  font-size: 25pt;
+  font-size: 20pt;
   text-align: justify;
   text-justify: inter-word;
 

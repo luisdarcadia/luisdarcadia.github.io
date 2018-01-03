@@ -6,9 +6,19 @@
   grid-column-start: 3;
   grid-column-end: span2;
   align-items: center;
+  width: 80%;
 }
 
-@media(max-width: 750px){
+@media(max-width:1200px){
+
+  .coluna-forms {
+    grid-column-start: unset;
+    gris-column-end:unset;
+  }
+
+}
+
+@media(max-width: 800px){
 
   .gridquad {
     grid-template-columns: 1fr 1fr;
@@ -21,9 +31,15 @@
   }
 
   .forms form input {
-    width: 80vw;
+    width: 90vw;
   }
+
   .coluna-forms form input {
-    width: 80vw;
+    width: 95%;
   }
+
+  .gridquad ul {
+    padding: 0;
+  }
+
 }
