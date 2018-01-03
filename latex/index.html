@@ -5,12 +5,13 @@ subtitle: LaTeX
 nav: nav-tex
 cor: tex
 ---
+
 <div class="container">
 <h1> Recursos </h1>
 
 <div class="gridquad"> 
 
-  <div id="coluna">
+  <div class="coluna">
   <h2> Básico </h2>
     {% for recurso in site.data.recursos %}
       {% if recurso.fonte == 'sharelatex' %} 
@@ -19,7 +20,7 @@ cor: tex
     {% endfor %}
   </div>
 
-  <div id="coluna">
+  <div class="coluna">
   <h2> Macros e paratexto </h2>
   {% for recurso in site.data.recursos %}
       {% if recurso.fonte == 'wikibooks' %} 
@@ -29,7 +30,7 @@ cor: tex
   </div>
 
 
-<div id="coluna-forms">
+<div class="coluna-forms">
 
 <h2> Busca </h2>
   <form action="https://www.ctan.org/search" method="get">
@@ -53,7 +54,7 @@ cor: tex
 
 <div class="gridquad">
 
-  <div id="coluna">
+  <div class="coluna">
 
     <h2> Referências </h2>
 
@@ -65,7 +66,7 @@ cor: tex
 
   </div>
 
-  <div id="coluna">
+  <div class="coluna">
 
     <h2> Língua e Codificação </h2>
 
@@ -77,7 +78,7 @@ cor: tex
 
   </div>
 
-  <div id="coluna">
+  <div class="coluna">
 
     <h2> Formatação </h2>
 
@@ -89,7 +90,7 @@ cor: tex
 
   </div>
 
-  <div id="coluna">
+  <div class="coluna">
 
     <h2> Misc </h2>
     {% for manuais in site.data.manuais %}

@@ -1,8 +1,8 @@
-#coluna {
+.coluna {
   padding: 2em;
 }
 
-#coluna-forms{
+.coluna-forms{
   grid-column-start: 3;
   grid-column-end: span2;
   align-items: center;
@@ -14,9 +14,13 @@
     grid-template-columns: 1fr 1fr;
   }
 
-  #coluna-forms {
+  .coluna-forms {
     grid-column-start: 1;
     grid-column-end: span2;
+
   }
 
+  .coluna-forms form input {
+    width: 80vw;
+  }
 }
