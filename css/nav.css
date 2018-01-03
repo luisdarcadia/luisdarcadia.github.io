@@ -140,7 +140,7 @@ nav li.sel-tex:hover, nav a.sel-tex:hover, #nav-tex {
     background-color: rgb(18, 23, 20, 0.9);
     padding: 0;
 
-    font-size: 30pt;
+    font-size: 20pt;
     text-align: center;
     justify-content: center;
     align-content: center;
@@ -150,7 +150,7 @@ nav li.sel-tex:hover, nav a.sel-tex:hover, #nav-tex {
     background-color: rgb(18, 23, 20, 0.9);
     padding: 0;
 
-    font-size: 30pt;
+    font-size: 20pt;
     text-align: center;
     justify-content: center;
     align-content: center;
@@ -159,6 +159,10 @@ nav li.sel-tex:hover, nav a.sel-tex:hover, #nav-tex {
   nav ul {
     display: grid;
     width: unset;
+  }
+
+  nav li a {
+    font-size: 13pt;
   }
 
 }

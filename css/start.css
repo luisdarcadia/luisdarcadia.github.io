@@ -20,6 +20,9 @@
 
   }
 
+  .forms form input {
+    width: 80vw;
+  }
   .coluna-forms form input {
     width: 80vw;
   }
