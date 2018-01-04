@@ -16,8 +16,8 @@ categories: blog
 
 Depois de adotar o *LaTeX* e o *git*, os dias de `versãofinal.doc`, `versãofinal2.docx`, `versaofinal-agoravai.doc` acabaram.
 
-Como como utilizo o *LaTeX*, minha tese é basicamente um conjunto de códigos-fonte que eu compilo para gerar o único PDF.
-Abaixo copiei a estrutura de pastas da minha tese. O comando `\input{}` do *LaTeX* permite essa estrutura de arquivos.
+Com o *LaTeX*, minha tese é basicamente um conjunto de códigos-fonte que eu compilo para gerar o único PDF.
+Abaixo copiei a estrutura de pastas, algo que o comando `\input{}` do *LaTeX* permite.
 
 ```
 .
@@ -45,7 +45,7 @@ Abaixo copiei a estrutura de pastas da minha tese. O comando `\input{}` do *LaTe
 └── compilartese.sh
 ```
 
-Além dos arquivos `.tex` com o texto da tese, estão os arquivos `.bib` da bibliografia e um *script* para a compilação que já gera a bibliografia.
+Além dos arquivos `.tex` com os textos da tese e os anexos, estão na árvore os arquivos `.bib` da bibliografia e um *script* para a compilação que já gera a bibliografia.
 No Word um arquivo desse tamanho iria dar *crash* a cada meia hora, mas esse é outro assunto.
 
 # Git e dropbox
@@ -61,6 +61,10 @@ Quanto às flutuações no código, a diferença entre os arquivos de texto é "
 Há várias maneiras de armazenar repositórios remotos, e *sites* como [Github][github] e [Bitbucket][bitbucket] dão oportunidade de criar e armanezenar repositórios, permitindo *pull requests*, *wikis* e outros recursos para programadores.
 
 Como meus objetivos são mais simples, optei por manter o meu repositório na minha pasta no dropbox. 
+
+# Usando o git
+
+Os comandos em seguida cuidam dos processos básicos.
 
 ```bash
 git init --bare [pasta Dropbox][nome da pasta].git
@@ -79,6 +83,7 @@ Então cole os seus arquivos, adicione ao repositório
 git add -A
 ```
 
+Há ainda a opção de inicializar um repositório na própria pasta do projeto e adicionar a pasta do *Dropbox* como um remote, mas colar no repositório clonado é mais simples.
 Trabalhe até ter uma versão satisfatória e faça o commit e envie-o para o repositório remoto
 
 ```
@@ -88,7 +93,7 @@ git push -u origin master
 
 Essa versão da redação da sua tese ficará literalmente arquivada para sempre, sendo acessível a qualquer momento clonando o repositório novamente ou utilizando `git checkout [hash do commit]`.
 
-Perceba que no momento do `commit` é informada uma mensagem, que para mim é o momento de ter consciência do progresso real do trabalho, o comando `git log` oferece uma lista de todos os *commits*.
+Perceba que no momento do `commit` é passada uma mensagem. Para mim é o momento de tomar consciência do progresso real do trabalho, o comando `git log` oferece uma lista de todos os *commits*.
 Por exemplo, ao inserir citações ou transcrições, esse progresso está registrado em um `commit`.
 
 Ainda, ao trabalhar em vários computadores, o git oferece opções de `diff` e o comando `merge`, que lida com conflito e mescla os arquivos sem que haja perda de dados.
