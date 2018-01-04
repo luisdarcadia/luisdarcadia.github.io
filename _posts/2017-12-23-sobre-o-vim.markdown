@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2017-12-25 05:00:00 -0200
-title: Escrevendo na linha de comando
+title: "Escrevendo na linha de comando"
 author: Luís
 comments: true
 nav: corblog
 cor: corblog
-categories: blog tech vim
+categories: blog
 ---
 [vi]:https://pt.wikipedia.org/wiki/Vi
 [BramMoolenar]:http://www.moolenaar.net/
@@ -17,7 +17,7 @@ categories: blog tech vim
 
 # Um editor de textos na linha de comando
 
-*VI IMproved* é uma extensão do [vi][vi] criada pelo programador holandês [Bram Moolenar][BramMoolenar]. O programa, no entanto, não precisa se limitar à programação.
+*VI IMproved* é uma extensão do [vi][vi] criada pelo programador holandês [Bram Moolenar][BramMoolenar]. Muito usado como editor de códigos-fonte, ele não precisa se limitar à programação.
 Escritores, *bloggers*, jornalistas e estudantes fazem uso do programa, havendo uma série de *plugins* criados para extender sua funcionalidade nesse sentido.
 
 Comecei utilizando o vim para editar arquivos de configuração do Linux na linha de comando.

@@ -6,7 +6,7 @@ author: Luís
 comments: true
 cor: corblog
 nav: nav-corblog
-categories: blog git latex tech
+categories: blog
 ---
 
 [git]:https://git-scm.com/

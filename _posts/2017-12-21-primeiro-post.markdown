@@ -6,7 +6,7 @@ author: Luís
 comments: true
 nav: corblog
 cor: corblog
-category: blog jekyll markdown
+category: blog
 ---
 
 [Markdown]:https://daringfireball.net/projects/markdown/
