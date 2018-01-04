@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2017-12-25 05:00:00 -0200
-title: Sobre o VIM
+title: Escrevendo na linha de comando
 author: Luís
 comments: true
 nav: corblog
 cor: corblog
-categories: blog
+categories: blog tech vim
 ---
 [vi]:https://pt.wikipedia.org/wiki/Vi
 [BramMoolenar]:http://www.moolenaar.net/
@@ -47,22 +47,19 @@ No entanto, para a redação do texto em si, ou seja, o processo de inserir, apa
 Sua relação com computadores mais antigos é também responsável por essa eficiência. Tendo em mente um usuário sem mouse.
 Todas as funcionalidades do *vim* são acessíveis sem que seja necessário afastar as mãos do *home row* do teclado. Esse fato por si só torna o trabalho com o texto mais rápido.
 
-Não bastasse disso, grande parte da eficiência do *vim* é fruto de sua maior peculiaridade: a modalidade.
-
+Não bastasse isso, grande parte da eficiência do *vim* é fruto de sua maior peculiaridade: a modalidade.
 
 # Editor Modal
 
 Quando escrevemos com lápis e papel, nunca nos movimentamos pelo texto com o lápis em contato com a página quando não estamos escrevendo.
 Com essa mesma lógica o *vim* possui modos diferentes para a redação e para a edição de um texto já escrito.
-
-Os modos do editor estão na colinha abaixo:
+Os modos do editor, resumindo:
 
 >>>
 * **normal** - modo padrão, projetado para a movimentação e edição, acessível com `Esc` ou `Ctrl + [`
 * **inserção** - modo para escrita em si, acessível com `i`
 * **visual** - modo para a seleção visual, ocorrendo por caractere `v`, por linha `V` ou (mais complicado) por bloco `Ctrl + v`
 * **comando** - modo da interface do usuário, com `:`
-
 
 Ao abrir o programa, o usuário se encontra em modo normal, que é o modo para movimentação e alteração do texto.
 Para inserir texto, devemos entra no modo de *inserção*, pressionando a tecla `i`. É nesse modo, e somente nesse modo, que o texto é inserido. Pressionamos `Esc` ou `ctrl + [` para retornarmos ao modo normal.
