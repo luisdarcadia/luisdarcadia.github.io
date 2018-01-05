@@ -6,7 +6,7 @@ author: Luís
 comments: false
 nav: corblog
 cor: corblog
-category: rascunhos lit
+categories: rascunhos lit
 ---
 
 *Dreamsongs* reúne contos do agora celebridade autor da *Canção do Gelo e do Fogo*, George R. R. Martin.
