@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "_Dreamsongs_ de George R. R. Martin"
-date: 2018-01-95 04:35:00 -0200
+date: 2018-01-05 04:35:00 -0200
 author: Luís
 comments: false
 nav: corblog
 cor: corblog
-category: template
+category: rascunhos lit
 ---
 
 *Dreamsongs* reúne contos do agora celebridade autor da *Canção do Gelo e do Fogo*, George R. R. Martin.
