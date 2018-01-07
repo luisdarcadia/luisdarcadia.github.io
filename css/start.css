@@ -13,7 +13,7 @@
 
   .coluna-forms {
     grid-column-start: unset;
-    gris-column-end:unset;
+    grid-column-end: unset;
   }
 
 }
@@ -27,11 +27,16 @@
   .coluna-forms {
     grid-column-start: 1;
     grid-column-end: span2;
+    width: 95%;
 
   }
 
   .forms form input {
-    width: 90vw;
+    width: 95%;
+  }
+
+  .coluna {
+    padding: 0;
   }
 
   .coluna-forms form input {

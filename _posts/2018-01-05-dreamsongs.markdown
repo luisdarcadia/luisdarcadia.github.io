@@ -4,7 +4,7 @@ title: "_Dreamsongs_ de George R. R. Martin"
 date: 2018-01-05 04:35:00 -0200
 author: Luís
 comments: false
-nav: corblog
+nav: nav-blogpost
 cor: corblog
 categories: rascunhos lit
 ---

@@ -9,3 +9,4 @@ tipo: escondida
 {% include_relative blog-post.css %}
 {% include_relative start.css %}
 {% include_relative sobre.css %}
+{% include_relative showcase.css %}

@@ -2,17 +2,9 @@
   <i class="fa fa-arrows-alt" aria-hidden="true"></i>
 </div>
 
-{% if page.layout != 'post' %}
-<div id="showcase">
+<div id="showcase-{{page.nav}}">
   <h1>· {{site.title}} · {{page.subtitle}} </h1>
 </div>
-{% endif %}
-
-{% if page.layout == 'post' %}
-<div id="showcase-blog">
-  <h1>· {{site.title}} · {{page.subtitle}} </h1>
-</div>
-{% endif %}
 
 <nav>
 

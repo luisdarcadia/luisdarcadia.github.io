@@ -4,7 +4,7 @@ date: 2017-12-25 05:00:00 -0200
 title: "Escrevendo na linha de comando"
 author: Luís
 comments: true
-nav: corblog
+nav: nav-blogpost
 cor: corblog
 categories: blog
 ---

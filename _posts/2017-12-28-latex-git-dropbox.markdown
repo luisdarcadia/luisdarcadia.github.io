@@ -5,7 +5,7 @@ title:  "Latex e Git e Dropbox"
 author: Luís
 comments: true
 cor: corblog
-nav: nav-corblog
+nav: nav-blogpost
 categories: blog
 ---
 
