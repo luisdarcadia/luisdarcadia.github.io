@@ -22,9 +22,9 @@
   fonte: manuais-cod
   link: http://mirrors.sorengard.com/ctan/macros/latex/required/babel/base/babel.pdf  
 
-- tipo: Greek Fontenc
+- tipo: Teubner (Filologia Clássica)
   fonte: manuais-cod
-  link: https://www.ctan.org/tex-archive/language/greek/greek-fontenc
+  link: https://www.tug.org/TUGboat/tb23-3-4/tb75beccteub.pdf
 
 - tipo: Geometry
   fonte: manuais-form
