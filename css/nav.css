@@ -2,7 +2,7 @@ nav {
   width: 100%;
 }
 
-nav.fas, #menu {
+#menu {
   display: none;
 }
 
