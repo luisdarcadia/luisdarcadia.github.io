@@ -25,12 +25,14 @@
 
   #bio-texto {
     columns: 600px;
-    column-gap: 3em;
+    column-gap: 10em;
     column-rule: solid;
+    margin-top: 10em;
   }
 
   .bio img {
-    height: 20vh;
+    height: 30vh;
+    margin-top: 10em;
   }
 
 }

@@ -2,7 +2,7 @@
   background-image: url(../img/vanitas_inicio.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 25vh;
+  height: 20vh;
 
   display: grid;
   align-content: end;
@@ -17,7 +17,7 @@
   background-image: url(../img/still-life-start.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 25vh;
+  height: 20vh;
 
   display: grid;
   align-content: end;
@@ -32,7 +32,7 @@
   background-image: url(../img/vanitas_blogmain.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 25vh;
+  height: 20vh;
 
   display: grid;
   align-content: end;
@@ -47,7 +47,7 @@
   background-image: url(../img/vanitas_tex.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 25vh;
+  height: 20vh;
 
   display: grid;
   align-content: end;
@@ -62,7 +62,7 @@
   background-image: url(../img/still-life-sobre.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 25vh;
+  height: 20vh;
 
   display: grid;
   align-content: end;
