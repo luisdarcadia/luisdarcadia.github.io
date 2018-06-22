@@ -202,6 +202,7 @@
   #showcase-nav-inicio h1 {
     background-color: rgb(18, 23, 20, 0.9);
 
+    font-size: calc(3vw + 1vh + 30%);
     text-align: center;
     justify-content: center;
     align-content: center;
@@ -210,6 +211,7 @@
   #showcase-nav-start h1 {
     background-color: rgb(18, 23, 20, 0.9);
 
+    font-size: calc(3vw + 1vh + 30%);
     text-align: center;
     justify-content: center;
     align-content: center;
@@ -218,6 +220,7 @@
   #showcase-nav-tex h1 {
     background-color: rgb(18, 23, 20, 0.9);
 
+    font-size: calc(3vw + 1vh + 30%);
     text-align: center;
     justify-content: center;
     align-content: center;
@@ -225,6 +228,7 @@
   #showcase-nav-sobre h1 {
     background-color: rgb(18, 23, 20, 0.9);
 
+    font-size: calc(3vw + 1vh + 30%);
     text-align: center;
     justify-content: center;
     align-content: center;
@@ -233,6 +237,7 @@
   #showcase-nav-bloghome h1 {
     background-color: rgb(18, 23, 20, 0.9);
 
+    font-size: calc(3vw + 1vh + 30%);
     text-align: center;
     justify-content: center;
     align-content: center;
@@ -241,7 +246,7 @@
   #showcase-nav-blogpost h1 {
     background-color: rgb(18, 23, 20, 0.9);
 
-    font-size: calc(3vw + 1vh + 40%);
+    font-size: calc(3vw + 1vh + 30%);
     text-align: center;
     justify-content: center;
     align-content: center;

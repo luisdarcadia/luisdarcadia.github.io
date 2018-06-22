@@ -20,7 +20,7 @@ li {
 }
 
 a {
-  font-size: calc(1vh + 0.5vw + 20%);
+  font-size: calc(1.5*(1.5vh));
   text-decoration: none;
   color: var(--c_pastel);
 }
@@ -29,17 +29,21 @@ a:hover {
   font-weight: bold;
 }
 
+h1 {
+  font-size: calc(0.5 * 6vh)
+}
+
 .gridquad {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   align-items: center;
   justify-items: center;
   width: 70%;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .container {
-  margin-top: 15em;
+  margin-top: 14vh;
   display: grid;
   justify-items: center;
 }
@@ -54,7 +58,7 @@ form input {
 }
 
 input[type=text]{
-  font-size: 20pt;
+  font-size: calc(2*(2vh));
   width: 450px;
 }
 
@@ -69,7 +73,7 @@ footer {
   margin-top: 10vh;
 }
 
-@media(max-width: 750px){
+@media(max-width: 786px){
 
   .container {
     width: 100vw;
