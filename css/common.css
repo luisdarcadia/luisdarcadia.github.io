@@ -30,22 +30,7 @@ a:hover {
 }
 
 h1 {
-  font-size: calc(0.5 * 6vh)
-}
-
-.gridquad {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  align-items: center;
-  justify-items: center;
-  width: 70%;
-  margin-top: 10px;
-}
-
-.container {
-  margin-top: 14vh;
-  display: grid;
-  justify-items: center;
+  font-size: calc(0.5 * 6vh);
 }
 
 form input {
@@ -53,12 +38,12 @@ form input {
   text-align: center;
   background-color: var(--c_pastel);
   color: #000000;
-  margin: 10px;
   border: 0;
 }
 
 input[type=text]{
-  font-size: calc(2*(2vh));
+  margin-top: 2em;
+  font-size: 16pt;
   width: 450px;
 }
 
@@ -70,13 +55,11 @@ footer * {
 }
 
 footer {
-  margin-top: 10vh;
+  margin-top: 5vh;
+  bottom: 2px;
 }
-
-@media(max-width: 786px){
-
-  .container {
-    width: 100vw;
-  }
-
+ 
+.container {
+  margin-top: 5vw;
+  padding: 1em;
 }

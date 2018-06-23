@@ -13,6 +13,9 @@ nav * {
 
 nav > ul > li > ul li {
   float: left;
+  animation-name: menu2;
+  animation-duration: 600ms;
+  transform-origin: left center;
 }
 
 nav > ul > li > ul li:last-child {
@@ -20,7 +23,7 @@ nav > ul > li > ul li:last-child {
 }
 
 nav > ul > li > ul li a {
-  font-size: 3vh;
+  font-size: 2.5vh;
   padding: 16px 25px;
 }
 
@@ -152,4 +155,11 @@ nav li.sel-tex:hover, nav a.sel-tex:hover, #nav-tex {
   0%{transform: rotateX(-90deg); opacity: 0;}
   60%{transform: rotateX(50deg);}
   100%{transform: rotateX(0deg); opacity: 1; }
+}
+
+@keyframes menu2 {
+
+  0%{transform: rotate3d(y); opacity: 0;}
+  60%{transform: rotate3d(y);}
+  100%{transform: rotate3d(y); opacity: 1; }
 }

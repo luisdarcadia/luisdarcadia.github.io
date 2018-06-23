@@ -1,0 +1,14 @@
+.texgrid1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  padding: 3em;
+  text-align: left;
+  font-size: 20pt;
+}
+
+#buscatex {
+  display: grid;
+  justify-items: center;
+}
+

@@ -1,50 +1,40 @@
-.coluna {
-  padding: 2em;
+.forms {
+  display: grid;
+  justify-items: center;
 }
 
-.coluna-forms{
-  grid-column-start: 3;
-  grid-column-end: span2;
-  align-items: center;
-  width: 80%;
+.gridquad {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-items: center;
+  margin-top: 2em;
+  margin-left: 3em;
+  margin-right: 3em;
+  margin-bottom: 0;
 }
 
-@media(max-width:1200px){
+@media(min-width:1366px){
 
-  .coluna-forms {
-    grid-column-start: unset;
-    grid-column-end: unset;
+  .gridquad {
+    margin-right: 13em;
+    margin-left: 13em;
   }
-
 }
 
-@media(max-width: 800px){
+@media(max-width: 786px){
 
   .gridquad {
     grid-template-columns: 1fr 1fr;
-  }
-
-  .coluna-forms {
-    grid-column-start: 1;
-    grid-column-end: span2;
-    width: 95%;
-
-  }
-
-  .forms form input {
-    width: 95%;
-  }
-
-  .coluna {
+    margin: 0;
     padding: 0;
   }
 
-  .coluna-forms form input {
-    width: 95%;
+  .gridquad > div > ul {
+    padding: 0 !important;
   }
 
-  .gridquad ul {
-    padding: 0;
+  .forms input {
+    width: 100%;
+    margin: 0;
   }
-
 }
