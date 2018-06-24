@@ -6,28 +6,26 @@ nav: nav-tex
 cor: tex
 ---
 
-<div class="texgrid1">
-  <div>
+<div class="texgrid">
+  <ul>
     <h2> Básico </h2>
       {% for recurso in site.data.recursos %}
         {% if recurso.fonte == 'sharelatex' %} 
-          <a href="{{recurso.link}}"> {{recurso.tipo}} </a><br>
+        <li><a href="{{recurso.link}}"> {{recurso.tipo}} </a><li>
         {% endif %}
       {% endfor %}
-  </div>
+  </ul>
 
-  <div>
+  <ul>
     <h2> Macros e paratexto </h2>
     {% for recurso in site.data.recursos %}
         {% if recurso.fonte == 'wikibooks' %} 
-          <a href="{{recurso.link}}"> {{recurso.tipo}} </a><br>
+        <li><a href="{{recurso.link}}"> {{recurso.tipo}} </a><li>
         {% endif %}
     {% endfor %}
-  </div>
-</div>
+  </ul>
 
-<div id="buscatex">
-  <h2> Busca </h2>
+  <div id="buscatex">
     <form action="https://www.ctan.org/search" method="get">
     <input name="phrase" accept-charset="ISO-8859-1" type="text" placeholder="Busca em CTAN">
     </form>
@@ -39,36 +37,46 @@ cor: tex
     <form action="https://tex.stackexchange.com/search" method="get"  role="search">
     <input name="q" type="text" placeholder="Latex no StackExchange" value="" maxlength="240" />
     </form>
+  </div>
 </div>
     
 
-  <h1> Manuais de pacotes </h1>
+<div class="texgrid">
 
+  <ul>
       <h2> Referências </h2>
       {% for manuais in site.data.manuais %}
           {% if manuais.fonte == 'manuais-referencias' %} 
-            <a href="{{manuais.link}}"> {{manuais.tipo}} </a><br>
+            <li><a href="{{manuais.link}}"> {{manuais.tipo}} </a></li>
           {% endif %}
       {% endfor %}
+  </ul>
 
-
-      <h2> Língua e Codificação </h2>
+  <ul>
+     <h2> Língua e Codificação </h2>
       {% for manuais in site.data.manuais %}
           {% if manuais.fonte == 'manuais-cod' %} 
-            <a href="{{manuais.link}}"> {{manuais.tipo}} </a><br>
+            <li><a href="{{manuais.link}}"> {{manuais.tipo}} </a></li>
           {% endif %}
       {% endfor %}
+  </ul>
 
+
+  <ul>
       <h2> Formatação </h2>
       {% for manuais in site.data.manuais %}
           {% if manuais.fonte == 'manuais-form' %} 
-            <a href="{{manuais.link}}"> {{manuais.tipo}} </a><br>
+            <li><a href="{{manuais.link}}"> {{manuais.tipo}} </a></li>
           {% endif %}
       {% endfor %}
+  </ul>
 
+  <ul>
       <h2> Misc </h2>
       {% for manuais in site.data.manuais %}
           {% if manuais.fonte == 'manuais-misc' %} 
-            <a href="{{manuais.link}}"> {{manuais.tipo}} </a><br>
+            <li><a href="{{manuais.link}}"> {{manuais.tipo}} </a></li>
           {% endif %}
       {% endfor %}
+  </ul>
+</div>

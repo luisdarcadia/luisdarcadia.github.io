@@ -3,6 +3,11 @@
   justify-items: center;
 }
 
+.forms input {
+  width: 600px;
+  height: 40px;
+}
+
 .gridquad {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -13,12 +18,22 @@
   margin-bottom: 0;
 }
 
+.gridquad ul {
+  border-left: solid 1px;
+}
+
 @media(min-width:1366px){
 
   .gridquad {
     margin-right: 13em;
     margin-left: 13em;
+    margin-top: 5em;
   }
+  
+  .gridquad a {
+    font-size: 13pt;
+  }
+
 }
 
 @media(max-width: 786px){
@@ -29,12 +44,16 @@
     padding: 0;
   }
 
+  .gridquad ul {
+    border-left: none;
+  }
+
   .gridquad > div > ul {
     padding: 0 !important;
   }
 
   .forms input {
-    width: 100%;
+    width: 300px;
     margin: 0;
   }
 }

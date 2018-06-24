@@ -1,14 +1,48 @@
-.texgrid1 {
+.texgrid {
+  margin-top: 40px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-items: center;
-  padding: 3em;
-  text-align: left;
-  font-size: 20pt;
 }
 
 #buscatex {
-  display: grid;
-  justify-items: center;
+  padding: 0;
+  margin: 10px 0;
+  justify-content: right;
+  grid-column-end: span 2;
 }
 
+#buscatex input {
+  width: 110% !important;
+}
+
+@media(min-width: 1366px){
+
+  #buscatex input {
+    width: 500px !important;
+  }
+ 
+}
+
+@media(max-width: 786px){
+
+  .texgrid {
+    margin: 10px;
+    grid-template-columns: 1fr 1fr;
+    padding: 0;
+  }
+
+  .texgrid > ul > li > a, .texgrid > ul > h2 {
+    font-size: 13pt !important;
+    padding: 0;
+  }
+
+  .texgrid ul {
+    padding: 0;
+  }
+
+  #buscatex input {
+    width: 100% !important;
+  }
+
+}

@@ -1,5 +1,5 @@
 nav {
-  margin-top: 1em;
+  margin-top: 0.6em;
 }
 
 nav * {
@@ -23,8 +23,8 @@ nav > ul > li > ul li:last-child {
 }
 
 nav > ul > li > ul li a {
-  font-size: 2.5vh;
-  padding: 16px 25px;
+  font-size: 2h;
+  padding: 10px 25px;
 }
 
 nav li.sel-inicio:hover, nav a.sel-inicio:hover, #nav-inicio {
@@ -60,18 +60,24 @@ nav li.sel-tex:hover, nav a.sel-tex:hover, #nav-tex {
 @media(max-width: 786px){
   
   nav, ul {
-    margin: 0;
+    margin: 1px 0;
+  }
+
+  nav a {
+    font-size: 16pt;
   }
 
   ul#dropdown-content {
     position: absolute;
     width: 100%;
-    margin-top: 45px;
+    margin-top: 30px;
   }
 
   .menu {
     display: block;
-    padding: 1em;
+    padding: 0.3em;
+    font-size: 12pt;
+    min-height: 30px;
   }
 
   nav * {

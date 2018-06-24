@@ -3,10 +3,11 @@
   grid-template-columns: 2fr 1fr;
   align-items: center;
   justify-items: center;
+  margin-top: 4em;
 }
 
 .bio img{
-  height: 30vh;
+  height: 20vh;
 }
 
 .bio p, .bio a {
@@ -18,7 +19,6 @@
 
 #bio-texto {
   padding: 0em 5em;
-  border-left: solid 5px;
   margin-left: 10vh;
 }
 
@@ -39,7 +39,7 @@
   }
 
   #bio-texto {
-    border-left: solid 5px;
+    border-left: solid 2px;
     margin: 0px 90px;
   }
 
