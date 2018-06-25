@@ -7,10 +7,6 @@ nav * {
   padding: 0;
 }
 
-.menu {
-  display: none;
-}
-
 nav > ul > li > ul li {
   float: left;
   animation-name: menu2;
@@ -23,23 +19,23 @@ nav > ul > li > ul li:last-child {
 }
 
 nav > ul > li > ul li a {
-  font-size: 2h;
+  font-size: 15pt;
   padding: 10px 25px;
 }
 
-nav li.sel-inicio:hover, nav a.sel-inicio:hover, #nav-inicio {
+nav li.sel-inicio:hover, #burger_menu li a.sel-inicio:hover, nav a.sel-inicio:hover, #nav-inicio {
   background-color: var(--c_green);
   color: var(--c_black);
   font-weight: bold;
 }
 
-nav li.sel-sobre:hover, nav a.sel-sobre:hover, #nav-sobre {
+nav li.sel-sobre:hover, #burger_menu a.sel-sobre:hover, nav a.sel-sobre:hover, #nav-sobre {
   background-color: var(--c_pastel);
   color: var(--c_black);
   font-weight: bold;
 }
 
-nav li.sel-corblog:hover, nav a.sel-corblog:hover, #nav-bloghome, #nav-blogpost {
+nav li.sel-corblog:hover, #burger_button a.sel-corblog:hover, nav a.sel-corblog:hover, #nav-bloghome, #nav-blogpost {
   background-color: var(--c_red);
   color: var(--c_black);
   font-weight: bold;
@@ -57,31 +53,31 @@ nav li.sel-tex:hover, nav a.sel-tex:hover, #nav-tex {
   font-weight: bold;
 }
 
+#burger_button {
+  display: none;
+}
+
+#burger_menu {
+  display: none;
+}
+
 @media(max-width: 786px){
   
-  nav, ul {
-    margin: 1px 0;
+  .burger_menu li a {
+    font-size: 20pt !important;
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    overflow: hidden;
+    min-width: 150px;
   }
 
-  nav a {
-    font-size: 16pt;
-  }
-
-  ul#dropdown-content {
-    position: absolute;
-    width: 100%;
-    margin-top: 30px;
-  }
-
-  .menu {
-    display: block;
-    padding: 0.3em;
-    font-size: 12pt;
-    min-height: 30px;
-  }
-
-  nav * {
-    display: grid;
+  .burger_menu li {
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    overflow: hidden;
+    min-width: 150px;
   }
 
   ul#dropdown-content li {
@@ -99,61 +95,27 @@ nav li.sel-tex:hover, nav a.sel-tex:hover, #nav-tex {
     background-color: var(--c_black);
   }
 
-  nav li:hover > ul#dropdown-content li:nth-child(2) {
-    display: block;
-    opacity: 0;
-    transform-origin: top center;
-    animation-name: menu;
-    animation-delay: 200ms;
-    animation-duration: 0.3s;
-    animation-fill-mode: forwards;
-    background-color: var(--c_black);
+  #burger_button {
+    display: inline !important;
+    user-select: none !important;
+    z-index: 3 !important;
   }
 
-  nav li:hover > ul#dropdown-content li:nth-child(3) {
+  #burger_menu {
     display: block;
-    opacity: 0;
-    transform-origin: top center;
-    animation-name: menu;
-    animation-delay: 400ms;
-    animation-duration: 0.3s;
-    animation-fill-mode: forwards;
-    background-color: var(--c_black);
+    width: 0px;
+    padding-left: 0;
   }
 
-  nav li:hover > ul#dropdown-content li:nth-child(4) {
-    display: block;
-    opacity: 0;
-    transform-origin: top center;
-    animation-name: menu;
-    animation-delay: 600ms;
-    animation-duration: 0.3s;
-    animation-fill-mode: forwards;
+  .burger_menu {
+    min-height: 100%;
+    width: 200px;
+    position: absolute;
+    z-index: 1;
     background-color: var(--c_black);
+    transition: 0.8s;
+    overflow-x: hidden;
   }
-
-  nav li:hover > ul#dropdown-content li:nth-child(5) {
-    display: block;
-    opacity: 0;
-    transform-origin: top center;
-    animation-name: menu;
-    animation-delay: 800ms;
-    animation-duration: 0.3s;
-    animation-fill-mode: forwards;
-    background-color: var(--c_black);
-  }
-
-  nav li:hover > ul#dropdown-content li:nth-child(6) {
-    display: block;
-    opacity: 0;
-    transform-origin: top center;
-    animation-name: menu;
-    animation-delay: 1000ms;
-    animation-duration: 0.3s;
-    animation-fill-mode: forwards;
-    background-color: var(--c_black);
-  }
-
 }
 
 @keyframes menu {
