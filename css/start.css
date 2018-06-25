@@ -20,6 +20,11 @@
 
 .gridquad ul {
   border-left: solid 1px;
+  padding-left: 1em; 
+}
+
+.gridquad a {
+  font-size: 14pt;
 }
 
 @media(min-width:1366px){
@@ -31,7 +36,7 @@
   }
   
   .gridquad a {
-    font-size: 13pt;
+    font-size: 15pt;
   }
 
 }
@@ -46,7 +51,7 @@
   }
 
   .gridquad > div > ul {
-    padding-left: 0.6em; 
+    padding-left: 0.3em; 
     margin-bottom: 1em;
     margin-left: 1em;
     font-size: 15pt;

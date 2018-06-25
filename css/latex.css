@@ -22,12 +22,11 @@
 .title {
   text-align: right;
   padding-right: 0.8em;
+  font-size: 13pt;
 }
 
 #buscatex input, #buscatex form {
   width: 100% !important;
-  margin: 3px;
-  padding: 3px;
 }
 
 @media(min-width: 1366px){
@@ -45,8 +44,8 @@
     padding: 0;
   }
 
-  .texgrid > ul > li > a, .texgrid > ul > h2 {
-    font-size: 13pt !important;
+  .texgrid > ul > li > a, .texgrid > h2 {
+    font-size: 12pt !important;
   }
 
   .texgrid ul {

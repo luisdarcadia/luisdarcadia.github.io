@@ -55,11 +55,11 @@ footer * {
 }
 
 footer {
-  margin-top: 5vh;
   bottom: 2px;
 }
  
 .container {
   margin-top: 5vw;
-  padding: 1em;
+  padding: 1em 2em;
+  min-height: 65vh;
 }
