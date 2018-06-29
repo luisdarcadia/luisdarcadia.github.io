@@ -1,22 +1,25 @@
 .forms {
   display: grid;
   justify-items: center;
+  margin-bottom: 8vh;
 }
 
-.forms input {
-  width: 600px;
+.forms form input {
   height: 30px;
+  width: 80vw;
 }
 
 .gridquad {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-items: center;
+  align-items: center;
   margin-top: 2em;
   margin-left: 3em;
   margin-right: 3em;
   margin-bottom: 0;
 }
+
 
 .gridquad ul {
   border-left: solid 1px;
@@ -43,6 +46,10 @@
 
 @media(max-width: 786px){
 
+  #buscatex {
+    display: block;
+    width: 100%;
+  }
   .gridquad {
     grid-template-columns: 1fr 1fr;
     justify-items: unset;
