@@ -1,95 +1,95 @@
-- tipo: Pós Graduação - UNESP
-  fonte: facul
+- nome: Pós Graduação - UNESP
+  tipo: facul
   link: http://www.assis.unesp.br/#!/pos-graduacao
 
-- tipo: Matrícula - UNESP
-  fonte: facul
+- nome: Matrícula - UNESP
+  tipo: facul
   link: https://sistemas.unesp.br/sentinela/login.open.action
 
-- tipo: Biblio - UNESP
-  fonte: facul
+- nome: Biblio - UNESP
+  tipo: facul
   link: https://www.athena.biblioteca.unesp.br/
 
-- tipo: Lattes
-  fonte: facul
+- nome: Lattes
+  tipo: facul
   link: https://wwws.cnpq.br/cvlattesweb/pkg_login.prc_form
 
-- tipo: Busca - VOLP
-  fonte: facul
+- nome: Busca - VOLP
+  tipo: facul
   link: http://www.academia.org.br/nossa-lingua/busca-no-vocabulario
 
-- tipo: BNP Digital
-  fonte: facul
+- nome: BNP Digital
+  tipo: facul
   link: http://www.purl.pt
 
-- tipo: Google Books
-  fonte: facul
+- nome: Google Books
+  tipo: facul
   link: https://www.google.com/books
 
-- tipo: JSTOR 
-  fonte: facul
+- nome: JSTOR 
+  tipo: facul
   link: https://www.jstor.org
 
-- tipo: Archive.org
-  fonte: facul
+- nome: Archive.org
+  tipo: facul
   link: https://archive.org
 
-- tipo: Netflix 
-  fonte: fun
+- nome: Netflix 
+  tipo: fun
   link: https://www.netflix.com 
 
-- tipo: Youtube  
-  fonte: fun
+- nome: Youtube  
+  tipo: fun
   link: https://www.youtube.com/feed/subscriptions 
 
-- tipo: Gmail  
-  fonte: fun
+- nome: Gmail  
+  tipo: fun
   link: https://www.google.com/mail 
 
-- tipo: Yahoo!  
-  fonte: fun
+- nome: Yahoo!  
+  tipo: fun
   link: https://www.yahoo.com/mail 
 
-- tipo: Facebook  
-  fonte: fun
+- nome: Facebook  
+  tipo: fun
   link: https://www.facebook.com 
 
-- tipo: Instagram  
-  fonte: fun
+- nome: Instagram  
+  tipo: fun
   link: https://www.instagram.com 
 
-- tipo: WhatsApp  
-  fonte: fun
+- nome: WhatsApp  
+  tipo: fun
   link: https://web.whatsapp.com 
 
-- tipo: Github  
-  fonte: varia
+- nome: Github  
+  tipo: varia
   link: http://www.github.com/ 
 
-- tipo: Google Drive  
-  fonte: varia
+- nome: Google Drive  
+  tipo: varia
   link: https://www.google.com/drive 
 
-- tipo: MEGA Folder  
-  fonte: varia
+- nome: MEGA Folder  
+  tipo: varia
   link: https://www.mega.nz 
 
-- tipo: Onedrive + Outlook  
-  fonte: varia
+- nome: Onedrive + Outlook  
+  tipo: varia
   link: https://outlook.live.com/owa 
 
-- tipo: Dropbox  
-  fonte: varia
+- nome: Dropbox  
+  tipo: varia
   link: https://www.dropbox.com/ 
 
-- tipo: Jekyll
-  fonte: localhost
+- nome: Jekyll
+  tipo: localhost
   link: http://localhost:4000
 
-- tipo: Rails
-  fonte: localhost
+- nome: Rails
+  tipo: localhost
   link: http://localhost:3000
 
-- tipo: Router
-  fonte: localhost
+- nome: Router
+  tipo: localhost
   link: http://192.168.1.1

@@ -1,0 +1,28 @@
+---
+layout: default
+title: Start Page
+subtitle: Página inicial
+nav: nav-start
+cor: start
+permalink: /start
+---
+
+{% include startpage_search.html %}
+
+{% assign c = "Faculdade" %}
+{% assign a = site.data.startlinks %}
+{% assign b = "facul" %}
+{% include dataloop.html %}
+
+{% assign c = "Social & Fun" %}
+{% assign b = "fun" %}
+{% include dataloop.html %}
+
+{% assign c = "Misc" %}
+{% assign b = "varia" %}
+{% include dataloop.html %}
+
+{% assign c = "Localhost" %}
+{% assign b = "localhost" %}
+{% include dataloop.html %}
+
