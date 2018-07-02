@@ -1,0 +1,97 @@
+#showcase-nav-inicio
+  background-image: $inicio_img
+
+#showcase-nav-start
+  background-image: url(../img/still-life-start.jpg)
+
+#showcase-nav-bloghome
+  background-image: url(../img/vanitas_blogmain.jpg)
+
+#showcase-nav-tex
+  background-image: url(../img/vanitas_tex.jpg)
+
+#showcase-nav-sobre
+  background-image: url(../img/still-life-sobre.jpg)
+
+#showcase-nav-blogpost
+  background-image: url(../img/blog_collier.jpg)
+
+#showcase-nav-inicio,
+#showcase-nav-start,
+#showcase-nav-bloghome,
+#showcase-nav-tex,
+#showcase-nav-sobre,
+#showcase-nav-blogpost
+  background:
+    repeat: no-repeat
+    size: cover
+  height: 20vh
+  display: grid
+  align-content: end
+  transition: ease-in-out
+  transition-duration: 4s
+
+.box
+  position: absolute
+  background-color: rgba( 0, 0, 0, 0.0)
+  color: rgba(55, 55, 55, 0.4)
+  font-size: 30pt
+  height: 50px
+  width: 50px
+  margin: 0
+
+.box:hover + #showcase-nav-inicio,
+.box:hover + #showcase-nav-start,
+.box:hover + #showcase-nav-tex,
+.box:hover + #showcase-nav-sobre,
+.box:hover + #showcase-nav-bloghome,
+.box:hover + #showcase-nav-blogpost
+  height: 90vh
+
+#showcase-nav-inicio .fa-bars,
+#showcase-nav-bloghome .fa-bars,
+#showcase-nav-start .fa-bars,
+#showcase-nav-tex .fa-bars,
+#showcase-nav-sobre .fa-bars,
+#showcase-nav-bloghome .fa-bars
+  left: 10px
+  position: relative
+  font-size: calc(2vw + 1.5vh + 20%)
+  padding: 0.2em 0.2em 1em 1em
+
+#showcase-nav-inicio .fa-bars
+  top: 9.5vh
+
+#showcase-nav-bloghome .fa-bars,
+#showcase-nav-start .fa-bars,
+#showcase-nav-tex .fa-bars,
+#showcase-nav-sobre .fa-bars,
+#showcase-nav-bloghome .fa-bars
+  top: 12vh
+
+#showcase-nav-inicio h1,
+#showcase-nav-bloghome h1,
+#showcase-nav-start h1,
+#showcase-nav-tex h1,
+#showcase-nav-sobre h1,
+#showcase-nav-blogpost h1
+  padding: 0 3em
+  background-color: rgba(18, 23, 20, 0.8)
+  z-index: 2
+  font-size: calc(2vw + 1.5vh + 40%)
+  font-variant-caps: small-caps
+  text-shadow: 2px 2px $c_black
+
+@media(max-width: 786px)
+
+  #showcase-nav-inicio h1,
+  #showcase-nav-start h1,
+  #showcase-nav-tex h1,
+  #showcase-nav-sobre h1,
+  #showcase-nav-bloghome h1,
+  #showcase-nav-blogpost h1
+    background-color: rgba(18, 23, 20, 0.9)
+    font-size: calc(3vw + 1vh + 30%)
+    text-align: center
+    justify-content: center
+    align-content: center

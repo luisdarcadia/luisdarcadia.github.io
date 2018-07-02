@@ -1,0 +1,111 @@
+nav 
+  margin-top: 0.6em
+
+  * 
+    display: inline
+    padding: 0
+
+  ul > li > ul li 
+    float: left
+    animation-name: menu2
+    animation-duration: 600ms
+    transform-origin: left center
+
+  ul > li > ul li:last-child 
+    float: right
+
+  ul > li > ul li a 
+    font-size: 15pt
+    padding: 10px 25px
+
+nav li.sel-inicio:hover,
+#burger_menu li a.sel-inicio:hover,
+nav a.sel-inicio:hover,
+#nav-inicio
+  background-color: $c_green
+  color: $c_black
+  font-weight: bold
+
+nav li.sel-sobre:hover,
+#burger_menu a.sel-sobre:hover,
+nav a.sel-sobre:hover,
+#nav-sobre
+  background-color: $c_pastel
+  color: $c_black
+  font-weight: bold
+
+nav li.sel-corblog:hover,
+#burger_button a.sel-corblog:hover,
+nav a.sel-corblog:hover,
+#nav-bloghome,
+#nav-blogpost
+  background-color: $c_red
+  color: $c_black
+  font-weight: bold
+
+nav li.sel-start:hover,
+nav a.sel-start:hover,
+#nav-start
+  background-color: $c_pastel
+  color: $c_black
+  font-weight: bold
+
+nav li.sel-tex:hover,
+nav a.sel-tex:hover,
+#nav-tex
+  background-color: $c_green
+  color: $c_black
+  font-weight: bold
+
+#burger_button,
+#burger_menu
+  display: none
+
+@media(max-width: 786px
+  
+  .burger_menu 
+    min-height: 100%
+    width: 200px
+    position: absolute
+    z-index: 1
+    background-color: $c_black
+    transition: 0.8s
+    overflow-x: hidden
+    li 
+      padding:
+        top: 0.8em
+        bottom: 0.8em
+      overflow: hidden
+      min-width: 150px
+    li a 
+      font-size: 20pt !important
+      padding:
+        left: 40px
+        right: 60px
+        top: 1em
+        bottom: 1em
+      overflow: hidden
+      min-width: 150px
+
+  ul#dropdown-content li 
+    display: none
+
+  nav li:hover > ul#dropdown-content li:nth-child(1) 
+    display: grid
+    opacity: 0
+    transform-origin: top center
+    animation-name: menu
+    animation-delay: 0ms
+    animation-duration: 0.3s
+    animation-fill-mode: forwards
+    background-color: $c_black
+
+  #burger_button 
+    display: inline !important
+    user-select: none !important
+    z-index: 3 !important
+
+  #burger_menu 
+    display: block
+    width: 0px
+    padding-left: 0

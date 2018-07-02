@@ -1,0 +1,23 @@
+- name: "eu"
+  url:
+
+- name: "blogposts"
+  url: "blog_collier.jpg"
+
+- name: "goyo"
+  url: "goyo.gif"
+
+- name: "sobre"
+  url: "still-life-sobre.jpg"
+
+- name: "start"
+  url: "still-life-start.jpg"
+
+- name: "blogmain"
+  url: "vanitas_blogmain.jpg"
+
+- name: "inicio"
+  url: "vanitas_inicio.jpg"
+
+- name: "tex"
+  url: "vanitas_tex.jpg"

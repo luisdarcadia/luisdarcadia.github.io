@@ -1,0 +1,6 @@
+---
+---
+
+$inicio_img: url('{{site.img_path}}{% for image in site.data.imagens %}{% if image.name == "inicio"%}{{image.url}}{% endif %}{% endfor%}');
+
+@import "main";

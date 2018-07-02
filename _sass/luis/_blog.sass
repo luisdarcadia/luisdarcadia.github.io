@@ -1,0 +1,45 @@
+.blog-home
+  display: grid
+  grid-template-columns: 1fr 1fr
+  justify-content: center
+  width: 90%
+  margin-left: 20px
+  padding-left: 3em
+  color: $c_pastel
+  h2
+    font-size: 20pt
+    padding: 0 1em
+  ul
+    list-style-type: none
+  p
+    font-size: 15pt
+    color: $c_red
+    padding-left: 2em
+  ul > li > a
+    list-style-type: none
+    font-size: 30pt
+    color: $c_pastel
+  img
+    width: 26vh
+    margin: 3em 4em
+    text-align: center
+  .rss-subscribe *
+    font-size: 20pt
+    color: $c_pastel
+
+@media(min-width: 1366px)
+
+  .blog-home h2
+    border-left: solid 2px
+
+  .post-list
+    padding-left: 300px
+
+@media(max-width: 786px)
+
+  .blog-home
+    margin: 10px
+    grid-template-columns: 1fr
+    padding: 0
+    p, h2, img
+      padding: 0
