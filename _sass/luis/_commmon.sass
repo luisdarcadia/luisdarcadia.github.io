@@ -1,3 +1,6 @@
+*
+  box-sizing: border-box
+
 body
   background-color: $c_black
   color: $c_pastel
@@ -8,7 +11,7 @@ li
   list-style-type: none
 
 a
-  font-size: calc(1.5*(1.5vh))
+  font-size: 14pt
   text-decoration: none
   color: $c_pastel
 
@@ -17,21 +20,6 @@ a:hover
 
 p
   font-size: 13pt
-
-.inicio
-  margin-top: 4vh
-  display: grid
-  grid-template-columns: 2fr 1fr
-  align-items: center
-  justify-items: center
-  #texto
-    border-left: solid 1px
-    padding-left: 1em
-  #img
-    display: grid
-    justify-items: center
-    img
-      width: 50%
 
 h1
   font-size: calc(0.5 * 3vh)
@@ -42,11 +30,6 @@ form input
   background-color: $c_pastel
   color: #000000
   border: 0
-
-input[type=text]
-  margin-top: 2em
-  font-size: 16pt
-  width: 450px
 
 footer
   bottom: 2px
@@ -61,3 +44,60 @@ footer
   padding: 1em 2em
   min-height: 65vh
 
+#inicio
+  margin: 10vh auto auto auto
+  display: grid
+  grid-template-columns: 2fr 1fr
+  align-items: center
+  justify-items: center
+  div#texto
+    border-left: solid 1px
+    padding-left: 2em
+    margin-left: 20vw
+    p
+      font-size: calc(2 * 1vh)
+  div#img
+    display: grid
+    justify-items: center
+    img
+      width: 50%
+
+#sobre
+  width: 80%
+  margin: 10vh auto auto auto
+  a, p
+    font-size: 14pt
+  h1
+    font-size: 18pt
+    padding: 0
+    margin: 0
+  h2
+    font-size: 15pt
+  #contato
+    *
+      width: 100%
+      color: #000000
+      font-size: 18pt
+    input[type=text]
+      border: none
+      margin-bottom: 3em
+    textarea
+      width: 100%
+      border: none
+      background-color: $c_pastel
+
+#search-form
+  width: 80vw
+  margin: 8vh auto
+  input
+    font-size: 25pt
+    height: 35px
+
+#startgrid
+  margin: auto
+  display: grid
+  grid-template-columns: 1fr 1fr 1fr 1fr
+  align-items: center
+  justify-items: center
+  ul
+    border-left: solid 1px

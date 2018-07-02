@@ -1,0 +1,42 @@
+---
+layout: default
+title: LaTeX - Links Úteis
+subtitle: LaTeX
+nav: nav-tex
+cor: tex
+permalink: /latex
+---
+
+<div id="tex-ajuda">
+{% assign a = site.data.recursos %}
+
+{% assign c = "Básico" %}
+{% assign b = "sharelatex" %}
+{% include dataloop.html %}
+
+{% assign c = "Misc" %}
+{% assign b = "wikibooks" %}
+{% include dataloop.html %}
+</div>
+
+{% include latex_search.html %}
+
+<div id="tex-manuais">
+{% assign a = site.data.manuais %}
+
+{% assign c = "Referências" %}
+{% assign b = "manuais-referencias" %}
+{% include dataloop.html %}
+
+{% assign c = "Língua & Cod." %}
+{% assign b = "manuais-cod" %}
+{% include dataloop.html %}
+
+{% assign c = "Formatação" %}
+{% assign b = "manuais-form" %}
+{% include dataloop.html %}
+
+{% assign c = "Misc" %}
+{% assign b = "manuais-misc" %}
+{% include dataloop.html %}
+</div>
