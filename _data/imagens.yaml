@@ -1,11 +1,5 @@
-- name: "eu"
-  url:
-
-- name: "blogposts"
+- name: "blogpost"
   url: "blog_collier.jpg"
-
-- name: "goyo"
-  url: "goyo.gif"
 
 - name: "sobre"
   url: "still-life-sobre.jpg"
