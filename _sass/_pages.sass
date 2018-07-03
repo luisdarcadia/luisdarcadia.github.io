@@ -6,6 +6,7 @@
   justify-items: center
   ul
     border-left: solid 1px
+    padding-left: 8px
 
 #inicio
   margin: 10vh auto auto auto
@@ -78,3 +79,26 @@
 
 #rss-subscribe
   color: $c_red
+
+#buscatex
+  grid-column-end: span 2
+  width: 90%
+  input
+    font-size: 16pt
+    height: 30px
+    margin-bottom: 10px
+
+@media(max-width: 786px)
+  .startgrid
+    grid-template-columns: 1fr 1fr
+  #inicio
+    grid-template-columns: 1fr
+    img
+      display: none
+    #texto
+      border: none !important
+      width: 100%
+      margin: 0 !important
+      padding: 0.5em !important
+      p
+        font-size: 14pt !important
