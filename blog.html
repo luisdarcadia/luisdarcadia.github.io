@@ -4,13 +4,17 @@ title: Blog
 subtitle: Textos Recentes
 nav: nav-bloghome
 cor: corblog
+permalink: /blog
 ---
 
-
+<div>
   <ul class="post-list">
     {% for post in site.categories.blog limit:5 %}
       {% include bloglist.html %}
     {% endfor %}
   </ul>
+</div>
 
-  <img src="../img/blog_collier.jpg">
+<div>
+  <img src="{{site.img_path}}blog_collier.jpg">
+</div>

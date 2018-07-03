@@ -6,4 +6,50 @@ $c_black: #121714
 $c_pastel: #B08E55
 $main_ff: 'EB Garamond', serif
 
-@import "luis/commmon", "luis/showcase", "luis/nav", "luis/blog-post", "luis/blog", "luis/latex"
+*
+  box-sizing: border-box
+
+body
+  background-color: $c_black
+  color: $c_pastel
+  font-family: $main_ff
+  margin: 0
+
+li
+  list-style-type: none
+
+a
+  font-size: 14pt
+  text-decoration: none
+  color: $c_pastel
+
+a:hover
+  font-weight: bold
+
+p
+  font-size: 13pt
+
+h1
+  font-size: calc(0.5 * 3vh)
+
+form input
+  width: 100%
+  text-align: center
+  background-color: $c_pastel
+  color: #000000
+  border: 0
+
+footer
+  bottom: 2px
+  *
+    font-size: 12pt
+    text-align: center
+    padding: 0
+    margin: 0
+
+.container
+  margin-top: 5vw
+  padding: 1em 2em
+  min-height: 65vh
+
+@import "pages", "nav"

@@ -1,48 +1,11 @@
-*
-  box-sizing: border-box
-
-body
-  background-color: $c_black
-  color: $c_pastel
-  font-family: $main_ff
-  margin: 0
-
-li
-  list-style-type: none
-
-a
-  font-size: 14pt
-  text-decoration: none
-  color: $c_pastel
-
-a:hover
-  font-weight: bold
-
-p
-  font-size: 13pt
-
-h1
-  font-size: calc(0.5 * 3vh)
-
-form input
-  width: 100%
-  text-align: center
-  background-color: $c_pastel
-  color: #000000
-  border: 0
-
-footer
-  bottom: 2px
-  *
-    font-size: 12pt
-    text-align: center
-    padding: 0
-    margin: 0
-
-.container
-  margin-top: 5vw
-  padding: 1em 2em
-  min-height: 65vh
+.startgrid
+  margin: auto
+  display: grid
+  grid-template-columns: 1fr 1fr 1fr 1fr
+  align-items: center
+  justify-items: center
+  ul
+    border-left: solid 1px
 
 #inicio
   margin: 10vh auto auto auto
@@ -93,11 +56,25 @@ footer
     font-size: 25pt
     height: 35px
 
-#startgrid
-  margin: auto
+#blog-home
+  width: 80vw
+  margin: 4vh auto auto auto
   display: grid
-  grid-template-columns: 1fr 1fr 1fr 1fr
-  align-items: center
-  justify-items: center
-  ul
+  grid-template-columns: 1fr 1fr
+  align-self: center
+  p
+    padding-left: 50%
+  h2
     border-left: solid 1px
+    padding:  1em
+  h2 > a
+    font-size: 20pt
+  img
+    width: 70%
+    margin: 3em
+    justify-self: right
+  .date
+    color: $c_red
+
+#rss-subscribe
+  color: $c_red

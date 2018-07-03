@@ -37,5 +37,3 @@ A objetividade do texto acadêmico é bem acompanhada de um estilo mais seco.
 Evite adjetivo a não que sejam essenciais, indicando carácterísticas físicas ou técnicas.
 Evite metáforas, oxímoros, etc. Ambíguidade de modo geral é mal vista.
 Nem só de objetividade vive o acadêmico, no entanto, e metáforas, alegorias, comparações podem ser utilizadas como artifício no início e fechamento do texto para reter o seu leitor.
-
-

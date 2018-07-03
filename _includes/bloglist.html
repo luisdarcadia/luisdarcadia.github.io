@@ -1,7 +1,7 @@
 <li>
   <h2>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a></br>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </h2>
     {% assign date_format = "%-d/%m/%Y" %}
-    <p> em {{ post.date | date: date_format }}</p>
+    <p> em <span class="date"> {{ post.date | date: date_format }}</span> </p>
 </li>

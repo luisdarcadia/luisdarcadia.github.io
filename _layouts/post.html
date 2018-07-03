@@ -1,41 +1,29 @@
 ---
 layout: default
-nav: nav-blogpost
-cor: corblog
 ---
+
 <article>
-
-  <div class="article-header">
-
+  <header>
     <h1>{{ page.title | markdownify }}</h1>
-
-        <p class="article-meta">
-
-        <time datetime="{{ page.date | date_to_xmlschema }}">
-          {% assign date_format = "em %-d/%m/%Y" %}
-          {{ page.date | date: date_format }}
-        </time>
-
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {% assign date_format = "em %-d/%m/%Y" %}
+        {{ page.date | date: date_format }}
+      </time>
         {% if page.author %}
-          • por {{ page.author }}
+        <p> • por {{ page.author }} </p>
         {% endif %}
+  </header>
 
-      </p>
-
-  </div>
-
-  <div class="article-content">
+  <section>
     {{ content }}
-  </div>
+  </section>
 
   </br>
-  <hr>
-  </br>
 
-  <div id="disqus">
+  <section>
   {% if page.comments %}
     {% include disqus_comments.html %}
   {% endif %}
-  </div>
+  </section>
 
 </article>
