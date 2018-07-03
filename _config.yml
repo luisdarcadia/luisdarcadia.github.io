@@ -17,3 +17,4 @@ disqus:
 googleanalytics: UA-111692123-1
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
