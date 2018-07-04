@@ -8,35 +8,35 @@ permalink: /latex
 ---
 
 <div class="startgrid">
-{% assign a = site.data.recursos %}
+{% assign colecao = site.data.recursos %}
 
-{% assign c = "Básico" %}
-{% assign b = "sharelatex" %}
+{% assign titulo = "Básico" %}
+{% assign tipo = "sharelatex" %}
 {% include dataloop.html %}
 
-{% assign c = "Misc" %}
-{% assign b = "wikibooks" %}
+{% assign titulo = "Misc" %}
+{% assign tipo = "wikibooks" %}
 {% include dataloop.html %}
 
 {% include latex_search.html %}
 </div>
 
 <div class="startgrid">
-{% assign a = site.data.manuais %}
+{% assign colecao = site.data.manuais %}
 
-{% assign c = "Referências" %}
-{% assign b = "manuais-referencias" %}
+{% assign titulo = "Referências" %}
+{% assign tipo = "manuais-referencias" %}
 {% include dataloop.html %}
 
-{% assign c = "Língua & Cod." %}
-{% assign b = "manuais-cod" %}
+{% assign titulo = "Língua & Cod." %}
+{% assign tipo = "manuais-cod" %}
 {% include dataloop.html %}
 
-{% assign c = "Formatação" %}
-{% assign b = "manuais-form" %}
+{% assign titulo = "Formatação" %}
+{% assign tipo = "manuais-form" %}
 {% include dataloop.html %}
 
-{% assign c = "Misc" %}
-{% assign b = "manuais-misc" %}
+{% assign titulo = "Misc" %}
+{% assign tipo = "manuais-misc" %}
 {% include dataloop.html %}
 </div>

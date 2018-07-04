@@ -1,9 +1,9 @@
 <div class="coluna">
-  <h2>{{c}}</h2>
+  <h2>{{titulo}}</h2>
   <ul>
-    {% for x in a %}
-      {% if x.tipo == b %} 
-        <li><a href="{{x.link}}"> {{x.nome}} </a></li>
+    {% for item in colecao %}
+      {% if item.tipo == tipo %} 
+        <li><a href="{{item.link}}"> {{item.nome}} </a></li>
       {% endif %}
     {% endfor %}
   </ul>

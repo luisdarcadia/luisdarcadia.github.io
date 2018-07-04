@@ -10,20 +10,21 @@ permalink: /start
 {% include startpage_search.html %}
 
 <div class="startgrid">
-{% assign c = "Faculdade" %}
-{% assign a = site.data.startlinks %}
-{% assign b = "facul" %}
+{% assign colecao = site.data.startlinks %}
+
+{% assign titulo = "Faculdade" %}
+{% assign tipo = "facul" %}
 {% include dataloop.html %}
 
-{% assign c = "Social & Fun" %}
-{% assign b = "fun" %}
+{% assign titulo = "Social & Fun" %}
+{% assign tipo = "fun" %}
 {% include dataloop.html %}
 
-{% assign c = "Misc" %}
-{% assign b = "varia" %}
+{% assign titulo = "Misc" %}
+{% assign tipo = "varia" %}
 {% include dataloop.html %}
 
-{% assign c = "Localhost" %}
-{% assign b = "localhost" %}
+{% assign titulo = "Localhost" %}
+{% assign tipo = "localhost" %}
 {% include dataloop.html %}
 </div>
