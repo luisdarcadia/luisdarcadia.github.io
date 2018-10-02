@@ -4,7 +4,7 @@ title: "ABNT: elementos pré-textuais"
 date: 2018-09-30 09:29:00 -0300
 author: Luís
 comments: true
-nav: corblog
+nav: nav-blogpost
 cor: corblog
 category: abnt
 ---
