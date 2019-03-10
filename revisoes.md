@@ -1,9 +1,9 @@
 ---
 layout: sobre
-title: Serviços
-subtitle: Serviços
-cor: sobre
-nav: nav-sobre
+title: Revisões
+subtitle: Revisões
+cor: corblog
+nav: nav-bloghome
 ---
 
 # Quais os serviços oferecidos?
