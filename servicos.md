@@ -15,7 +15,7 @@ Na Academia, por sua vez, clareza na comunicação e coerência argumentativa ce
 
 Revisão da coesão e coerência textuais, assim como de aspectos da modalidade escrita e formal da Língua Portuguesa como ortografia, concordância, pontuação, entre outros.
 
-**Não** inclui *redação* textual em qualquer modalidade.
+**Não** inclui *redação* complementar ou integral de textos em qualquer modalidade.
 
 **Não** inclui a revisão das normas técnicas da ABNT.
 
