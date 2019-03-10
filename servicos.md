@@ -2,8 +2,8 @@
 layout: sobre
 title: Serviços
 subtitle: Serviços
-cor: sobre
-nav: nav-sobre
+cor: servicos
+nav: nav-servicos
 permalink: /servicos
 ---
 

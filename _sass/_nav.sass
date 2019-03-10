@@ -7,7 +7,8 @@
 #showcase-nav-bloghome
   background-image: $blog_img
 
-#showcase-nav-tex
+#showcase-nav-tex,
+#showcase-nav-servicos
   background-image: $tex_img
 
 #showcase-nav-sobre
@@ -21,6 +22,7 @@
 #showcase-nav-tex,
 #showcase-nav-sobre,
 #showcase-nav-bloghome,
+#showcase-nav-servicos,
 #showcase-nav-blogpost
   background:
     repeat: no-repeat
@@ -45,6 +47,7 @@
 .box:hover + #showcase-nav-tex,
 .box:hover + #showcase-nav-sobre,
 .box:hover + #showcase-nav-bloghome,
+.box:hover + #showcase-nav-servicos,
 .box:hover + #showcase-nav-blogpost
   height: 90vh
 
@@ -53,6 +56,7 @@
 #showcase-nav-start .fa-bars,
 #showcase-nav-tex .fa-bars,
 #showcase-nav-sobre .fa-bars,
+#showcase-nav-servicos .fa-bars,
 #showcase-nav-blogpost .fa-bars
   left: 5px
   position: relative
@@ -60,6 +64,7 @@
   padding: 0.2em 0.2em 1em 1em
 
 #showcase-nav-inicio .fa-bars,
+#showcase-nav-servicos .fa-bars,
 #showcase-nav-blogpost .fa-bars
   top: 9.9vh
 
@@ -67,6 +72,7 @@
 #showcase-nav-start .fa-bars,
 #showcase-nav-tex .fa-bars,
 #showcase-nav-sobre .fa-bars,
+#showcase-nav-servicos .fa-bars,
 #showcase-nav-bloghome .fa-bars
   top: 12vh
 
@@ -75,6 +81,7 @@
 #showcase-nav-start h1,
 #showcase-nav-tex h1,
 #showcase-nav-sobre h1,
+#showcase-nav-servicos h1,
 #showcase-nav-blogpost h1
   padding: 0 3em
   background-color: rgba(18, 23, 20, 0.8)
@@ -115,6 +122,14 @@ nav a.sel-start:hover,
 #nav-start,
 #nav-sobre
   background-color: $c_pastel
+  color: $c_black
+  font-weight: bold
+
+#burger_menu li a.sel-servicos:hover,
+nav li.sel-servicos:hover,
+nav a.sel-servicos:hover,
+#nav-servicos
+  background-color: $c_blue
   color: $c_black
   font-weight: bold
 
@@ -184,6 +199,7 @@ nav a.sel-tex:hover,
   #showcase-nav-tex h1,
   #showcase-nav-sobre h1,
   #showcase-nav-bloghome h1,
+  #showcase-nav-servicos h1,
   #showcase-nav-blogpost h1
     background-color: rgba(18, 23, 20, 0.9)
     font-size: calc(3vw + 1vh + 30%)

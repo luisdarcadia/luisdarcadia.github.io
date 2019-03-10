@@ -3,8 +3,7 @@ layout: sobre
 title: Alunos
 subtitle: Alunos
 nav: nav-tex
-cor: tex
-permalink: /alunos
+cor: start
 ---
 
 # Em construção.
