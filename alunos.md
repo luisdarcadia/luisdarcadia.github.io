@@ -2,8 +2,8 @@
 layout: sobre
 title: Alunos
 subtitle: Alunos
-nav: nav-tex
-cor: start
+nav: nav-sobre
+cor: sobre
 ---
 
 # Em construção.
