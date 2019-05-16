@@ -4,6 +4,7 @@ email: luisfcdarcadia@gmail.com
 description: "Website pessoal de Luís Fernando Campos D'Arcadia."
 baseurl: "/"
 url: "https://luisdarcadia.github.io"
+permalink: pretty
 github_username: "luisdarcadia"
 
 img_path: "/assets/img/"
