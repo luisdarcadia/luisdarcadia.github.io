@@ -20,37 +20,11 @@ Depósito bancário a combinar ou com a mediação do Mercado Livre com a criaç
 
 # Preços e prazos
 
-## Textos curtos
+Consideramos **uma lauda** o conjunto de **300 palavras**.
 
-+ até 10.000 palavras 
-+ prazo até 72 horas
-+ R$ 40,00
+O preço de **uma lauda** é R$ 5,00.
 
-## Textos médios / Artigos
-
-+ até 20.000 palavras
-+ prazo de até 96 horas
-+ R$ 60,00
-
-# Tipologias acadêmicas
-
-## Monografias / Trabalhos de conclusão de curso
-
-+ de 30.000 a 50.000 palavras
-+ prazo de até 14 dias
-+ R$ 200,00
-
-## Dissertações de mestrado
-
-+ de 50.000 a 70.000 palavras
-+ prazo de até 30 dias
-+ R$ 300,00
-
-## Teses
-
-+ de 70.000 a 100.000 palavras
-+ prazo de até 45 dias
-+ R$ 400,00
+O prazo para a revisão é de **um dia útil** por cada 10 laudas requisitadas pelo cliente.
 
 # Dúvidas? Entre em contato:
 
