@@ -1,10 +1,10 @@
-- nome: Pós Graduação - UNESP
-  tipo: facul
-  link: http://www.assis.unesp.br/#!/pos-graduacao
+#- nome: Pós Graduação - UNESP
+#  tipo: facul
+#  link: http://www.assis.unesp.br/#!/pos-graduacao
 
-- nome: Matrícula - UNESP
-  tipo: facul
-  link: https://sistemas.unesp.br/sentinela/login.open.action
+#- nome: Matrícula - UNESP
+#  tipo: facul
+#  link: https://sistemas.unesp.br/sentinela/login.open.action
 
 - nome: Biblio - UNESP
   tipo: facul
