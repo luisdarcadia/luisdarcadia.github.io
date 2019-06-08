@@ -1,0 +1,25 @@
+---
+layout: blog
+title: Blog
+subtitle: Poemas
+nav: nav-bloghome
+cor: corblog
+permalink: /poemas
+---
+
+<div>
+  <ul class="post-list">
+    {% for poema in site.poemas %}
+      <li>
+        <h2>
+          <a href="{{ poema.url | relative_url }}">{{ poema.titulo }}</a>
+        </h2>
+          <p> por <span class="date"> {{ poema.autor }}</span> </p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div>
+  <img src="{{site.img_path}}blog_collier.jpg">
+</div>
