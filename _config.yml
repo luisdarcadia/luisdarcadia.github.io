@@ -12,6 +12,10 @@ img_path: "/assets/img/"
 js_path: "/assets/js/"
 css_path: "/assets/stylesheet/"
 
+collections:
+  poemas:
+    output: true
+
 # Build settings
 markdown: kramdown
 disqus:
