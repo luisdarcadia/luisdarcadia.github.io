@@ -6,7 +6,7 @@ cor: corblog
 nav: nav-bloghome
 ---
 
-# Quais os serviços oferecidos?
+# Quais são os serviços oferecidos?
 
 Revisão da coesão e coerência textuais, assim como de aspectos da modalidade escrita e formal da Língua Portuguesa (ortografia, concordância, pontuação, entre outros).
 
@@ -28,7 +28,7 @@ O preço de **uma lauda** é R$ 5,00.
 
 O prazo para a revisão é de **um dia útil** por cada 10 laudas requisitadas pelo cliente.
 
-# Dúvidas? Entre em contato:
+# Dúvidas? Entre em contato (sistema mediado Formspree, pede-se confirmação por CAPTCHA):
 
 {% include contato_form.html %}
 
