@@ -8,7 +8,7 @@ nav: nav-bloghome
 
 # Quais os serviços oferecidos?
 
-Revisão da coesão e coerência textuais, assim como de aspectos da modalidade escrita e formal da Língua Portuguesa como ortografia, concordância, pontuação, entre outros.
+Revisão da coesão e coerência textuais, assim como de aspectos da modalidade escrita e formal da Língua Portuguesa (ortografia, concordância, pontuação, entre outros).
 
 **Não** inclui *redação* complementar ou integral de textos em qualquer modalidade.
 
@@ -16,7 +16,9 @@ Revisão da coesão e coerência textuais, assim como de aspectos da modalidade 
 
 # Como é feito o pagamento?
 
-Depósito bancário a combinar ou com a mediação do Mercado Livre com a criação de um anúncio.
+Depósito bancário, emissão de boleto ou anúncio no Mercado Livre.
+
+Emitimos nota fiscal.
 
 # Preços e prazos
 
@@ -29,3 +31,5 @@ O prazo para a revisão é de **um dia útil** por cada 10 laudas requisitadas p
 # Dúvidas? Entre em contato:
 
 {% include contato_form.html %}
+
+
