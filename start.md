@@ -1,9 +1,5 @@
 ---
-layout: default_pessoal
-title: Start Page
-subtitle: Página inicial
-nav: nav-start
-cor: start
+layout: page_standalone
 ---
 
 {% include startpage_search.html %}
@@ -27,3 +23,4 @@ cor: start
 {% assign tipo = "localhost" %}
 {% include dataloop.html %}
 </div>
+

@@ -1,55 +1,124 @@
-$c_red: #CA3E3A
-$c_blue: #335b8e
-$c_green: #3C6152
-$c_yellow: #CAA73A
 $c_black: #121714
 $c_pastel: #B08E55
 $main_ff: 'EB Garamond', serif
 
 *
+  margin: 0
+  padding: 0
   box-sizing: border-box
 
 body
   background-color: $c_black
   color: $c_pastel
   font-family: $main_ff
-  margin: 0
+  scroll-behavior: smooth
+  overflow: hidden
 
-li
-  list-style-type: none
+h1
+  font-size: 18pt
+  padding: 5px
+  margin: 15px -15px
+
+h2
+  font-size: 14pt
+  padding: 5px
+  margin: 1em 15px 1em -10px
 
 a
-  font-size: 14pt
   text-decoration: none
   color: $c_pastel
 
-a:hover
-  font-weight: bold
-
 p
-  font-size: 13pt
+  padding: 5px
 
-h1
-  font-size: calc(0.5 * 3vh)
+img
+  max-width: 80%
+  object-fit: contain
+  border-radius: 100%
 
-form input
+article
+  scroll-snap-align: start
+  overflow-y: auto
+  padding: 2em
+  margin: 5% 5% 5% 15%
+  background: rgba(0,0,0,0.98)
+  font-size: 15pt
+  text-align: justify
+
+#contato
+  input, textarea
+    width: 100%
+    color: #000000
+    font-size: 18pt
+    background-color: $c_pastel
+    border: none
+    margin-bottom: 5px
+
+#agendar
+  display: block
+  border: solid
+  padding: 1em
   width: 100%
-  text-align: center
-  background-color: $c_pastel
-  color: #000000
-  border: 0
+
+section
+  padding-left: 10vw
+  display: grid
+  height: 100vh
+  width: 100%
+#inicio 
+  background: $inicio_img no-repeat center center/cover
+#aulas 
+  background: $aulas_img no-repeat center center/cover
+#revisoes 
+  background: $revisoes_img no-repeat center center/cover
+#blog 
+  background: $blog_img no-repeat center center/cover
+#sobre 
+  background: $sobre_img no-repeat center center/cover
 
 footer
-  bottom: 2px
-  *
+  position: fixed
+  bottom: 3px
+  z-index: 2
+  width: 20vw
+  text-align: center
+
+@media(max-width: 786px)
+  body
+    overflow: scroll
+  footer
+    display: none
+  section
+    padding: 60px 5px 5px 5px
+    margin: unset
+  article
+    padding: 20px
+    margin: 10px
+  h1
     font-size: 12pt
-    text-align: center
-    padding: 0
-    margin: 0
+    padding: 2px
+    margin: 1px 5px 2px -5px
+  h2
+    font-size: 11pt
+    padding: 5px
+    margin: 2px 2px 1px -1px
+  p, a
+    font-size: 10pt
+    padding: 3px
+    margin: 1px
 
-.container
-  margin-top: 5vw
-  padding: 1em 2em
-  min-height: 65vh
+@media(max-width: 360px)
+  h1
+    font-size: 10pt
+    padding: 1px
+    margin: 1px
+  h2
+    font-size: 9pt
+    padding: 1px
+    margin: 1px
+  p, a
+    font-size: 8pt
+    padding: 1px
+    margin: 1px
 
-@import "pages", "nav", "article"
+@import "navbar"

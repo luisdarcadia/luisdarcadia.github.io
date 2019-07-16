@@ -1,20 +1,11 @@
 ---
-layout: blog
-title: ABNT
-subtitle: ABsurd Norms
-nav: nav-bloghome
-cor: corblog
-permalink: /abnt
+layout: page_standalone
 ---
 
-<div>
-  <ul class="post-list">
-    {% for post in site.categories.abnt limit:5 %}
-      {% include bloglist.html %}
-    {% endfor %}
-  </ul>
-</div>
+    <h1> Blog </h1>
+    <ul class="post-list">
+      {% for post in site.categories.abnt limit:5 %}
+        {% include bloglist.html %}
+      {% endfor %}
+    </ul>
 
-<div>
-  <img src="{{site.img_path}}blog_collier.jpg">
-</div>

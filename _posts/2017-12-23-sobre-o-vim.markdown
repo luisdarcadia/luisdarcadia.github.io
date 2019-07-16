@@ -13,7 +13,7 @@ categories: blog
 [unix]:https://pt.wikipedia.org/wiki/Unix
 [goyo]:https://github.com/junegunn/goyo.vim
 [limelight]:https://github.com/junegunn/limelight.vim
-[limegif]:{{site.baseurl}}{{site.img_path}}goyo.gif
+[limegif]:{{site.baseurl}}/{{site.img_path}}/goyo.gif
 
 # Um editor de textos na linha de comando
 

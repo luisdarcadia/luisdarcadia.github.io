@@ -1,10 +1,5 @@
 ---
-layout: default_pessoal
-title: LaTeX - Links Úteis
-subtitle: LaTeX
-nav: nav-tex
-cor: tex
-permalink: /latex
+layout: page_standalone
 ---
 
 <div class="startgrid">

@@ -1,20 +1,17 @@
 <!DOCTYPE html>
-
-<html lang="pt">
+<html lang="{{site.lang}}">
 
   {% include head.html %}
 
-<body>
+  <body>
+        {% include nav.html %}
+    <main>
+        {{ content }}
+    </main>
 
-  {% include showcase.html %}
-  {% include burguer_menu.html %}
-  {% include nav.html %}
+  </body>
 
-  <div class="container">
-    {{content}}
-  </div> 
-
-  {% include footer.html %}
-</body>
-
+  <footer>
+    {% include footer.html %}
+  </footer>
 </html>

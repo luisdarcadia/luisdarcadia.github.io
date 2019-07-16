@@ -1,7 +1,5 @@
 ---
-layout: sobre
-cor: sobre
-nav: nav-sobre 
+layout: page_standalone
 ---
 
 # Obrigado pelo contato!

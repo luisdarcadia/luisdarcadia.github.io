@@ -1,9 +1,5 @@
 ---
-layout: sobre
-title: Revisões
-subtitle: Revisões
-cor: corblog
-nav: nav-bloghome
+layout: page_standalone
 ---
 
 # Quais são os serviços oferecidos?
@@ -12,13 +8,11 @@ Revisão da coesão e coerência textuais, assim como de aspectos da modalidade 
 
 **Não** inclui *redação* complementar ou integral de textos em qualquer modalidade.
 
-**Não** inclui a revisão das normas técnicas da ABNT.
-
 # Como é feito o pagamento?
 
 Depósito bancário, emissão de boleto ou anúncio no Mercado Livre.
 
-Emitimos nota fiscal.
+Emitimos nota fiscal (CNPJ 32.958.137/0001-40).
 
 # Preços e prazos
 
@@ -31,5 +25,4 @@ O prazo para a revisão é de **um dia útil** por cada 10 laudas requisitadas p
 # Dúvidas? Entre em contato (sistema mediado Formspree, pede-se confirmação por CAPTCHA):
 
 {% include contato_form.html %}
-
 
