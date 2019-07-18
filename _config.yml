@@ -19,8 +19,6 @@ navlinks:
     link: aulas
   - name: Revisões
     link: revisoes
-  - name: Blog
-    link: blog
 
 # Build settings
 markdown: kramdown
