@@ -4,7 +4,7 @@ layout: page_standalone
 
 {% include startpage_search.html %}
 
-<div class="startgrid">
+<div class="grid">
 {% assign colecao = site.data.startlinks %}
 
 {% assign titulo = "Estudos" %}

@@ -2,7 +2,9 @@
 layout: page_standalone
 ---
 
-<div class="startgrid">
+{% include latex_search.html %}
+
+<div class="grid">
 {% assign colecao = site.data.recursos %}
 
 {% assign titulo = "Básico" %}
@@ -13,10 +15,6 @@ layout: page_standalone
 {% assign tipo = "wikibooks" %}
 {% include dataloop.html %}
 
-{% include latex_search.html %}
-</div>
-
-<div class="startgrid">
 {% assign colecao = site.data.manuais %}
 
 {% assign titulo = "Referências" %}
