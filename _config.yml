@@ -15,7 +15,7 @@ js_path: "assets/js"
 css_path: "assets/css"
 
 navlinks:
-  - name: Sobre mim
+  - name: Quem sou
     link: inicio
   - name: Aulas
     link: aulas
