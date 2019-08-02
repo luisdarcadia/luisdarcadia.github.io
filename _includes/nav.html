@@ -4,7 +4,7 @@
 
     {% for navlink in site.navlinks %}
     <li>
-      <a href="{{site.baseurl}}/#{{navlink.link}}"> {{navlink.name}}</a>
+      <a href="{{site.baseurl}}/#{{navlink.link}}" id="nav-{{navlink.link}}"> {{navlink.name}}</a>
     </li>
     {% endfor %}
 
