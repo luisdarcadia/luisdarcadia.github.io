@@ -4,8 +4,18 @@ inputPalavras.onkeyup = function(){
 
   var palavras = parseInt(inputPalavras.value);
 
+  console.log(palavras);
+
   if (isNaN(palavras)){
     palavras = 0;
+    document.getElementById('erros').innerHTML = "Insira somente números";  
+    document.getElementById('resultado').innerHTML = "";
+    document.getElementById('preco').innerHTML = "";
+    document.getElementById('prazo').innerHTML = "";
+    return false;
+  }
+  else {
+    document.getElementById('erros').innerHTML = "";
   }
 
   var laudas = parseInt(palavras/300);
