@@ -4,12 +4,12 @@ inputPalavras.onkeyup = function(){
 
   var palavras = parseInt(inputPalavras.value);
 
-  console.log(palavras);
+  console.log("Palavras: "+ palavras);
 
   if (isNaN(palavras)){
     palavras = 0;
     document.getElementById('erros').innerHTML = "Insira somente números";  
-    document.getElementById('resultado').innerHTML = "";
+    document.getElementById('laudas').innerHTML = "";
     document.getElementById('preco').innerHTML = "";
     document.getElementById('prazo').innerHTML = "";
     return false;
@@ -24,7 +24,7 @@ inputPalavras.onkeyup = function(){
     laudas = 1;
   }
 
-  document.getElementById('resultado').innerHTML = laudas;
+  document.getElementById('laudas').innerHTML = laudas;
 
   var preco = laudas * 5;
 
@@ -33,6 +33,18 @@ inputPalavras.onkeyup = function(){
   }
 
   document.getElementById('preco').innerHTML = "R$ " + preco.toFixed(2);
+
+
+  if (preco > 80){
+    var desconto = preco * 0.15;
+    document.getElementById('desconto').innerHTML = "15% de desconto à vista! -- " + 'R$ ' + (preco - desconto).toFixed(2);
+  }
+
+  if (isNaN(desconto)) {
+    document.getElementById('desconto').innerHTML =  "";
+  }
+
+  console.log("Desconto: " + parseFloat(desconto))
 
   var prazo = parseInt(laudas/5);
 
