@@ -1,0 +1,8 @@
+parametros:
+  tamanholauda: 300
+  precolauda: 5
+  laudaspordia: 5
+  horaaula: 50
+  correcao: 10
+  precominimo: 40
+  prazominimo: 2

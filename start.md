@@ -1,5 +1,6 @@
 ---
 layout: page_standalone
+background: orcamento
 ---
 
 {% include startpage_search.html %}
@@ -11,7 +12,7 @@ layout: page_standalone
 {% assign tipo = "facul" %}
 {% include dataloop.html %}
 
-{% assign titulo = "Social & Fun" %}
+{% assign titulo = "Socia:wl & Fun" %}
 {% assign tipo = "fun" %}
 {% include dataloop.html %}
 

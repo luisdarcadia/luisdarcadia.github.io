@@ -9,6 +9,10 @@
   <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.13/css/all.css">
 
   <title> {{site.title}} </title>
+  <script>
+    var string = '{{ site.data.parametros | jsonify }}';
+    localStorage.setItem('parametros', string);
+  </script>
 
 </head> 
 

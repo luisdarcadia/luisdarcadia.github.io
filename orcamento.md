@@ -1,6 +1,7 @@
 ---
 layout: page_standalone
 orcamento: true
+background: orcamento
 ---
 
 # Simule seu orçamento!
