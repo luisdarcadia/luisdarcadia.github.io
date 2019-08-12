@@ -6,6 +6,10 @@
 #  tipo: facul
 #  link: https://sistemas.unesp.br/sentinela/login.open.action
 
+- nome: UNOPAR
+  tipo: facul
+  link: https://www.unoparead.com.br
+
 - nome: Biblio - UNESP
   tipo: facul
   link: https://www.athena.biblioteca.unesp.br/
