@@ -1,5 +1,6 @@
 ---
 layout: page_standalone
+background: about
 ---
 
 [nm-collier]:https://commons.wikimedia.org/wiki/File:EDWAERT_COLLIER_VANITAS_STILL_LIFE.jpg

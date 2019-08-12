@@ -1,7 +1,3 @@
----
-layout: page_standalone
----
-
 # Quais são os serviços oferecidos?
 
 Revisão da coesão e coerência textuais, assim como de aspectos da modalidade escrita e formal da Língua Portuguesa (ortografia, concordância, pontuação, entre outros).
@@ -18,13 +14,11 @@ Emitimos nota fiscal (CNPJ 32.958.137/0001-40).
 
 Consideramos **uma lauda** o conjunto de **300 palavras**.
 
-O preço de **uma lauda** \* é R$ 5,00.
+O preço de **uma lauda**\* é R$ 5,00.
 
 \* preço mínimo para qualquer orçamento é R$ 40,00.
 
-O prazo para a revisão é de **um dia útil** por cada **10 laudas** requisitadas pelo cliente.
+O prazo para a revisão é de **um dia útil** por cada **5 laudas** requisitadas pelo cliente.
 
-# Dúvidas? Entre em contato (sistema mediado Formspree, pede-se confirmação por CAPTCHA):
-
-{% include contato_form.html %}
+## [Simule o orçamento de seu trabalho aqui!](http://www.luisdarcadia.com/simulaorcamento)
 

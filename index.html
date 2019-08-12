@@ -2,8 +2,23 @@
 layout: page
 ---
 
-{% include inicio.html %}
+<section id="inicio">
+  <article>
+    {% capture bio %}{% include_relative bio.md %} {% endcapture %}
+    {{ bio | markdownify }}
+  </article>
+</section>
 
-{% include aulas.html %}
+<section id="alunos">
+  <article>
+    {% capture alunos %}{% include_relative alunos.md %} {% endcapture %}
+    {{ alunos | markdownify }}
+  </article>
+</section>
 
-{% include revisoes.html %}
+<section id="revisoes">
+  <article>
+    {% capture revisoes %}{% include_relative revisoes.md %} {% endcapture %}
+    {{ revisoes | markdownify }}
+  </article>
+</section>

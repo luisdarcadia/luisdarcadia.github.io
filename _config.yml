@@ -9,6 +9,7 @@ url: "https://luisdarcadia.github.io"
 permalink: pretty
 github_username: "luisdarcadia"
 instagram_username: "luisfcdarcadia"
+facebook_username: 'luisfernandocamposd'
 linkedin_profile: "https://www.linkedin.com/in/lu%C3%ADs-fernando-campos-d-arcadia-2b2b905a/"
 img_path: "assets/img"
 js_path: "assets/js"
@@ -18,7 +19,7 @@ navlinks:
   - name: Quem sou
     link: inicio
   - name: Aulas
-    link: aulas
+    link: alunos
   - name: Revisões
     link: revisoes
 

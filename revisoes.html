@@ -1,0 +1,7 @@
+---
+layout: page_standalone
+background: revisoes
+---
+
+{% capture revisoes %}{% include_relative revisoes.md %} {% endcapture %}
+{{ revisoes | markdownify }}

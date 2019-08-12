@@ -1,0 +1,7 @@
+---
+layout: page_standalone
+background: alunos
+---
+
+{% capture alunos %}{% include_relative alunos.md %} {% endcapture %}
+{{ alunos | markdownify }}
