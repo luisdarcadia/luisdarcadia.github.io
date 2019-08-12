@@ -1,5 +1,5 @@
 ---
-layout: page_standalone
+layout: page
 background: orcamento
 ---
 
