@@ -1,5 +1,6 @@
 ---
-layout: page_standalone
+layout: page
+subtitle: "Sobre"
 background: about
 ---
 
@@ -14,22 +15,21 @@ background: about
 
 # Sobre
 
-Website pessoal, feito para treinar html e css.
+Website pessoal, feito para treinar html, css e javascript :).
 
-## Crédito das imagens:
+## Créditos das imagens:
 
-Início: *[Natureza morta][nm-collier]* (1662), Evert Collier (1642-1708), Domínio Público.
+*[Natureza morta][nm-collier]* (1662), Evert Collier (1642-1708), Domínio Público.
 
-Startpage: *[Natureza morta][nm-collier2]* (1705), Evert Collier (1642-1708), Domínio Público.
+*[Natureza morta][nm-collier2]* (1705), Evert Collier (1642-1708), Domínio Público.
 
-Latex: *[Vanitas - Natureza com livros manuscritos e uma caveira][nm-collier3]* (1663), Evert Collier (1642-1708), Domínio Público.
+*[Vanitas - Natureza com livros manuscritos e uma caveira][nm-collier3]* (1663), Evert Collier (1642-1708), Domínio Público.
 
-Sobre: *[Natureza morta][nm-collier4]* (1696), Evert Collier (1642-1708), Domínio Público.
+*[Natureza morta][nm-collier4]* (1696), Evert Collier (1642-1708), Domínio Público.
 
+*[Vanitas][nm-collier5]*, Evert Collier (1642-1708), Domínio Público.
 
-Capa do blog: *[Vanitas][nm-collier5]*, Evert Collier (1642-1708), Domínio Público.
-
-Textos do blog: *[Trompe l'oeil][nm-collier6]*, Evert Collier (1642-1708), Domínio Público.
+*[Trompe l'oeil][nm-collier6]*, Evert Collier (1642-1708), Domínio Público.
 
 ## Crédito das fontes tipográficas:
 
