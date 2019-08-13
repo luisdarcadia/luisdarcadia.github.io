@@ -2,13 +2,11 @@
 layout: post
 title: ""
 date: 2017-12-11 15:35:00 -0200
-author: Luís
+author_id: 1
 comments: false
-nav: nav_blogpost
-cor: corblog
+background: blog
 category: template
 ---
 
-
-
+# Title
 
