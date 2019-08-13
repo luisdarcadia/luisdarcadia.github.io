@@ -8,16 +8,20 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=EB+Garamond">
   <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.13/css/all.css">
 
+  <script>
+    var string = '{{ site.data.parametros | jsonify }}';
+    localStorage.setItem('parametros', string)
+  </script>
+
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
+
   <title>
     {{site.title}}
     {% if page.title %}
      · {{ page.title }}
     {% endif %}
   </title>
-  <script>
-    var string = '{{ site.data.parametros | jsonify }}';
-    localStorage.setItem('parametros', string)
-  </script>
-
 </head> 
 
