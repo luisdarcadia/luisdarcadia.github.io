@@ -1,8 +1,5 @@
 var inputPalavras = document.getElementById('palavras');
 
-var receberPar = localStorage.getItem('parametros');
-var Parametros = JSON.parse(receberPar);
-
 inputPalavras.onkeyup = function(){
 
   var palavras = parseInt(inputPalavras.value);
@@ -19,7 +16,7 @@ inputPalavras.onkeyup = function(){
     document.getElementById('erros').innerHTML = "";
   }
 
-  var laudas = parseInt(palavras/Parametros.parametros.tamanholauda);
+  var laudas = parseInt(palavras/Parametros.luis.tamanholauda);
 
   if (laudas < 1){
     laudas = 1;
@@ -27,10 +24,10 @@ inputPalavras.onkeyup = function(){
 
   document.getElementById('laudas').innerHTML = laudas;
 
-  var preco = laudas * Parametros.parametros.precolauda;
+  var preco = laudas * Parametros.luis.precolauda;
 
-  if (preco < Parametros.parametros.precominimo){
-    preco = Parametros.parametros.precominimo;
+  if (preco < Parametros.luis.precominimo){
+    preco = Parametros.luis.precominimo;
   }
 
   document.getElementById('preco').innerHTML = "R$ " + preco.toFixed(2);
@@ -45,10 +42,10 @@ inputPalavras.onkeyup = function(){
     document.getElementById('desconto').innerHTML =  "";
   }
 
-  var prazo = parseInt(laudas/Parametros.parametros.laudaspordia);
+  var prazo = parseInt(laudas/Parametros.luis.laudaspordia);
 
-  if (prazo < Parametros.parametros.prazominimo){
-    prazo = Parametros.parametros.prazominimo;
+  if (prazo < Parametros.luis.prazominimo){
+    prazo = Parametros.luis.prazominimo;
   }
 
   document.getElementById('prazo').innerHTML = prazo + " dias úteis";

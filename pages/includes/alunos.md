@@ -10,15 +10,15 @@ Ofereço também correção de redações. Ela é acompanhada de uma **ficha det
 
 ## Aulas
 
-**R$ {{site.data.parametros.parametros.horaaula}},00** por hora.
+**R$ {{site.data.parametros[page.professor].horaaula}},00** por hora.
 
-**R$ 180,00** pacote com **quatro** aulas.
+**R$ {{ site.data.parametros[page.professor].horaaula | times: 5 | times: 0.90 | ceil }},00** pacote com **cinco** aulas.
 
 ## Correções de redação
 
-**R$ {{site.data.parametros.parametros.correcao}},00** por correção (inclui elaboração de temas).
+**R$ {{site.data.parametros[page.professor].correcao}},00** por correção (inclui elaboração de temas).
 
-**R$ 45,00** pelo pacote de **cinco** correções (inclui elaboração de temas).
+**R$ {{ site.data.parametros[page.professor].correcao | times: 5 | times: 0.90 | ceil }},00** pelo pacote de **cinco** correções (inclui elaboração de temas).
 
 ## Como é feito o pagamento?
 

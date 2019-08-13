@@ -1,10 +1,3 @@
----
-layout: page
-title: "Sobre"
-permalink: /sobre
-background: about
----
-
 [nm-collier]:https://commons.wikimedia.org/wiki/File:EDWAERT_COLLIER_VANITAS_STILL_LIFE.jpg
 [nm-collier3]:https://commons.wikimedia.org/wiki/File:Edwaert_Collier_-_Vanitas_-_Still_Life_with_Books_and_Manuscripts_and_a_Skull_-_Google_Art_Project.jpg
 [nm-collier4]:https://commons.wikimedia.org/wiki/File:Colyer,_Edwaert_-_Still_Life_-_Google_Art_Project.jpg
@@ -39,6 +32,3 @@ EB Garamond &copy;, [OFL 1.1][garamond], Georg Duffner @ http://www.georgduffner
 
 Font Awesome &copy;, [OFL 1.1][garamond], Dave Gandy @ http://fontawesome.io.
 
-## Contato
-
-{% include contato_form.html %}

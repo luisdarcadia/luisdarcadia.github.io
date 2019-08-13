@@ -1,6 +1,7 @@
 ---
 layout: default
-subtitle: "Língua Portuguesa e Redação"
+title: "Língua Portuguesa e Redação"
+professor: luis
 ---
 
 <section id="inicio">
@@ -21,5 +22,12 @@ subtitle: "Língua Portuguesa e Redação"
   <article>
     {% capture revisoes %}{% include_relative pages/includes/revisoes.md %} {% endcapture %}
     {{ revisoes | markdownify }}
+  </article>
+</section>
+
+<section id="about">
+  <article>
+    {% capture sobre %}{% include_relative pages/includes/sobre.md %} {% endcapture %}
+    {{ sobre | markdownify }}
   </article>
 </section>

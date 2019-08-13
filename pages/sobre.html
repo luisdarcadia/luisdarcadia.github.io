@@ -1,0 +1,14 @@
+---
+layout: page
+title: "Sobre"
+permalink: /sobre
+professor: luis
+background: about
+---
+
+{% capture sobre %}{% include_relative includes/sobre.md %} {% endcapture %}
+{{ sobre | markdownify }}
+
+<h1>Contato</h1>
+
+{% include contato_form.html %}

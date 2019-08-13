@@ -12,13 +12,13 @@ Emitimos nota fiscal (CNPJ 32.958.137/0001-40).
 
 # Preços e prazos
 
-Consideramos **uma lauda** o conjunto de **{{site.data.parametros.parametros.tamanholauda}} palavras**.
+Consideramos **uma lauda** o conjunto de **{{site.data.parametros[page.professor].tamanholauda}} palavras**.
 
-O preço de **uma lauda**\* é R$ {{site.data.parametros.parametros.precolauda}},00.
+O preço de **uma lauda**\* é R$ {{site.data.parametros[page.professor].precolauda}},00.
 
-\* preço mínimo para qualquer orçamento é R$ {{site.data.parametros.parametros.precominimo}},00.
+\* preço mínimo para qualquer orçamento é R$ {{site.data.parametros[page.professor].precominimo}},00.
 
-O prazo para a revisão é de **um dia útil** por cada **{{site.data.parametros.parametros.laudaspordia}} laudas** requisitadas pelo cliente.
+O prazo para a revisão é de **um dia útil** por cada **{{site.data.parametros[page.professor].laudaspordia}} laudas** requisitadas pelo cliente.
 
 ## [Simule o orçamento de seu trabalho aqui!]({{site.baseurl}}/orcamento)
 

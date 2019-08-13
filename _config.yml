@@ -16,12 +16,12 @@ js_path: "assets/js"
 css_path: "assets/css"
 
 navlinks:
-  - name: Quem sou
-    link: inicio
   - name: Aulas
     link: alunos
   - name: Revisões
     link: revisoes
+  - name: Sobre
+    link: sobre
 
 # Build settings
 markdown: kramdown
