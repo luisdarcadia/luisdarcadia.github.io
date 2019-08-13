@@ -1,8 +1,8 @@
 # Modalidades
 
-Aulas de Língua Portuguesa (refoço escolar e concursos), Língua Francesa e aulas de Redação (ENEM e concursos).
+Aulas de Língua Portuguesa e redação (reforço escolar e concursos) e Língua Francesa (incluindo instrumental).
 
-Ofereço também correção de redações. Ela é acompanhada de uma **ficha detalhada de correção** e também **temas elaborados de acordo com exigências do aluno**.
+Ofereço também correção avulsa de redações. Ela é acompanhada de uma **ficha detalhada de correçãoi personalizada** e também **temas elaborados de acordo com exigências do aluno**.
 
 <a id="agendar" target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NHE5bHNsOG9pOWhkZG84bTNrNjVucHEwcTAgZTBjMDdrc2luMnVvMHE5aTZyamFkNjQxZXNAZw&amp;tmsrc=e0c07ksin2uo0q9i6rjad641es%40group.calendar.google.com"> Clique aqui para agendar uma aula! </a>
 
