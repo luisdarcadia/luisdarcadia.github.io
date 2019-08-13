@@ -1,19 +1,48 @@
 ---
-layout: page_standalone
+layout: page
+background: orcamento
 ---
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+
+    <h1><span class="post-title p-name" itemscope itemtype="http://schema.org/CreativeWork" itemprop="name headline">{{ page.title | escape }}</span></h1>
+
+    <p>
+      {%- if page.author_id -%}
+      {% assign author = site.data.authors[page.author_id] %}
+      • por  <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">
+          {{author.name | escape }}
+          {% for mn in author.middlenames %}
+            {{ mn | slice: 0}}.
+          {% endfor %}
+          {{author.surname}}
+        </span></span>
+      {%- endif -%}
+    </p>
+
+    {% if author.picture == true %}
+    <img src="{{site.url}}/{{site.img_path}}/authors/{{page.author_id}}.jpg"></img>
+    {% endif %}
+
+    <p>
+      Publicado em:
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemscope itemtype="http://schema.org/CreativeWork" itemprop="datePublished">
+        {%- assign date_format = "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }} 
       </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-      {%- endif -%}</p>
+    </p>
+
+    <p>
+      Atualizado em: 
+      <time class="dt-updated" datetime="{{ page.date | date_to_xmlschema }}" itemscope itemtype="http://schema.org/CreativeWork" itemprop="dateModified">
+        {% if page.updated_at%}
+          {{page.updated_at | date: date_format }} 
+        {% endif %}
+      </time>
+    </p>
+
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content" itemscope itemtype="http://schema.org/CreativeWork/Article" itemprop="articleBody">
     {{ content }}
   </div>
 

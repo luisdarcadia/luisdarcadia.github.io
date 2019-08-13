@@ -2,11 +2,11 @@
 layout: post
 title: "ABNT: elementos pré-textuais"
 date: 2018-09-30 09:29:00 -0300
-author: Luís
+updated_at: 2019-08-12 19:05:00 -0300
+author_id: 1
 comments: true
-nav: nav-blogpost
-cor: corblog
 category: abnt
+background: blog
 ---
 
 # Quais são os elementos pré-textuais obrigatórios segundo a ABNT?
