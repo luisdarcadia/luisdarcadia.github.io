@@ -1,0 +1,12 @@
+---
+layout: page
+title: Rascunhos
+permalink: /rascunhos
+background: blog
+---
+
+<h1>Rascunhos</h1>
+
+{% for post in site.categories.rascunhos limit:5 %}
+	{% include bloglist.html %}
+{% endfor %}

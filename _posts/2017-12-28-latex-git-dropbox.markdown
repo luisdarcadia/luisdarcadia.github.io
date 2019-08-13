@@ -2,10 +2,9 @@
 layout: post
 date:   2017-12-28 05:32:35 -0200
 title:  "Latex e Git e Dropbox"
-author: Luís
+author_id: 1
 comments: true
-cor: corblog
-nav: nav-blogpost
+background: blog
 categories: blog
 ---
 

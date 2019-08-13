@@ -2,10 +2,9 @@
 layout: post
 title: "Jekyll e _markdown_"
 date: 2017-12-22 15:35:00 -0200
-author: Luís
+author_id: 1
 comments: true
-nav: nav-blogpost
-cor: corblog
+background: orcamento
 category: blog
 ---
 

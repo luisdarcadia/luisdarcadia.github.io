@@ -2,10 +2,9 @@
 layout: post
 date: 2017-12-26 05:00:00 -0200
 title: Cheatsheet VIM
-author: Luís
+author_id: 1
 comments: false
-nav: nav-blogpost
-cor: corblog
+background: blog
 categories: rascunhos
 ---
 

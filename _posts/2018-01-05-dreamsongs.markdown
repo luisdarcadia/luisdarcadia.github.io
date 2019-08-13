@@ -2,10 +2,9 @@
 layout: post
 title: "_Dreamsongs_ de George R. R. Martin"
 date: 2018-01-05 04:35:00 -0200
-author: Luís
+author_id: 1
 comments: false
-nav: nav-blogpost
-cor: corblog
+background: blog
 categories: rascunhos lit
 ---
 

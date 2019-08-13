@@ -1,6 +1,5 @@
 ---
 layout: page
-background: orcamento
 ---
   <header class="post-header">
 
@@ -31,6 +30,7 @@ background: orcamento
       </time>
     </p>
 
+    {% if page.updated_at %}
     <p>
       Atualizado em: 
       <time class="dt-updated" datetime="{{ page.date | date_to_xmlschema }}" itemscope itemtype="http://schema.org/CreativeWork" itemprop="dateModified">
@@ -39,6 +39,7 @@ background: orcamento
         {% endif %}
       </time>
     </p>
+    {% endif %}
 
   </header>
 

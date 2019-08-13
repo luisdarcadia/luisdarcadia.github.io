@@ -2,10 +2,9 @@
 layout: post
 title: "Escrita acadêmica em Letras - impressões"
 date: 2018-03-10 06:21:00 -0200
-author: Luís
+author_id: 1
 comments: false
-nav: corblog
-cor: corblog
+background: blog
 category: rascunhos
 ---
 

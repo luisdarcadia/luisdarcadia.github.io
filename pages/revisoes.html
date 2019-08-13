@@ -1,0 +1,9 @@
+---
+layout: page
+title: "Revisão de Textos"
+permalink: /revisoes
+background: revisoes
+---
+
+{% capture revisoes %}{% include_relative includes/revisoes.md %} {% endcapture %}
+{{ revisoes | markdownify }}

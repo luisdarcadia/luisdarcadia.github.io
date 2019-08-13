@@ -5,21 +5,21 @@ subtitle: "Língua Portuguesa e Redação"
 
 <section id="inicio">
   <article>
-    {% capture bio %}{% include_relative bio.md %} {% endcapture %}
+    {% capture bio %}{% include_relative pages/includes/bio.md %} {% endcapture %}
     {{ bio | markdownify }}
   </article>
 </section>
 
 <section id="alunos">
   <article>
-    {% capture alunos %}{% include_relative alunos.md %} {% endcapture %}
+    {% capture alunos %}{% include_relative pages/includes/alunos.md %} {% endcapture %}
     {{ alunos | markdownify }}
   </article>
 </section>
 
 <section id="revisoes">
   <article>
-    {% capture revisoes %}{% include_relative revisoes.md %} {% endcapture %}
+    {% capture revisoes %}{% include_relative pages/includes/revisoes.md %} {% endcapture %}
     {{ revisoes | markdownify }}
   </article>
 </section>

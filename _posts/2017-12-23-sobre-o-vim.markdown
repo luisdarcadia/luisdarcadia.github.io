@@ -2,10 +2,9 @@
 layout: post
 date: 2017-12-25 05:00:00 -0200
 title: "Escrevendo na linha de comando"
-author: Luís
+author_id: 1
 comments: true
-nav: nav-blogpost
-cor: corblog
+background: blog
 categories: blog
 ---
 [vi]:https://pt.wikipedia.org/wiki/Vi
