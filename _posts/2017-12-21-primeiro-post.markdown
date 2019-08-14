@@ -5,7 +5,7 @@ date: 2017-12-22 15:35:00 -0200
 author_id: 1
 comments: true
 background: orcamento
-category: blog
+categories: blog tech
 ---
 
 [Markdown]:https://daringfireball.net/projects/markdown/

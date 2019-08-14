@@ -5,7 +5,7 @@ title: "Escrevendo na linha de comando"
 author_id: 1
 comments: true
 background: blog
-categories: blog
+categories: blog tech
 ---
 [vi]:https://pt.wikipedia.org/wiki/Vi
 [BramMoolenar]:http://www.moolenaar.net/

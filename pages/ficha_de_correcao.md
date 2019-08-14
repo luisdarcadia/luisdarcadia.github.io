@@ -17,8 +17,15 @@ Aqui se avalia o seu domínio da tipologia textual do texto *dissertativo argume
 
 Pergunte-se:
 
-+ o paragrafo de introdução cumpre a função de *apresentar o problema* e ao mesmo tempos *sua tese*, ou seja, a sua posição sobre a temática.
-+ o desenvolvimento apresenta argumentos
-+
++ minha redação apresenta parágrafos de *introdução*, *desenvolvimento* e *conclusão*?
++ o paragrafo de introdução cumpre a função de *apresentar o problema*?
++ no parágrafo de introdução, você apresenta a *sua tese*, ou seja, a sua posição sobre a temática?
++ os parágragos de desenvolvimento possuem *relações entre si* e com a sua *tese*?
++ o parágrafo de conclusão sintetiza os argumentos do desenvolvimento?
++ a conclusão apresenta uma *solução* para a problemática?
 
-# Critério 3
+# Critério 3 - Coerência Textual
+
+# Critério 4 - Coesão Textual
+
+# Critério 5 - Norma culta da modalidade escrita da Língua Portuguesa

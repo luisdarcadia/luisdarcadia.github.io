@@ -1,8 +1,10 @@
-# Quais são os serviços oferecidos?
+# Como são os serviços oferecidos?
 
-Revisão da coesão e coerência textuais, assim como de aspectos da modalidade escrita e formal da Língua Portuguesa (ortografia, concordância, pontuação, entre outros).
+Revisão da **coesão e coerência textuais**, assim como de aspectos da **modalidade escrita e formal** da Língua Portuguesa (ortografia, concordância, pontuação, entre outros).
 
 **Não** inclui *redação* complementar ou integral de textos em qualquer modalidade.
+
+**Não** inclui a correção do *conteúdo* temático ou científico do texto.
 
 # Como é feito o pagamento?
 
@@ -20,5 +22,5 @@ O preço de **uma lauda**\* é R$ {{site.data.parametros[page.professor].precola
 
 O prazo para a revisão é de **um dia útil** por cada **{{site.data.parametros[page.professor].laudaspordia}} laudas** requisitadas pelo cliente.
 
-## [Simule o orçamento de seu trabalho aqui!]({{site.baseurl}}/orcamento)
+# [Simule o orçamento de seu trabalho aqui!]({{site.baseurl}}/orcamento)
 

@@ -5,7 +5,7 @@ date: 2018-01-05 04:35:00 -0200
 author_id: 1
 comments: false
 background: blog
-categories: rascunhos lit
+categories: rascunhos resenhas
 ---
 
 *Dreamsongs* reúne contos do agora celebridade autor da *Canção do Gelo e do Fogo*, George R. R. Martin.

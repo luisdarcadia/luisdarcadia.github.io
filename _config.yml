@@ -21,7 +21,7 @@ css_path: "assets/css"
 navlinks:
   - name: Aulas
     link: alunos
-  - name: Revisões
+  - name: Revisão de Textos
     link: revisoes
   - name: Sobre
     link: sobre

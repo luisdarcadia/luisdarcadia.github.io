@@ -5,7 +5,7 @@ date: 2018-03-10 06:21:00 -0200
 author_id: 1
 comments: false
 background: blog
-category: rascunhos
+categories: rascunhos lingua
 ---
 
 # Dissertação, frase e parágrafo

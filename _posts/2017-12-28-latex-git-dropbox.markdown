@@ -5,7 +5,7 @@ title:  "Latex e Git e Dropbox"
 author_id: 1
 comments: true
 background: blog
-categories: blog
+categories: blog tech
 ---
 
 [git]:https://git-scm.com/
