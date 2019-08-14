@@ -8,7 +8,7 @@ Revisão da **coesão e coerência textuais**, assim como de aspectos da **modal
 
 # Como é feito o pagamento?
 
-Depósito bancário, emissão de boleto ou anúncio no Mercado Livre.
+Depósito bancário, emissão de boleto ou por intermédio do PagSeguro.
 
 Emitimos nota fiscal (CNPJ 32.958.137/0001-40).
 
