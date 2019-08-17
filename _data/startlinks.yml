@@ -6,6 +6,10 @@
 #  tipo: facul
 #  link: https://sistemas.unesp.br/sentinela/login.open.action
 
+- nome: CUPS
+  tipo: localhost
+  link: localhost:631
+
 - nome: UNOPAR
   tipo: facul
   link: https://www.unoparead.com.br
