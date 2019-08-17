@@ -36,6 +36,8 @@ Este critério confere se há problemas na *construção dos argumentos*:
 + deixou clara as relações *temporais*?
 + utilizou *exemplos*, *comparações* e dados?
 
+Avalia também a *linha argumentativa* que você construiu, por isso é importante estabelecer o seu *ponto de vista* e direcionar a argumentação para apoiar tal ponto de vista.
+
 # Critério 4 - Coesão Textual
 
 *Em construção.*

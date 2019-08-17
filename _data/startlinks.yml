@@ -8,7 +8,7 @@
 
 - nome: CUPS
   tipo: localhost
-  link: localhost:631
+  link: http://localhost:631
 
 - nome: UNOPAR
   tipo: facul
