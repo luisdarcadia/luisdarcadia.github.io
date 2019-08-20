@@ -7,8 +7,6 @@
 [garamond]:https://github.com/georgd/EB-Garamond/blob/master/COPYING
 [fsawesome]:http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
 
-# Sobre
-
 Website pessoal, feito para treinar html, css e javascript :).
 
 ## Créditos das imagens

@@ -24,7 +24,7 @@ navlinks:
   - name: Revisão de Textos
     link: revisoes
   - name: Sobre
-    link: sobre
+    link: about
 
 # Build settings
 markdown: kramdown

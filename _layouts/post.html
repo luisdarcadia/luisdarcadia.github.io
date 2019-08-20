@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 ---
 
+<section id="{{page.background}}">
+  <article>
   {% assign author = site.data.authors[page.author_id] %}
 
   <header class="post-header">
@@ -58,3 +60,5 @@ layout: page
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
+</section>

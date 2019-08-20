@@ -1,0 +1,13 @@
+---
+layout: page
+title: Poemas
+permalink: /poemas
+background: inicio
+---
+
+    <ul class="post-list">
+      {% for poema in site.poemas limit:5 %}
+      <a href="{{poema.ural}}">{{poema.title}}</a>
+      {% endfor %}
+    </ul>
+
