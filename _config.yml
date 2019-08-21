@@ -26,6 +26,14 @@ navlinks:
   - name: Sobre
     link: about
 
+collections:
+  poemas:
+    output: true
+    permalink: /poemas/:path
+  fichamentos:
+    output: true
+    permalink: /fichamentos/:path
+
 # Build settings
 markdown: kramdown
 disqus:

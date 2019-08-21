@@ -7,7 +7,7 @@ background: inicio
 
     <ul class="post-list">
       {% for poema in site.poemas limit:5 %}
-      <a href="{{poema.ural}}">{{poema.title}}</a>
+      <a href="{{poema.url}}">{{poema.title}}</a>
       {% endfor %}
     </ul>
 

@@ -1,0 +1,13 @@
+---
+layout: page
+title: Fichamentos
+permalink: /fichamentos
+background: inicio
+---
+
+    <ul class="post-list">
+      {% for fichamento in site.fichamentos limit:5 %}
+      <a href="{{fichamento.url}}">{{fichamento.autor}}</a>
+      {% endfor %}
+    </ul>
+
