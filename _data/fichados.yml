@@ -1,0 +1,369 @@
+#artigos
+- key: henderson1992
+  autorsobrenome: "Henderson"
+  autornome: "Judith Rice"
+  titulo: "Erasmian Ciceronians: Reformation Teachers of Letter-Writing"
+  revista: "Rhetorica: A Journal of the History of Rhetoric"
+  local: California
+  volume: 10
+  numero: 3
+  mes: "Summer"
+  ano: 1992
+  paginas: "273-302"
+  url: "https://www.jstor.org/stable/10.1525/rh.1992.10.3.273"
+  urldate: "23-09-2018"
+
+- key: camargo1988
+  autorsobrenome: "Camargo"
+  autornome: "Martin"
+  titulo: "Toward a Comprehensive Art of Written Discourse: Geoffrey of Vinsauf and the Ars Dictaminis"
+  revista: "Rhetorica: A Journal of the History of Rhetoric"
+  local: California
+  volume: 6
+  numero: 2
+  mes: "Spring"
+  ano: 1988
+  paginas: "167-194"
+  url: "http://www.jstor.org/stable/10.1525/rh.1988.6.2.167"
+  urldate: "14-01-2018"
+
+- key: gomez1999
+  autorsobrenome: "Gomez-Bravo"
+  autornome: "Ana M."
+  titulo: "Retórica y poética en la evolución de los géneros poéticos cuatrocentistas"
+  revista: "Rhetorica: A Journal of the History of Rhetoric"
+  local: California
+  volume: 17
+  numero: 2
+  mes: "Spring"
+  ano: 1999
+  paginas: "137-175"
+  url: "http://www.jstor.org/stable/10.1525/rh.1999.17.2.137"
+  urldate: "15-12-2017"
+
+- key: nichols1990
+  autorsobrenome: Nichols
+  autornome: Stephen G
+  titulo: "Introduction: Philology in manuscript culture"
+  revista: "Speculum"
+  local:
+  volume: 65
+  numero: 1
+  mes: "Jan."
+  ano: 1990
+  paginas: "1-10"
+
+- key: borque1983
+  autorsobrenome: Borque
+  autornome: "José María Díez"
+  titulo: "Manuscrito y marginalidad poética en el XVII hispano"
+  revista: "Hispanic Review"
+  local: 
+  volume: 51
+  numero: 4
+  mes: 
+  ano: 1983
+  paginas: "371-392"
+
+#livros
+- key: cairns1972
+  autornome: "Francis"
+  autorsobrenome: "Cairns"
+  titulo: "Generic composition in Greek and Roman verse"
+  local: "Edinburgh"
+  editora: "Edinburgh Univesity Press"
+  ano: "1972"
+
+- key: zumthor1972
+  autornome: "Paul"
+  autorsobrenome: "Zumthor"
+  titulo: "Essai de poétique mediévale"
+  local: "Paris"
+  editora: "Éditions du Seuil"
+  ano: "1972"
+
+- key: carvalho2007
+  autornome: "Maria do Socorro Fernandes"
+  autorsobrenome: "Carvalho"
+  titulo: "Poesia de Agudeza em Portugal"
+  local: "São Paulo"
+  editora: "Editora da Universidade de São Paulo"
+  ano: 2007
+
+- key: teixeira1999
+  autornome: "Ivan Prado"
+  autorsobrenome: "Teixeira"
+  titulo: "Mecenato Pombalino e Poesia Neoclássica"
+  local: "São Paulo"
+  editora: "Editora da Universidade de São Paulo"
+  ano: 1999
+
+- key: vasconcelos1934
+  autornome: "Carolina Michaëlis"
+  autorsobrenome: "Vasconcelos"
+  titulo: "Estudos do romanceiro peninsular"
+  subtitulo: "romances velhos em Portugal"
+  local: "Coimbra"
+  editora: "Imprensa da Universidade"
+  ano: 1934
+
+- key: curtius1996
+  autornome: "Ernst Robert"
+  autorsobrenome: "Curtius"
+  titulo: "Literatura Europeia e Idade Média Latina"
+  local: "São Paulo"
+  editora: "Hucitec"
+  ano: 1996
+
+- key: belchior1953
+  autornome: "Maria de Lourdes Belchior"
+  autorsobrenome: Pontes
+  livro: "Frei Antônio das Chagas: um homem e um estilo do século XVII"
+  local: "Lisboa"
+  editora: "Centro de Estudos Filológicos"
+  ano: 1953
+
+- key: moreira2011
+  autornome: Marcello 
+  autorsobrenome: Moreira
+  titulo: "Critica textualis in caelum Revocata? uma proposta de edição e estudo da tradição de Gregório de Matos e Guerra"
+  local: São Paulo
+  editora: "Editora da Universidade de São Paulo"
+  ano: 2011
+
+- key: spitzer1989
+  autornome: "Leo"
+  autorsobrenome: "Spitzer"
+  autorlivronome: "Leo"
+  autorlivrosobrenome: "Spitzer"
+  livro: "Lingüística e História Literária"
+  capitulo: "Lingüística e História Literária"
+  local: "Madrid"
+  editora: "Editorial Gredos"
+  ano: 1989
+  paginas: "7-53"
+
+- key: melo1959
+  autornome: "D. Francisco Manuel de"
+  autorsobrenome: "Melo"
+  autorlivronome: "D. Francisco Manuel de"
+  autorlivrosobrenome: "Melo"
+  livro: "Apólogos Dialogais"
+  capitulo: "Hospital das Letras"
+  comentario: "Prefácio e notas de Prof. José Pereira Tavares"
+  local: "Lisboa"
+  editora: "Livraria Sá da Costa"
+  ano: 1959
+  paginas: "77-267"
+
+- key: pontes1950
+  autornome: Maria de Lourdes Belchior
+  autorsobrenome: Pontes
+  titulo: "Bibliografia de António da Fonseca Soares"
+  comentario:
+  local: Lisboa
+  editora: Centro de Estudos Filológicos
+  ano: 1950
+
+#capítulos de livro
+- key: santillana1852
+  autornome: "Marquês de"
+  autorsobrenome: Santillana
+  autorlivronome: "Don José Amador de los"
+  autorlivrosobrenome: Rios
+  livro: "Obras de Iñigo Lopez de Mendoza, Marqués de Santillana"
+  capitulo: "Comiença el prohemio e carta quel marqués de Santillana envió al condestable de Portugal con las obras suyas"
+  local: "Madrid"
+  editora: "Imprensa de la calle de S. Vicente baja, á cargo de José Rodriguez."
+  ano: 1852
+  paginas: "1-18"
+
+- key: belchior1953a
+  autornome: "Maria de Lourdes Belchior"
+  autorsobrenome: Pontes
+  autorlivronome: "Maria de Lourdes Belchior"
+  autorlivrosobrenome: Pontes
+  livro: "Frei Antônio das Chagas: um homem e um estilo do século XVII"
+  capitulo: "Capítulo I - Conversão e desengano do mundo"
+  local: "Lisboa"
+  editora: "Centro de Estudos Filológicos"
+  ano: 1953
+  paginas: "1-18"
+
+- key: belchior1953b
+  autornome: "Maria de Lourdes Belchior"
+  autorsobrenome: Pontes
+  autorlivronome: "Maria de Lourdes Belchior"
+  autorlivrosobrenome: Pontes
+  livro: "Frei Antônio das Chagas: um homem e um estilo do século XVII"
+  capitulo: "Capítulo II - Fonseca, soldade e poeta"
+  local: "Lisboa"
+  editora: "Centro de Estudos Filológicos"
+  ano: 1953
+  paginas: "19-66"
+
+- key: belchior1953c
+  autornome: "Maria de Lourdes Belchior"
+  autorsobrenome: Pontes
+  autorlivronome: "Maria de Lourdes Belchior"
+  autorlivrosobrenome: Pontes
+  livro: "Frei Antônio das Chagas: um homem e um estilo do século XVII"
+  capitulo: "Capítulo III - A poética do Capitão Bonina"
+  local: "Lisboa"
+  editora: "Centro de Estudos Filológicos"
+  ano: 1953
+  paginas: "67-180"
+
+- key: hansen2011 
+  autornome: João Adolfo
+  autorsobrenome: Hansen
+  autorlivronome: Marcello
+  autorlivrosobrenome: Moreira
+  livro: "*Critica Textualis in Caelum Revocata?*: uma proposta de edição de Gregório de Matos e Guerra"
+  capitulo: "Códigos bibliográficos, escribas, manuscritura e códices da poesia atribuída a Gregório de Matos e Guerra"
+  editora: "Editora da Universidade de São Paulo"
+  ano: 2011
+  local: São Paulo
+  paginas: "13-41"
+
+#tese
+- key: almeida1992
+  autornome: Maria Clotilde de Oliveira Maciel
+  autorsobrenome: Almeida
+  titulo: "Romances de ausência e de saudade de Antônio da Fonseca Soares: transcrição de romances extraídos do códice número 3549 da Biblioteca Nacional. Uma leitura comparada com os códices número PBA 132 a 1001, 3368, 3566, 6104, 6769, 6430, 8575, 8581, 8614, 9321, 9322 da mesma biblioteca, precedido de um breve estudo comparativo"
+  modalidade: Dissertação de mestrado em Literatura e Cultura Portuguesa
+  instituicao: Universidade Nova de Lisboa
+  local: Lisboa
+  ano: 1992
+
+- key: braga1867a
+  autornome: "Teófilo"
+  autorsobrenome: "Braga"
+  autorlivronome: "Teófilo"
+  autorlivrosobrenome: "Braga"
+  livro: "Poesia Popular Portugueza"
+  capitulo: "Prologo, Leis da formação poética"
+  comentario:
+  local: "Porto"
+  editora: "Typographia Lusitana"
+  ano: 1867
+  paginas: "V-VIII"
+  url: "https://books.google.com.br/books?id=PhpEAAAAcAAJ"
+  urldate: "15 nov. 2017"
+
+- key: braga1867b
+  autornome: "Teófilo"
+  autorsobrenome: "Braga"
+  autorlivronome: "Teófilo"
+  autorlivrosobrenome: "Braga"
+  livro: "Poesia Popular Portugueza"
+  capitulo: "Livro Primeiro, Cap. 1"
+  comentario:
+  local: "Porto"
+  editora: "Typographia Lusitana"
+  ano: 1867
+  paginas: "1-30"
+  url: "https://books.google.com.br/books?id=PhpEAAAAcAAJ"
+  urldate: "15 nov. 2017"
+
+- key: braga1867c
+  autornome: "Teófilo"
+  autorsobrenome: "Braga"
+  autorlivronome: "Teófilo"
+  autorlivrosobrenome: "Braga"
+  livro: "Poesia Popular Portugueza"
+  capitulo: "Livro Primeiro, Cap. 2"
+  comentario:
+  local: "Porto"
+  editora: "Typographia Lusitana"
+  ano: 1867
+  paginas: "31-96"
+  url: "https://books.google.com.br/books?id=PhpEAAAAcAAJ"
+  urldate: "15 nov. 2017"
+
+- key: braga1867d
+  autornome: "Teófilo"
+  autorsobrenome: "Braga"
+  autorlivronome: "Teófilo"
+  autorlivrosobrenome: "Braga"
+  livro: "Poesia Popular Portugueza"
+  capitulo: "Livro Primeiro, Cap. 3"
+  comentario:
+  local: "Porto"
+  editora: "Typographia Lusitana"
+  ano: 1867
+  paginas: "97-144"
+  url: "https://books.google.com.br/books?id=PhpEAAAAcAAJ"
+  urldate: "15 nov. 2017"
+
+- key: pecora2001b
+  autornome: Alcir
+  autorsobrenome: Pécora
+  autorlivronome: Alcir
+  autorlivrosobrenome: Pécora
+  livro: "Máquina de Gêneros"
+  capitulo: "A arte da cartas jesuíticas no Brasil"
+  editora: "EdUSP"
+  ano: 2001
+  local: "São Paulo"
+  paginas: "11-16"
+
+- key: pecora2001a
+  autornome: Alcir
+  autorsobrenome: Pécora
+  autorlivronome: Alcir
+  autorlivrosobrenome: Pécora
+  livro: "Máquina de Gêneros"
+  capitulo: "À guisa de manifesto"
+  editora: "EdUSP"
+  ano: 2001
+  local: "São Paulo"
+  paginas: "11-16"
+
+- key: cerquiglini1989a
+  autornome: Bernard
+  autorsobrenome: Cerquiglini
+  autorlivronome: Bernard
+  autorlivrosobrenome: Cerquiglini
+  livro: "Éloge de la variante"
+  capitulo: "Modernité textuaire"
+  editora: "Éditions du Seuil"
+  ano: 1989
+  local: Paris
+  paginas: "17-29"
+
+- key: cerquiglini1989b
+  autornome: Bernard
+  autorsobrenome: Cerquiglini
+  autorlivronome: Bernard
+  autorlivrosobrenome: Cerquiglini
+  livro: Éloge de la variante
+  capitulo: Monsieur Procuste, philologue
+  editora: Éditions du Seuil
+  ano: 1989
+  local: Paris
+  paginas: "33-54"
+
+- key: cerquiglini1989c
+  autornome: Bernard
+  autorsobrenome: Cerquiglini
+  autorlivronome: Bernard
+  autorlivrosobrenome: Cerquiglini 
+  livro: "Éloge de la variante" 
+  capitulo: "L'excès joyeux"
+  editora: Éditions du Seuil
+  ano: 1989
+  local: Paris
+  paginas: "55-69"
+
+- key: cerquiglini1989d
+  autornome: Bernard
+  autorsobrenome: Cerquiglini
+  autorlivronome: Bernard
+  autorlivrosobrenome: Cerquiglini
+  livro: "Éloge de la variante"
+  capitulo: "Gaston Paris et le dinosaures"
+  editora: Éditions de Seuil
+  ano: 1989
+  local: Paris
+  paginas: "73-101"

@@ -1,0 +1,27 @@
+<p>
+  <span style="text-transform: uppercase">{{referencia.autorsobrenome}}</span>, 
+  {{referencia.autornome}}. 
+  {{referencia.capitulo}}.
+  In:
+  {% if referencia.autorlivrosobrenome == referencia.autorsobrenome  %}
+  ______
+  {% else %}
+    {% if referencia.autorlivrosobrenome  %}
+    <span style="text-transform: uppercase">{{referencia.autorlivrosobrenome}}</span>, 
+    {{referencia.autorlivronome}} 
+    {% endif %}
+    {% if referencia.autorlivrosobrenome2  %}
+    ; <span style="text-transform: uppercase">{{referencia.autorlivrosobrenome2}}</span>, 
+    {{referencia.autorlivronome2}} 
+    {% endif %}
+    {% if referencia.autorlivrosobrenome3  %}
+    ; <span style="text-transform: uppercase">{{referencia.autorlivrosobrenome3}}</span>, 
+    {{referencia.autorlivronome3}} 
+    {% endif %}
+  {% endif %}.
+  <strong>{{referencia.livro}}</strong>.
+  {{referencia.local}}: 
+  {{referencia.editora}}, 
+  {{referencia.ano}}.
+  {% if referencia.paginas %} p. {{referencia.paginas}}.{% endif %}
+</p> 

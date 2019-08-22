@@ -1,0 +1,12 @@
+<p>
+<span style="text-transform: uppercase">{{referencia.autorsobrenome}}</span>, 
+{{referencia.autornome}}. 
+{{referencia.titulo}}.
+<strong>{{referencia.revista}}</strong>,
+{% if referencia.local %}{{referencia.local}}, {% endif %} 
+{% if referencia.volume %} v. {{referencia.volume}}, {% endif %} 
+n. {{referencia.numero}},
+{% if referencia.mes %} {{referencia.mes}}. {% endif %} 
+{{referencia.ano}}.
+p. {{referencia.paginas}}.
+</p> 

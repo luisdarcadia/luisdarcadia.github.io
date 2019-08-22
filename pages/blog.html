@@ -5,14 +5,11 @@ permalink: /blog
 background: blog
 ---
 
-<h1>Blog</h1>
-
-<h2>Recentes</h2>
-{% for post in site.categories.blog limit:3 %}
+{% for post in site.categories.blog %}
 	{% include bloglist.html %}
 {% endfor %}
 
-<h1>Categorias</h1>
-
-
-
+<ul>
+  <li><a href="/rascunhos"> Rascunhos </a></li>
+  <li><a href="/abnt"> ABNT </a></li>
+</ul>

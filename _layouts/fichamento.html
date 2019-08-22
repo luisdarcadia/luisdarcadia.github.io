@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+
+<section id="revisoes">
+  <article>
+
+  <h1>Fichamento:</h1>
+
+    <div class="ref">
+    {% for referencia in site.data.fichados %}
+      {% if page.key == referencia.key %}
+        {% include ref/ref{{page.tipo}}.html %}
+      {% endif %}
+    {% endfor %}
+    </div>
+
+    <div class="fichamento">
+      {{ content }}
+    </div>
+  </article>
+</section>

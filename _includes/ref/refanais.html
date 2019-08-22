@@ -1,0 +1,14 @@
+<p>
+<span style="text-transform: uppercase">{{referencia.autorsobrenome}}</span>, 
+{{referencia.autornome}}. 
+{{referencia.titulo}}.
+In: 
+<span style="text-transform: uppercase">{{referencia.evento}}</span>, 
+{% if referencia.numeroevento %} {{referencia.numeroevento}}, {% endif %} 
+{{referencia.anoevento}}.
+<strong>{{referencia.tituloanais}}</strong>.
+{{referencia.localevento}}: 
+{{referencia.editora}}.
+{{referencia.anoanais}}.
+{% if referencia.paginas %}p. {{referencia.paginas}}. {% endif %} 
+</p> 

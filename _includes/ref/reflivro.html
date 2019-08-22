@@ -1,0 +1,10 @@
+<p>
+<span style="text-transform: uppercase">{{referencia.autorsobrenome}}</span>, {{referencia.autornome}}{% if referencia.autorsobrenome2 %}; <span style="text-transform: uppercase">{{referencia.autorsobrenome2}}</span>, {{referencia.autornome2}}.{% else %}.{% endif %}
+<strong>{{referencia.titulo}}</strong>{% if referencia.subtitulo %}: {{referencia.subtitulo}}{% endif %}.
+{% if referencia.comentario %}  {{referencia.comentario}}. {% endif %} 
+{{referencia.local}}:
+{{referencia.editora}},
+{{referencia.ano}}.
+{% if referencia.url %}Disponível em: {{referencia.url}}.{% endif %}
+{% if referencia.urldate %}Acesso em: {{referencia.urldate.}}.{% endif %}
+</p> 

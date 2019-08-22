@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Fichamentos
+title: "Caderno de fichamentos"
 permalink: /fichamentos
 background: inicio
 ---
 
-    <ul class="post-list">
-      {% for fichamento in site.fichamentos limit:5 %}
-      <a href="{{fichamento.url}}">{{fichamento.autor}}</a>
+<input type="text" onkeyup="buscaItens()" id="busca" placeholder="Busca neste índice"/>
+    <ul id="ulbusca">
+      {% for fichamento in site.fichamentos %}
+      <li class="itens">
+        <a href="{{fichamento.url}}">{{fichamento.autor}}<b> - {{fichamento.titulo}}</b></a>
+      </li>
       {% endfor %}
     </ul>
 
+ <script type="text/javascript" src="{{site.baseurl}}/{{site.js_path}}/busca.js"></script>
