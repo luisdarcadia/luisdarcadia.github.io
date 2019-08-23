@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Lusíadas, edição de 1527"
+permalink: /lusiadas
+background: lusiadas
+---
+
+    <ul class="post-list">
+      {% for canto in site.lusiadas %}
+      <li><a href="{{canto.url}}">{{canto.title}}</a></li>
+      {% endfor %}
+    </ul>
+

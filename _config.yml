@@ -23,13 +23,12 @@ defaults:
       type: fichamentos
     values:
       layout: fichamento
-
-defaults:
-  - scope:
-      type: fichamentos
-    values:
-      layout: fichamento
       title: "Fichamento"
+  - scope:
+      type: lusiadas
+    values:
+      layout: canto
+      background: lusiadas
 
 navlinks:
   - name: Aulas
@@ -46,6 +45,9 @@ collections:
   fichamentos:
     output: true
     permalink: /fichamentos/:path
+  lusiadas:
+    output: true
+    permalink: /lusiadas/:path
 
 # Build settings
 markdown: kramdown
