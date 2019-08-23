@@ -4,8 +4,6 @@ Luís Fernando Campos D'Arcadia, doutor em Letras na UNESP - FCL de Assis. Traba
 
 Durante o doutorado estudei a produção literária do século XVII no Brasil e em Portugal. Os estudos possuem um viés filológico, com a transcrição de poemas, assim como literário.
 
-[Blog pessoal]({{site.baseurl}}/blog)
-
 # Serviços
 
 Ofereço aulas particulares de Língua Portuguesa, redação e Língua Francesa. Confira mais detalhes na minha página de **[aulas]({{site.baseurl}}/aulas)**.
