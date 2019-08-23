@@ -66,6 +66,15 @@
   paginas: "371-392"
 
 #livros
+- key: freire2006
+  autornome: "Paulo"
+  autorsobrenome: "Freire"
+  titulo: 'Pedagogia da Autonomia'
+  edicao: 33
+  local: "São Paulo"
+  editora: "Paz e Terra"
+  ano: "2006"
+
 - key: cairns1972
   autornome: "Francis"
   autorsobrenome: "Cairns"
