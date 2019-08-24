@@ -23,6 +23,7 @@ defaults:
       type: fichamentos
     values:
       layout: fichamento
+      comments: true
       title: "Fichamento"
   - scope:
       type: lusiadas
