@@ -30,6 +30,7 @@ defaults:
     values:
       layout: canto
       background: lusiadas
+      comments: true
 
 navlinks:
   - name: Aulas

@@ -71,6 +71,12 @@ footer
   width: 20vw
   text-align: center
 
+hr
+  color: $c_pastel
+  text-align: center
+  border: 1px solid
+  padding: 1em
+
 .notice
   color: lightblue
   font-size: 18pt
@@ -90,9 +96,17 @@ footer
   display: grid
   grid-template-columns: 1fr 1fr
 
-.grid
-  display: grid
-  grid-template-columns: 1fr 1fr
+.quadras
+  p
+    padding: 0 1em
+  hr
+    border: 0
+    display: inline-block
+    margin-left: 7em
+  hr::after
+    content: "§"
+    transform: rotate(90deg)
+    font-size: 20pt
 
 #inicio 
   background: $inicio_img no-repeat center center/cover
