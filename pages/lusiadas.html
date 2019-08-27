@@ -1,15 +1,52 @@
 ---
 layout: page
-title: "Lusíadas, edição de 1572"
 permalink: /lusiadas
 background: lusiadas
 ---
 
-<p><a href="http://purl.pt/1/4/cam-3-p_PDF/cam-3-p_PDF_24-C-R0150/cam-3-p_0000_capa-capa_t24-C-R0150.pdf">Fac-símile da Biblioteca Nacional Portuguesa </a></p>
 
-<h2>Transcrições anotadas</h2>
+<div style="text-align:center">
+<h1>Os</h1>
 
-      {% for canto in site.lusiadas %}
-      <p><a href="{{canto.url}}">{{canto.title}}</a></p>
-      {% endfor %}
+<h1>L V S I A D A S </h1>
 
+<h1>de Luis de Ca-</h1>
+
+<h1>mões</h1>
+
+<p>COM PRIVILEGIO</p>
+
+<p>REAL.</p>
+
+<br>
+
+<a href="http://purl.pt/1/4/cam-3-p_PDF/cam-3-p_PDF_24-C-R0150/cam-3-p_0000_capa-capa_t24-C-R0150.pdf"><p>Impressos em Lisboa, com licença da</p>
+
+<p>sancta Inquisição, &amp; do Ordina- </p>
+
+<p>rio: em casa de Antonio</p>
+
+<p>Gonçalves Impressor.</p>
+
+<p>1572.</p>
+</a>
+
+<br>
+
+<p>Transcripto, atualizado, &amp; ano- </p>
+
+<p>tado por Luís Fernando</p>
+
+<p>Campos D'Arcadia.</p>
+
+<p>2019.</p>
+</div>
+
+<h2>***</h2>
+
+  {% assign lusiadas = site.lusiadas | sort: 'ordem' %}
+  <ol id="indice">
+  {% for canto in lusiadas %}
+    <li><a href="{{canto.url}}">{{canto.title}}</a></li>
+  {% endfor %}
+  </ol>

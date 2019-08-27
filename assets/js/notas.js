@@ -1,8 +1,6 @@
 //obter todas as notas
 var notas = document.getElementsByTagName("ol");
 
-console.log(notas);
-
 //desenhar tooltip
 var tooltip = document.createElement("div");
 tooltip.classList.add("tooltip");
@@ -27,7 +25,6 @@ function EsconderTooltip(e){
 //event listener para o hover
 for (var i = 0; i < notas[0].children.length; ++i){
   var notaNome = "fnref:footnote" + i;
-  console.log(notaNome);
   var notaHovering = document.getElementById(notaNome);
   notaHovering.addEventListener("mouseenter", MostrarTooltip);
   notaHovering.addEventListener("click", EsconderTooltip);
