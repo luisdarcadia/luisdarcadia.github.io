@@ -50,6 +50,7 @@ collections:
   lusiadas:
     output: true
     permalink: /lusiadas/:path
+    sort_by: ordem
 
 # Build settings
 markdown: kramdown
