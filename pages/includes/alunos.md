@@ -14,13 +14,13 @@ As aulas podem ser *online* ou presenciais (município de Assis-SP).
 
 **R$ {{site.data.parametros[page.professor].horaaula}},00** por hora.
 
-**R$ {{ site.data.parametros[page.professor].horaaula | times: 8 | times: 0.75 | ceil }},00** pacote com **oito** aulas.
+**R$ {{site.data.parametros[page.professor].horaaula | times: 4 | times: 0.85 | ceil}},00** pacote com **quatro** aulas.
 
 ## Correções de redação (inclui elaboração de temas)
 
 **R$ {{site.data.parametros[page.professor].correcao}},00** por correção.
 
-**R$ {{ site.data.parametros[page.professor].correcao | times: 8 | times: 0.80 | ceil }},00** pelo pacote de **oito** correções.
+**R$ {{site.data.parametros[page.professor].correcao | times: 6 | times: 0.85 | ceil}},00** pelo pacote de **seis** correções.
 
 ## Como é feito o pagamento?
 
