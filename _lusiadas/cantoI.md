@@ -91,6 +91,28 @@ Que se espalhe & se cante no universo,
 
 Se tão sublime preço cabe em verso.
 
+---
+
+E vós ó bem nascida segurança
+
+Da Lusitana antiga liberdade,
+
+E não menos certissima esperança,
+
+De aumento da pequena Christandade:
+
+Vós o novo temor da Maura lança,
+
+Maravilha fatal da nossa idade:
+
+Dada ao mundo por Deus que todo o mande,
+
+Pera do mundo a Deus dar parte grande.
+
+---
+
+
+
 ## Notas
 
 [^footnote{% increment n%}]: Atual ilha do Ceilão.
