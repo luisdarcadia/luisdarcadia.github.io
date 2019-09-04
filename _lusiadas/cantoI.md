@@ -3,6 +3,9 @@ title: "Canto primeiro."
 ordem: 3
 ---
 
+{% capture _ %}{% increment quadra %} {% endcapture %}
+<div  class="numero">{% increment quadra %}.</div>
+
 As armas, & os barões assinalados,
 
 Que da Ocidental praia Lusitana,
@@ -20,6 +23,8 @@ E entre gente remota edificaram
 Novo Reino, que tanto sublimaram.
 
 ---
+
+<div  class="numero">{% increment quadra %}.</div>
 
 E também as memórias gloriosas
 
@@ -39,6 +44,8 @@ Se a tanto me ajudar o engenho e arte[^footnote{% increment f%}].
 
 ---
 
+<div  class="numero">{% increment quadra %}.</div>
+
 Cessem do sábio Grego[^footnote{%increment f%}], & do Troiano[^footnote{%increment f%}],
 
 A navegações grandes que fizeram:
@@ -56,6 +63,8 @@ Cesse tudo o que a Musa[^footnote{%increment f%}] antiga canta,
 Que outro valor mais alto se alevanta.
 
 ---
+
+<div  class="numero">{% increment quadra %}.</div>
 
 E vós Tagides[^footnote{%increment f%}] minhas, pois criado
 
@@ -75,9 +84,11 @@ Que não tenham inveja de Hypocrene[^footnote{%increment f%}].
 
 ---
 
+<div  class="numero">{% increment quadra %}.</div>
+
 Dai-me uma fúria grande e sonorosa,
 
-E não de agreste a vena, ou frauta ruda:
+E não de agreste avena, ou frauta ruda[^footnote{% increment f%}]:
 
 Mas de tuba canora & belicosa,
 
@@ -93,11 +104,13 @@ Se tão sublime preço cabe em verso.
 
 ---
 
+<div  class="numero">{% increment quadra %}.</div>
+
 E vós ó bem nascida segurança
 
 Da Lusitana antiga liberdade,
 
-E não menos certissima esperança,
+E não menos certíssima esperança,
 
 De aumento da pequena Christandade:
 
@@ -126,3 +139,4 @@ Pera do mundo a Deus dar parte grande.
 [^footnote{%increment n%}]: As nove musas eram figuras mitológicas alegoria das artes. Aqui, Camões refere-se à Musa antiga como sinônimos de épicos antigos como a *Odisseia* e a *Eneida*.
 [^footnote{%increment n%}]: Tagides são as ninfas do rio Tejo, em Portugal, com que o poeta dialoga aqui.
 [^footnote{%increment n%}]: Fonte de água sob o monte Helicon, na Grécia. Segundo a lenda, foi criada pelos cascos de Pégaso e era o lugar onde a Musas se encontravam. Quem bebia de sua água recebia inspiração poética.
+[^footnote{% increment n%}]: Esta quadra ilustra a divisão dos estilos conhecida como a "roda de Virgílio", inferidas pela tradição a partir das três principais obras do referido poeta romano. O estilo médio é referente à poesia didática, cujo exemplo são as *Geórgicas*, o estilo baixo é o da poesia bucólica, voltada para o entretenimento, exemplificado pelas *Bucólicas*, ambos referidos por Camões aqui como "agreste avena e frauta ruda". O estilo alto, por sua vez, é identificado com instrumentos que se aproximam do campo semântico militar, sintetizado por Camões como "tuba belicosa".
