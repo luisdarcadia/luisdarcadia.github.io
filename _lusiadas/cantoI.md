@@ -224,18 +224,80 @@ Que para si de Enéas toma a fama.
 
 <div  class="numero">{% increment quadra %}.</div>
 
+Pois se a troco de Carlos Rei de França,
+
+Ou de César, quereis igual memória:
+
+Vede o primeiro Afonso, cuja lança
+
+Escura faz qualquer estranha glória:
+
+E aquele que a seu Reino a segurança
+
+Deixou, com a grande & próspera victória.
+
+Outro loane, invicto cavaleiro,
+
+O quarto, & quinto Afonsos, & o terceiro.
+
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
+Nem deixaram meus versos esquecidos,
+
+Aqueles que nos Reinos lá da Aurora,
+
+Se fizeram por armas tão subidos,
+
+Vossa bandeira sempre vencedora.
+
+Um pacheco fortíssimo, & os temidos
+
+Almeidas, por quem sempre o Tejo chora.
+
+Albuquerque terríbil, Castro forte,
+
+E outros em quem poder não teve a morte.
+
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
+E em quanto eu estes canto, & a vós não posso
+
+Sublime Rei, que não me atrevo a tanto,
+
+Tomai as rédeas vós do Reino vosso,
+
+Darei matéria a nunca ouvido canto:
+
+Comecem a sentir o peso grosso,
+
+(Que polo mundo todo faça espanto,)
+
+De exércitos, & feitos singulares,
+
+De África as terras, & do Oriente os mares.
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
+Em vós os olhos tem o Mouro frio,
+
+Em quem vê seu exício afigurado,
+
+Só com vos ver o barbado Gentio,
+
+Mostra o pescoço ao jugo já inclinado:
+
+Thétis todo cerúleo senhorio,
+
+Tem pera vos por dote aparelhado:
+
+Que afeiçoada ao gesto belo, & tenro,
+
+Deseja de comprar-vos pera genro.
 
 ## Notas
 
