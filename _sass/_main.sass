@@ -96,20 +96,6 @@ hr
   display: grid
   grid-template-columns: 1fr 1fr
 
-.quadras
-  p
-    padding: 0 1em
-  hr
-    border: 0
-    display: inline-block
-    margin-left: 7em
-  hr::after
-    content: "§"
-    transform: rotate(90deg)
-    font-size: 16pt
-  .numero
-    font-size: 12pt
-
 #inicio 
   background: $inicio_img no-repeat center center/cover
 #alunos 
@@ -141,7 +127,16 @@ hr
   width: 100%
 
 #indice
-  list-style: upper-roman
+  list-style: none
+  font-size: 13pt
+  li
+    border-bottom: 1em solid
+    padding: 1em
+    background: $c_pastel
+    color: black
+    font: 14pt bold
+    *
+      color: black
 
 @media(max-width: 786px)
   body
@@ -173,15 +168,6 @@ hr
     font-size: 10pt
   #nav-about, #nav-revisoes, #nav-alunos
     display: none
-  .quadras
-    p
-      font-size: 12pt
-  .footnote
-    font-size: 9pt
-  .footnotes
-    display: block !important
-  #notas
-    display: block !important
 
 @media(max-width: 360px)
   h1
@@ -196,6 +182,9 @@ hr
     font-size: 10pt
     padding: 1px
     margin: 1px
+  article
+    padding: 0
 
 @import "navbar"
 @import "blog"
+@import "cantos"

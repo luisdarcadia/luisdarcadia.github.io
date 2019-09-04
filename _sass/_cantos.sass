@@ -1,0 +1,47 @@
+.quadras
+  margin: auto
+  p
+    padding: 0 1em
+  hr
+    border: 0
+    display: inline-block
+    margin-left: 7em
+  hr::after
+    content: "§"
+    transform: rotate(90deg)
+    font-size: 16pt
+  .numero
+    font-size: 12pt
+
+#notas
+  display: none
+
+@media(max-width: 786px)
+  .quadras
+    p
+      font-size: 12pt
+      text-indent: -3px
+  .footnote
+    font-size: 9pt
+  .footnotes
+    display: block !important
+    font-size: 10pt
+    li
+      margin-left: 1em
+  #notas
+    display: block !important
+
+@media(max-width: 320px)
+  .quadras
+    p
+      padding: 2px 1em
+      margin: 0
+    hr
+      margin-left: 5em
+  .numero
+    padding-left: 1em
+  .footnotes
+    margin-left: 10px
+
+
+

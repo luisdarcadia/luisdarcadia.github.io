@@ -40,13 +40,14 @@ background: lusiadas
 <p>Campos D'Arcadia.</p>
 
 <p>2019.</p>
-</div>
 
-<h2>***</h2>
+<p>***</p>
 
   {% assign lusiadas = site.lusiadas | sort: 'ordem' %}
-  <ol id="indice">
+  <ul id="indice">
   {% for canto in lusiadas %}
-    <li><a href="{{canto.url}}">{{canto.title}}</a></li>
+  <a href="{{canto.url}}"><li>{{canto.title}}</li></a>
   {% endfor %}
-  </ol>
+  </ul>
+
+</div>
