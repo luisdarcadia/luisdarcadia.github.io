@@ -114,7 +114,7 @@ E não menos certíssima esperança,
 
 De aumento da pequena Christandade:
 
-Vós o novo temor da Maura lança,
+Vós o novo temor da Maura lança[^footnote{% increment f%}],
 
 Maravilha fatal da nossa idade:
 
@@ -126,17 +126,17 @@ Pera do mundo a Deus dar parte grande.
 
 <div  class="numero">{% increment quadra %}.</div>
 
-Vós tenro, & novo ramo florescente,
+Vós tenro, & novo ramo florecente[^footnote{% increment f%}],
 
 De ua árvore de Christo mais amada
 
 Que nenhuma nascida no Occidente,
 
-Cesárea, ou Christianíssima chamada:
+Cesárea, ou Christianíssima chamada[^footnote{% increment f%}]:
 
 Vede-o no vosso escudo, que presente
 
-Vos amostra a victória já passada.
+Vos amostra a victória já passada[^footnote{% increment f%}].
 
 Na qual vos deu por armas, & deixou
 
@@ -279,6 +279,7 @@ Comecem a sentir o peso grosso,
 De exércitos, & feitos singulares,
 
 De África as terras, & do Oriente os mares.
+
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
@@ -319,8 +320,16 @@ Deseja de comprar-vos pera genro.
 
 [^footnote{%increment n%}]: As nove musas eram figuras mitológicas alegoria das artes. Aqui, Camões refere-se à Musa antiga como sinônimos de épicos antigos como a *Odisseia* e a *Eneida*.
 
-[^footnote{%increment n%}]: Tagides são as ninfas do rio Tejo, em Portugal, com que o poeta dialoga aqui.
+[^footnote{%increment n%}]: Tagides são as ninfas do rio Tejo, em Portugal, com quem o poeta dialoga .
 
 [^footnote{%increment n%}]: Fonte de água sob o monte Helicon, na Grécia. Segundo a lenda, foi criada pelos cascos de Pégaso e era o lugar onde a Musas se encontravam. Quem bebia de sua água recebia inspiração poética.
 
 [^footnote{% increment n%}]: Esta quadra ilustra a divisão dos estilos conhecida como a "roda de Virgílio", inferidas pela tradição a partir das três principais obras do referido poeta romano. O estilo médio é referente à poesia didática, cujo exemplo são as *Geórgicas*, o estilo baixo é o da poesia bucólica, voltada para o entretenimento, exemplificado pelas *Bucólicas*, ambos referidos por Camões aqui como "agreste avena e frauta ruda". O estilo alto, por sua vez, é identificado com instrumentos que se aproximam do campo semântico militar, sintetizado por Camões como "tuba belicosa".
+
+[^footnote{% increment n%}]: Forças militares de países muçulmanos. "Novo temor" pois a expansão marítima é vista como a continuação da *Reconquista* datada do século 11. A investida colonial portuguesa é endossada pelo papado para o combate contra a expansão do Islã na África, conforme expresso na bula papal *Romanus Pontifex*.
+
+[^footnote{% increment n%}]: Dirige-se ao jovem D. Sebastião, que seria derrotado na Batalha de Alcácer-Qibir.
+
+[^footnote{% increment n%}]: "Cesárea" "Christianíssima" é referência ao parentesco da família real portuguesa ao Ducado de Borgonha, que fundou o Sacro Império Romano Germânico.
+
+[^footnote{% increment n%}]: Diz-se que Jesus Cristo, em aparição, prometeu a vitória sobre os Mouros a Afonso Henriques se este utilizasse a cruz e as cinco chagas em seu escudo. Elas ainda permanece na bandeira portuguesa, representadas pelos cinco escudetes azuis em forma de cruz.
