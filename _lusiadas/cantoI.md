@@ -78,7 +78,7 @@ Dai-me agora um som alto, & sublimado,
 
 Um estilo grandioso, & corrente,
 
-Porque de vossas águas Phebo ordene,
+Porque de vossas águas Phebo[^footnote{%increment f%}] ordene,
 
 Que não tenham inveja de Hypocrene[^footnote{%increment f%}].
 
@@ -156,11 +156,11 @@ E quando desce o deixa derradeiro.
 
 Vós que esperamos jugo & vitupério,
 
-Do torpe Ismaelita cavaleiro:
+Do torpe Ismaelita[^footnote{% increment f%}] cavaleiro:
 
-Do Turco Oriental, & do Gentio,
+Do Turco Oriental[^footnote{% increment f%}], & do Gentio[^footnote{% increment f%}],
 
-Que inda bebe o licor do sancto Rio.
+Que inda bebe o licor do sancto Rio[^footnote{% increment f%}].
 
 ---
 
@@ -192,11 +192,13 @@ Fantásticas, fingidas, mentirosas,
 
 Louvar os vossos, como nas estranhas
 
-Musas, de engrandecer desejosas,
+Musas, de engrandecer-se desejosas,
 
 As verdadeiras vossas são tamanhas,
 
-Que excedem Rodamonte, & o vão Rugeiro,
+Que excedem as sonhadas fabulosas:
+
+Que excedem Rodamonte[^footnote{% increment f%}], & o vão Rugeiro,
 
 E Orlando, inda que fora verdadeiro.
 
@@ -321,6 +323,7 @@ Deseja de comprar-vos pera genro.
 [^footnote{%increment n%}]: As nove musas eram figuras mitológicas alegoria das artes. Aqui, Camões refere-se à Musa antiga como sinônimos de épicos antigos como a *Odisseia* e a *Eneida*.
 
 [^footnote{%increment n%}]: Tagides são as ninfas do rio Tejo, em Portugal, com quem o poeta dialoga .
+[^footnote{%increment n%}]: Phebo (contraparte latina do deus Apolo e, por vezes, também do deus Hélio), divindade que carregava o sol em carruagem pelo Céu, além de ser patrono das artes, conhecido como o líder das Musas e músico no Olimpo.
 
 [^footnote{%increment n%}]: Fonte de água sob o monte Helicon, na Grécia. Segundo a lenda, foi criada pelos cascos de Pégaso e era o lugar onde a Musas se encontravam. Quem bebia de sua água recebia inspiração poética.
 
@@ -332,4 +335,14 @@ Deseja de comprar-vos pera genro.
 
 [^footnote{% increment n%}]: "Cesárea" "Christianíssima" é referência ao parentesco da família real portuguesa ao Ducado de Borgonha, que fundou o Sacro Império Romano Germânico.
 
-[^footnote{% increment n%}]: Diz-se que Jesus Cristo, em aparição, prometeu a vitória sobre os Mouros a Afonso Henriques se este utilizasse a cruz e as cinco chagas em seu escudo. Elas ainda permanece na bandeira portuguesa, representadas pelos cinco escudetes azuis em forma de cruz.
+[^footnote{% increment n%}]: Diz-se que Jesus Cristo, em aparição, prometeu a vitória sobre os Mouros a Afonso Henriques se este utilizasse a cruz e as cinco chagas em seu escudo. Elas ainda permanecem na bandeira portuguesa, representadas pelos cinco escudetes azuis em forma de cruz.
+
+[^footnote{% increment n%}]: Ismaelita, nome para os habitantes da península arábica, pela descendência mítica da figura bíblica Ismael.
+
+[^footnote{% increment n%}]: Império Otomano, que depois da queda de Constantinopla criou as condições político-econômicas que propiciaram a expansão marítima colonial portuguesa.
+
+[^footnote{% increment n%}]: Expressão genérica para populações não cristãs.
+
+[^footnote{% increment n%}]: Rio Jordão, então controlado pelos Sarracenos.
+
+[^footnote{% increment n%}]: Personagem do épico *Orlando Furioso*, do poeta italiano Ariosto.
