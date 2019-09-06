@@ -302,6 +302,190 @@ Que afeiçoada ao gesto belo, & tenro,
 
 Deseja de comprar-vos pera genro.
 
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Em vós os olhos tem Mouto frio,
+
+Em quem vê seu exício afigurado,
+
+Só com vos ver o bárbaro Gentio,
+
+Mostra o pescoço ao jugo já inclinado:
+
+Thetis todo o cerúleo senhorio,
+
+Tempera vós por dote aparelhado:
+
+Que afeiçoada ao gesto bello, & tenro,
+
+Deseja de comprar-vos pera genro.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Em vós se veem da Olímpica morada,
+
+Dos dous avôs, as almas cá famosas,
+
+U'a na paz Angélica dourada,
+
+Outra polas batalhas sanguinosas:
+
+Em vos esperam, ver-se renovada
+
+Sua memória, & obras valerosas.
+
+E lá vos tem lugar no fim da idade,
+
+No templo da suprema eternidade.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Mas enquanto este tempo passa lento,
+
+De regerdes os povos, que o desejam:
+
+Dai-vos favor ao novo atrevimento,
+
+Pera que estes meus versos vossos sejam:
+
+E vereis ir cortando o salso argento:
+
+Os vossos Argonautas, porque vejam,
+
+Que são vistos de vós no mar irado,
+
+E costumai-vos já a ser invocado.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Já no largo Oceano navegavam,
+
+As inquietas ondas apartando,
+
+Os ventos brandamente respiravam,
+
+Das naus as velas côncavas inchando:
+
+Da branca escuma, os mares se mostravam
+
+Cobertos, onde as proas vão cortando.
+
+As marítimas águas consagradas,
+
+Que do gado de Proteu são cortadas.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Quando os Deuses no Olimpo luminoso,
+
+Onde o governo está, da humana gente
+
+Se ajuntam em concílio glorioso,
+
+Sobre as cousas futuras do Oriente:
+
+Pisando o cristalino Céu fermoso,
+
+Vem pela via Láctea, juntamente
+
+Convocados da parte de Tonante,
+
+Pelo Neto gentil do velho Atlante.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Deixam dos sete Céus o regimento,
+
+Que do poder mais alto lhe foi dado,
+
+Alto poder, que só c'o pensamento
+
+Governa o Céu, a Terra, & o Mar irado:
+
+Ali se acharam juntos num momento,
+
+Os que habitam o Arcturo congelado.
+
+E os que os Austro tem, & as partes onde
+
+A Aurora nasce, & o claro Sol se esconde.
+
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Estava o padre ali sublime & dino,
+
+Que vibra os feros raios de Vulcano,
+
+Num assento de estrellas cristalino,
+
+Com gesto alto, severo, & soberano,
+
+Do rosto respirava um ar divino,
+
+Que divino tornara um corpo humano:
+
+Com u'a coroa, & ceptro rutilante,
+
+De outra pedra mais clara que diamante.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+
 ## Notas
 
 [^footnote{% increment n%}]: Atual ilha do Ceilão.
