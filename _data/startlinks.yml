@@ -6,6 +6,10 @@
 #  tipo: facul
 #  link: https://sistemas.unesp.br/sentinela/login.open.action
 
+- nome: Calendar
+  tipo: localhost
+  link: http://google.com/calendar
+
 - nome: CUPS
   tipo: localhost
   link: http://localhost:631
