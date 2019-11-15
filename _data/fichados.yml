@@ -66,6 +66,14 @@
   paginas: "371-392"
 
 #livros
+- key: pimentel1889
+  autornome: "Alberto"
+  autorsobrenome: "Pimentel"
+  titulo: 'Vida Mundana de Frade Virtuoso'
+  local: "Lisboa"
+  editora: "Typographia e Steroetypia Moderna"
+  ano: "1889"
+  
 - key: freire2006
   autornome: "Paulo"
   autorsobrenome: "Freire"
