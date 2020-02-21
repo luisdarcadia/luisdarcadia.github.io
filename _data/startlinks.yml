@@ -14,9 +14,13 @@
   tipo: localhost
   link: http://localhost:631
 
-- nome: UNOPAR
+  #- nome: UNOPAR
+  #tipo: facul
+  #link: https://www.colaboraread.com.br/login/auth
+
+- nome: Secretaria de Educação
   tipo: facul
-  link: https://www.colaboraread.com.br/login/auth
+  link: https://sed.educacao.sp.gov.br
 
 - nome: Biblio - UNESP
   tipo: facul
@@ -72,7 +76,7 @@
 
 - nome: Twitter  
   tipo: fun
-  link: https://www.twitter.com 
+  link: https://twitter.com 
 
 - nome: Instagram  
   tipo: fun
