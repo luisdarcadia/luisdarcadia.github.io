@@ -9,7 +9,11 @@ Olá pessoal!
 
 Aqui é o professor Luís de Língua Portuguesa.
 
-Elaborei esta página com algumas atividades para o período de quarentena. Por enquanto são somente três módulos, clique em cada link para ver a atividade.
+Elaborei esta página com algumas atividades para o período de quarentena. 
+
+Há uma página de instruções sobre as atividades e também outras com materiais com explicações sobre os assuntos pedidos.
+
+Peço que assistam os vídeos e leiam os textos com atenção.
 
 Obrigado!
 

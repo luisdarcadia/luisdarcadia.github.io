@@ -37,6 +37,8 @@ clybaslinks:
     link: clybas
   - name: "Instruções"
     link: clybas_instrucoes
+  - name: "Material"
+    link: clybas_material
 
 navlinks:
   - name: Aulas

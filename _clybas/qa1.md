@@ -56,7 +56,7 @@ b) Pesquise em um dicionário as diferentes acepções da palavra pasta. Transcr
 ## Atividade de produção de texto – Alerta sobre fake news
 
 
-Segundo o Ministério da Saúde (https://www.saude.gov.br/fakenews/coronavirus), as informações
+Segundo o Ministério da Saúde, as informações
 listadas abaixo sobre o coronavírus são FALSAS:
 
 - chá de abacate com hortelã combate o Covid-19;
