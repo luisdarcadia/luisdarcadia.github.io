@@ -24,5 +24,5 @@ Obrigado!
 
 ## Atividades para o caderno
 
-[Q.C.1 Leia o texto e responda as perguntas de 1 a 5]({{site.baseurl}}/clybas/qc1)
+[Q.C.1 Leia o texto e responda as perguntas de 1 a 4]({{site.baseurl}}/clybas/qc1)
 

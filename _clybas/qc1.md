@@ -1,6 +1,6 @@
 ---
 layout: page_clybas
-title: "Q.C.1 - Leia o texto e responda as perguntas de 1 a 5"
+title: "Q.C.1 - Leia o texto e responda as perguntas de 1 a 4"
 comments: true
 ---
 
@@ -37,3 +37,5 @@ Ela mora sozinha com a filha de seis anos na zona sul de São Paulo, e diz que, 
 ( ) "Trabalhadora" é um hipônimo de "mensalista"
 
 ## 4 - Indique um sinônimo para a palavra "bico" considerando o sentido dela no último parágrafo.
+
+_
