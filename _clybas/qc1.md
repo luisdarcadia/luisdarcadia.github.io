@@ -1,0 +1,39 @@
+---
+layout: page_clybas
+title: "Q.C.1 - Leia o texto e responda as perguntas de 1 a 5"
+comments: true
+---
+
+### Diaristas são dispensadas sem pagamento em meio à crise do coronavírus
+
+Diante da chegada do coronavírus ao Brasil, muitas faxineiras receberam esta semana a notícia de que não terão mais trabalho até que o medo e os riscos do novo vírus diminuam. Diaristas são trabalhadoras autônomas, sem compromisso, portanto não é ilegal demiti-las sem compensação. Já no sistema de mensalista, quem é demitido tem direito a verbas indenizatórias.
+
+A BBC News Brasil ouviu relatos de diversas trabalhadoras, principalmente da capital paulista, de que poucos foram os patrões que se dispuseram a continuar pagando as faxineiras durante o período de distanciamento social.
+Para a grande maioria, isso significa de uma hora para outra não ter renda para o básico, como aluguel e comida. "Vivíamos bem, porque diarista não ganha tão mal. Agora, vai apertar, não sei como vai ser", diz Carolina, que mora com o marido, jardineiro desempregado há um ano, e a filha de seis anos.
+
+Sua renda mensal era de R$ 4 mil. "A preocupação maior agora é aluguel, água, luz. Pago R$ 850 de aluguel. Acabei de comprar um carro, estou pagando a prestação, R$ 700."
+Teresa*, 38 anos, por exemplo, trabalhava há dois meses como mensalista em São Paulo e ia ser registrada com carteira assinada a partir do mês que vem, mas tudo mudou com a chegada do coronavírus.
+
+Ela tinha trocado a vida de diarista por mensalista justamente para ter mais segurança na relação trabalhista.
+"Trabalho em casa de família. Me disseram que esse mês eles vão me pagar, mas no mês que vem já não mais. Vou ficar desempregada. Acho que a nossa área vai ser afetada demais. Muitos vamos ficar desempregados."
+Ela mora sozinha com a filha de seis anos na zona sul de São Paulo, e diz que, agora, vai depender de conseguir bicos para conseguir sustentar as duas. "Me preocupa tudo: contas de água, luz, internet, filha para criar, aluguel, tudo sozinha."
+
+*(Adaptado de https://www.bbc.com/portuguese/brasil-51950880)*
+
+-
+
+## 1 - Na frase "Para a grande maioria, isso significa de uma hora para outra não ter **renda** para o básico, como aluguel e comida", escreva um *sinônimo* para a palavra **renda**. A partir de pesquisas em dicionários ou na internet, escreva mais um sentido para **renda**.
+
+## 2 - Por que a palavra "faxineira" é considerada *hipônimo* de "trabalhadora"?
+
+## 3 - Considerando a frase "Diaristas são trabalhadoras autônomas, sem compromisso, portanto não é ilegal demiti-las sem compensação", pode-se dizer que a relação entre 'trabalhadora', 'diarista' e 'mensalista'? 
+
+( ) São palavras sinônimas
+
+( ) "Trabalhadora" é um hiperônimo de "diarista" e "mensalista"
+
+( ) "Diarista" e "mensalista" são palavras antônimas
+
+( ) "Trabalhadora" é um hipônimo de "mensalista"
+
+## 4 - Indique um sinônimo para a palavra "bico" considerando o sentido dela no último parágrafo.

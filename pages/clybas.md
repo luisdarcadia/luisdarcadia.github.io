@@ -15,4 +15,14 @@ Obrigado!
 
 -
 
-[Q.A.1 Leia a notícia e responda as perguntas - Atividade de produção de texto](clybas_quarentena)
+
+# Tópico 1 - Atividades de conscientização sobre a pandemia do coronavírus
+
+## Atividades para entregar
+
+[Q.A.1 Leia a notícia e responda as perguntas - Atividade de produção de texto](qa1)
+
+## Atividades para o caderno
+
+[Q.C.1 Leia o texto e responda as perguntas de 1 a 5](qc1)
+

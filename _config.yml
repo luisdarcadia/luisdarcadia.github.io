@@ -47,6 +47,9 @@ navlinks:
     link: about
 
 collections:
+  clybas:
+    output: true
+    permalink: /clybas/:path
   poemas:
     output: true
     permalink: /poemas/:path

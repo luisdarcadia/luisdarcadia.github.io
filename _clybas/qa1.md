@@ -1,7 +1,6 @@
 ---
 layout: page_clybas
 title: "Q.A.1 - Atividades para entregar"
-permalink: /clybas_quarentena
 comments: true
 ---
 
