@@ -2,6 +2,7 @@
 layout: page_clybas
 title: "Atividades durante a quarentena"
 permalink: /clybas
+comments: false
 ---
 
 Olá pessoal!
