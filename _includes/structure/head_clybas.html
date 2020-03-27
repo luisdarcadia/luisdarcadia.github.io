@@ -1,0 +1,27 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Site temporário para atividades de Língua Portuguesa">
+  <meta name="author" content="{{site.author}}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="{{site.url}}/{{site.css_path}}/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=EB+Garamond">
+  <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.13/css/all.css">
+
+  <script>
+    var string = '{{ site.data.parametros | jsonify }}';
+    localStorage.setItem('parametros', string)
+  </script>
+
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
+
+  <title>
+    Língua Portuguesa
+    {% if page.title %}
+     · {{ page.title }}
+    {% endif %}
+  </title>
+</head> 
+

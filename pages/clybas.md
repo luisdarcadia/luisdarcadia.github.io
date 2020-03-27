@@ -14,6 +14,4 @@ Obrigado!
 
 -
 
-[Q.A](clybas_quarentena)
-
-[Q.A.2 Atividade para entregar](clybas_quarentena)
+[Q.A.1 Leia a notícia e responda as perguntas - Atividade de produção de texto](clybas_quarentena)
