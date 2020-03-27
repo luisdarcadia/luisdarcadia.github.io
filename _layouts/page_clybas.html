@@ -6,8 +6,12 @@ layout: default_clybas
   <article id="clybas">
   <h1>{{page.title}}</h1>
   {{content}}
+
+  <div style="background-color=#ffffff;">
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
+  <div>
+
   </article>
 </section>
