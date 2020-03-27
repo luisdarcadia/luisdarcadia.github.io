@@ -32,6 +32,12 @@ defaults:
       background: lusiadas
       comments: true
 
+clybaslinks:
+  - name: "Atividades"
+    link: clybas
+  - name: "Instruções"
+    link: clybas_instrucoes
+
 navlinks:
   - name: Aulas
     link: alunos

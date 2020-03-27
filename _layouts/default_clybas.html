@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{site.lang}}">
+
+  {% include structure/head.html %}
+
+  <body id="clybas">
+        {% include structure/nav_clybas.html %}
+    <main>
+        {{ content }}
+    </main>
+
+  </body>
+
+  <footer>
+  </footer>
+
+  {% if page.orcamento == true %}
+    <script type="text/javascript" src="/assets/js/orcamento{{page.professor}}.js"></script>
+    <script type="text/javascript" src="/assets/js/obterParametros.js"></script>
+  {% endif %}
+
+</html>
