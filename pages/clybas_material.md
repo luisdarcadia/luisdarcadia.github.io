@@ -15,8 +15,13 @@ comments: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zlMFaqjs-o8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Tópico 2 - A notícia
 
-# Tópico 2 - Sinônimos, hiperônimos e hipônimos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hqv_VMPafSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1XYNl91Zh7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Tópico 3 - Sinônimos, hiperônimos e hipônimos
 
 ## Links
 
@@ -30,7 +35,7 @@ comments: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ihpR8YLO00s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Tópico 3 - Linguagem Conotativa e Denotativa
+# Tópico 4 - Linguagem Conotativa e Denotativa
 
 ## Vídeo
 

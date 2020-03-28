@@ -1,0 +1,19 @@
+---
+layout: page_clybas
+title: "Q.C.2 Tomando notas e compreendendo um vídeo"
+comments: true
+---
+
+# Assista o vídeo "Como nasce uma notícia" **atentamente**, se possível mais de uma vez, **faça anotações** e responda as perguntas abaixo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hqv_VMPafSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 1 - Quais as perguntas um jornalista sempre deve perguntar?
+
+## 2 - Em suas palavras como o jornalismo através da história?
+
+## 3 - Que exemplos de assuntos para uma notícia a jornalista?
+
+## 4 - Faça o exercício recomendado pela jornalista: pesquise um texto jornalístico e encontre nele as respostas às perguntas mais importantes.
+
+## 5 - Segundo o vídeo, qual o primeiro jornal do Brasil?
