@@ -1,0 +1,13 @@
+<nav id="clybas" class="navbar">
+  <ul>
+    <li><a href="{{site.baseurl}}/clybas"><img src="{{site.url}}/{{site.img_path}}/clybas.jpg"></a></li>
+
+    {% for navlink in site.clybaslinks %}
+    <li>
+      <a href="{{site.baseurl}}/{{navlink.link}}" id="nav-{{navlink.link}}"> {{navlink.name}}</a>
+    </li>
+    {% endfor %}
+
+  </ul>
+
+</nav>

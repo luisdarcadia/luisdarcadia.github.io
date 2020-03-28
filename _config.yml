@@ -32,6 +32,14 @@ defaults:
       background: lusiadas
       comments: true
 
+clybaslinks:
+  - name: "Atividades"
+    link: clybas
+  - name: "Instruções"
+    link: clybas_instrucoes
+  - name: "Material"
+    link: clybas_material
+
 navlinks:
   - name: Aulas
     link: alunos
@@ -41,6 +49,9 @@ navlinks:
     link: about
 
 collections:
+  clybas:
+    output: true
+    permalink: /clybas/:path
   poemas:
     output: true
     permalink: /poemas/:path
