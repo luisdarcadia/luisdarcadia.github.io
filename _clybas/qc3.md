@@ -6,7 +6,7 @@ comments: true
 
 # Vamos relembrar os conceitos!
 
-![]({{site.baseurl}}/{{img_path}}/clybas/hiponimos_hiperonimos.jpg)
+![]({{site.baseurl}}/{{site.img_path}}/clybas/hiponimos_hiperonimos.jpg)
 
 
 ## 1) Indique 5 palavras que podem ser usadas como hipônimos dos termos:
