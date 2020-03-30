@@ -4,6 +4,11 @@ title: "Q.C.3 - Análise da Língua: Sinônimos, Hiperônimos, Hipônimos e Ant�
 comments: true
 ---
 
+# Vamos relembrar os conceitos!
+
+![]({{site.baseurl}}/{{img_path}}/clybas/hiponimos_hiperonimos.jpg)
+
+
 ## 1) Indique 5 palavras que podem ser usadas como hipônimos dos termos:
 
 a) peixe
