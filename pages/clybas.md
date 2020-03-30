@@ -23,22 +23,22 @@ Obrigado!
 
 ## Atividade para entregar
 
-[Q.A.1 Leia a notícia e responda as perguntas - Atividade de produção de texto]({{site.baseurl}}/clybas/qa1)
+[Q.A.1.1 Leia a notícia e responda as perguntas - Atividade de produção de texto]({{site.baseurl}}/clybas/qa11)
 
 ## Atividade para o caderno
 
-[Q.C.1 Leia o texto e responda as perguntas de 1 a 4]({{site.baseurl}}/clybas/qc1)
+[Q.C.1.1 Leia o texto e responda as perguntas de 1 a 4]({{site.baseurl}}/clybas/qc11)
 
 
 # Tópico 2 - A notícia
 
 ## Atividade no caderno
 
-[Q.C.2 Tomando notas e interpretando o vídeo - Como nasce uma notícia?]({{site.baseurl}}/clybas/qc2)
+[Q.C.2.1 Tomando notas e interpretando o vídeo - Como nasce uma notícia?]({{site.baseurl}}/clybas/qc21)
 
 # Tópico 3 - Sinônimos, Hiperônimos, Hipônimos e Antônimos
 
 ## Atividade no caderno
 
-[Q.C.3 Sinônimos, Hiperônimos, Hipônimos e Antônimos]({{site.baseurl}}/clybas/qc3)
+[Q.C.3.1 Sinônimos, Hiperônimos, Hipônimos e Antônimos]({{site.baseurl}}/clybas/qc31)
 
