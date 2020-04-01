@@ -40,6 +40,8 @@ Obrigado!
 
 [Q.C.2.3 Formulário - Compreendendo uma notícia]({{site.baseurl}}/clybas/qc23)
 
+[Q.C.2.4 Notícia *online* - Leitura e compreensão]({{site.baseurl}}/clybas/qc24)
+
 
 # Tópico 3 - Sinônimos, Hiperônimos, Hipônimos e Antônimos
 
