@@ -36,6 +36,11 @@ Obrigado!
 
 [Q.C.2.1 Tomando notas e interpretando o vídeo - Como nasce uma notícia?]({{site.baseurl}}/clybas/qc21)
 
+## Atividade *online*
+
+[Q.C.2.2 Formulário - Compreendendo uma notícia]({{site.baseurl}}/clybas/qc22)
+
+
 # Tópico 3 - Sinônimos, Hiperônimos, Hipônimos e Antônimos
 
 ## Atividade no caderno
