@@ -23,6 +23,10 @@ comments: false
 
 # Tópico 3 - Sinônimos, hiperônimos e hipônimos
 
+## Página 42 do livro didático
+
+![]({{site.baseurl}}/{{site.img_path}}/clybas/hiponimos_hiperonimos.jpg)
+
 ## Links
 
 [Brasil Escola: Hiperônimos e hipônimos](https://brasilescola.uol.com.br/gramatica/hiponimos-hiperonimos.htm)
@@ -37,6 +41,10 @@ comments: false
 
 # Tópico 4 - Linguagem Conotativa e Denotativa
 
-## Vídeo
+# Página 41 do livro didático
+
+![]({{site.baseurl}}/{{site.img_path}}/clybas/conotativo_denotativo.jpg)
+
+## Vídeo do canal "Bom de Língua" sobre o tópico
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5EyhiOFIblM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

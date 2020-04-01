@@ -32,13 +32,13 @@ Obrigado!
 
 # Tópico 2 - A notícia
 
-## Atividade no caderno
+## Atividades no caderno e *online*
 
 [Q.C.2.1 Tomando notas e interpretando o vídeo - Como nasce uma notícia?]({{site.baseurl}}/clybas/qc21)
 
-[Q.C.2.2 Formulário - Compreendendo uma notícia]({{site.baseurl}}/clybas/qc22)
+[Q.C.2.2 Formulário - Compreendendo uma notícia 1]({{site.baseurl}}/clybas/qc22)
 
-[Q.C.2.3 Formulário - Compreendendo uma notícia]({{site.baseurl}}/clybas/qc23)
+[Q.C.2.3 Formulário - Compreendendo uma notícia 2]({{site.baseurl}}/clybas/qc23)
 
 [Q.C.2.4 Notícia *online* - Leitura e compreensão]({{site.baseurl}}/clybas/qc24)
 
@@ -48,4 +48,10 @@ Obrigado!
 ## Atividade no caderno
 
 [Q.C.3.1 Sinônimos, Hiperônimos, Hipônimos e Antônimos]({{site.baseurl}}/clybas/qc31)
+
+# Tópico 4 - Linguagem conotativa e denotativa
+
+## Atividade no caderno
+
+[Q.C.4.1 Recordando e interpretando]({{site.baseurl}}/clybas/qc41)
 
