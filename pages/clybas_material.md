@@ -5,6 +5,10 @@ permalink: /clybas_material
 comments: false
 ---
 
+# Caderno do aluno - 7o ano do Ensino Fundamental
+
+[CLIQUE AQUI PARA O DOWNLOAD DO CADERNO](https://drive.google.com/file/d/1lTPexY2HO9pWwaOovYWnVc8dJIWsrnXu/view?usp=sharing)
+
 # Links para Dicionários *online*
 
 [Dicionário Michaelis](http://www.michaelis.uol.com.br)
