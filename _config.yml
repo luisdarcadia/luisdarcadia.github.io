@@ -33,15 +33,13 @@ defaults:
       comments: true
 
 clybaslinks:
-  - name: "Atividades"
+  - name: "Atividades | "
     link: clybas
-  - name: "Instruções"
+  - name: "Instruções | "
     link: clybas_instrucoes
-  - name: "Material"
+  - name: "Material | "
     link: clybas_material
-  - name: "Dicionários"
-    link: dicionarios
-
+    
 navlinks:
   - name: Aulas
     link: alunos

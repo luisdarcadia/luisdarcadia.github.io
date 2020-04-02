@@ -5,46 +5,21 @@ permalink: /clybas_material
 comments: false
 ---
 
-# Tópico 1 - Conscientização sobre a pandemia de COVID-19
+# Links para Dicionários *online*
 
-## Links
+[Dicionário Michaelis](http://www.michaelis.uol.com.br)
 
-[Ministério da Saúde - Coronavírus](https://coronavirus.saude.gov.br/)
+[Dicionário Caldas Aulete](http://www.aulete.com.br)
 
-## Vídeos
+[Dicionário Priberam](https://dicionario.priberam.org/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zlMFaqjs-o8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Materiais auxiliares sobre as atividades
 
-# Tópico 2 - A notícia
+[Tópico 1 - Conscientização sobre a pandemia de COVID-19]({{site.baseurl}}/clybas/material/topico1)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hqv_VMPafSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Tópico 2 - A notícia]({{site.baseurl}}/clybas/material/topico2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1XYNl91Zh7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Tópico 3 - Sinônimos, hiperônimos e hipônimos]({{site.baseurl}}/clybas/material/topico3)
 
-# Tópico 3 - Sinônimos, hiperônimos e hipônimos
+[Tópico 4 - Linguagem Conotativa e Denotativa]({{site.baseurl}}/clybas/material/topico4)
 
-## Página 42 do livro didático
-
-![]({{site.baseurl}}/{{site.img_path}}/clybas/hiponimos_hiperonimos.jpg)
-
-## Links
-
-[Brasil Escola: Hiperônimos e hipônimos](https://brasilescola.uol.com.br/gramatica/hiponimos-hiperonimos.htm)
-
--
-
-[Sinônimos e Antônimos](https://www.figuradelinguagem.com/gramatica/sinonimos-e-antonimos/)
-
-## Vídeos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ihpR8YLO00s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# Tópico 4 - Linguagem Conotativa e Denotativa
-
-# Página 41 do livro didático
-
-![]({{site.baseurl}}/{{site.img_path}}/clybas/conotativo_denotativo.jpg)
-
-## Vídeo do canal "Bom de Língua" sobre o tópico
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EyhiOFIblM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

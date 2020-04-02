@@ -8,5 +8,7 @@ Atividades marcadas com **Q.A** devem ser transcritas e respondidas a caneta **e
 
 Atividades marcadas com **Q.C** devem ser transcritas **no caderno** e receberão visto quando as aulas regulares retornarem.
 
-Nas atividades de interpretação de texto, não é necessária transcrever o texto completo, somente as perguntas.
+Atividades marcadas com **Q.O** são apresentadas no formato de um Formulário do Google e devem ser preenchidas *online*.
+
+Nas atividades de interpretação de texto, não é necessário transcrever o texto completo, somente as perguntas.
 
