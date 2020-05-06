@@ -7,7 +7,11 @@ comments: false
 
 # Caderno do aluno - 7o ano do Ensino Fundamental
 
-[CLIQUE AQUI PARA O DOWNLOAD DO CADERNO](https://drive.google.com/file/d/1lTPexY2HO9pWwaOovYWnVc8dJIWsrnXu/view?usp=sharing)
+[Site do Centro de Mídias do Estado de São Paulo](https://centrodemidiasp.educacao.sp.gov.br/)
+
+[Download do Caderno do Aluno "SP faz escola"](https://drive.google.com/file/d/1lTPexY2HO9pWwaOovYWnVc8dJIWsrnXu/view?usp=sharing)
+
+[Download do livro "Aprender Sempre"](https://drive.google.com/file/d/1fET3sMvjy2LBntdGs5YoxWbgmUYlJZUU/view)
 
 # Links para Dicionários *online*
 
@@ -16,14 +20,3 @@ comments: false
 [Dicionário Caldas Aulete](http://www.aulete.com.br)
 
 [Dicionário Priberam](https://dicionario.priberam.org/)
-
-# Materiais auxiliares sobre as atividades
-
-[Tópico 1 - Conscientização sobre a pandemia de COVID-19]({{site.baseurl}}/clybas/material/topico1)
-
-[Tópico 2 - A notícia]({{site.baseurl}}/clybas/material/topico2)
-
-[Tópico 3 - Sinônimos, hiperônimos e hipônimos]({{site.baseurl}}/clybas/material/topico3)
-
-[Tópico 4 - Linguagem Conotativa e Denotativa]({{site.baseurl}}/clybas/material/topico4)
-

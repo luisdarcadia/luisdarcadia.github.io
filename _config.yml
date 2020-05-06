@@ -33,11 +33,9 @@ defaults:
       comments: true
 
 clybaslinks:
-  - name: "Atividades | "
+  - name: "Atividades |"
     link: clybas
-  - name: "Instruções | "
-    link: clybas_instrucoes
-  - name: "Material | "
+  - name: "Materiais |"
     link: clybas_material
     
 navlinks:
