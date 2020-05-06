@@ -14,6 +14,11 @@ Nesta semana temos três tópicos, apresentados abaixo.
 
 Bons estudos a todos.
 
+-
+
+# Horários das aulas na TV e no aplicativo
+
+![]({{site.baseurl}}/{{site.img_path}}/clybas/semana_dois_horarios.jpg)
 
 # Tópico 1 - Figuras de Linguagem
 
