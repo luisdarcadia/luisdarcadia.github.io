@@ -91,6 +91,49 @@ b)	Explique com suas palavras a diferença entre assonância e aliteração.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AzK3-yLaCjM?start=172" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Exercícios
+
+1 - Leia a crônica de Lima Barreto intitulada "As enchentes" 
+
+
+As chuvaradas de verão, quase todos os anos, causam no nosso Rio de Janeiro, inundações desastrosas.
+
+Além da suspensão total do tráfego, com uma prejudicial interrupção das comunicações entre os vários pontos da cidade, essas inundações causam desastres pessoais lamentáveis, muitas perdas de haveres e destruição de imóveis.
+
+De há muito que a nossa engenharia municipal se devia ter compenetrado do dever de evitar tais acidentes urbanos.
+
+Uma arte tão ousada e quase tão perfeita, como é a engenharia, não deve julgar irresolvível tão simples problema.
+
+O Rio de Janeiro, da avenida, dos _squares_, dos freios elétricos, não pode estar à mercê de chuvaradas, mais ou menos violentas, para viver a sua vida integral.
+
+Como está acontecendo atualmente, ele é função da chuva. Uma vergonha.
+
+Não sei nada de engenharia, mas, pelo que me dizem os entendidos, o problema não é tão difícil de resolver como parecer fazerem constar os engenheiros municipais, procrastinando a solução da questão.
+
+O Prefeito Passos, que tanto se interessou pelo embelezamento da cidade, descurou completamente de solucionar esse defeito do nosso Rio.
+
+Cidade cercada de montanhas e entre montanhas, que recebe violentamente grandes precipitações atmosféricas, o seu principal defeito a vencer era esse acidente das inundações.
+Infelizmente, porém, nos preocupamos muito com os aspectos externos, com as fachadas, e não com o que há de essencial nos problemas da nossa vida urbana, econômica, financeira e social.
+
+
+_Vida urbana_, 19-1-1915.
+
+**1** - Leia o texto com atenção e responda rápido as perguntas abaixo:
+
+**a)** Qual o assunto do texto?
+
+**b)** Sobre qual cidade ele está comentando?
+
+**c)** Qual a crítica a respeito do prefeito da cidade?
+
+
+**2** - Uma _crônica_ é um tipo de texto curto que comenta sobre fatos recentes a partir das opiniões e visão de mundo individual de um autor. Sabendo isso, depois de ler a crônica "As Enchentes" de Lima Barreto, o que você pode comentar sobre as opiniões do autor a respeito da cidade do Rio de Janeiro na época em que escreveu.
+
+**3** - Considere a frase "Não sei nada de engenharia, mas, pelo que me dizem os entendidos, o problema não é tão difícil de resolver como parecer fazerem constar os engenheiros municipais, procrastinando a solução da questão". Considerando o contexto e o que o autor afirma no restante do texto, qual o significado da palavra "procrastinar"? Consulte um dicionário e transcreva a acepção usada pelo autor.
+
+**4** - O texto é de 1915. Você acha que os comentários do autor continuam importantes? 
+ 
+
 # Tópico 3 - Variação Linguística
 
 ## Aula das professoras Luciana Barbosa e Lucifrance Carvalhar sobre Variação Linguística.
