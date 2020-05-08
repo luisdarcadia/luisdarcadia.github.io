@@ -81,8 +81,18 @@ a)	A partir da leitura, que figuras de harmonia, relacionadas ao som das palavra
 
 b)	Explique com suas palavras a diferença entre assonância e aliteração.
 
-## Tópico 2 - Leitura e interpretação de textos
+# Tópico 2 - Leitura e interpretação de textos
 
-Aula da professora Cláudia Corá sobre leitura
+## Aula da professora Cláudia Corá sobre leitura
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eE_TqLx4Lx0?start=303" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Aula sobre estratégias de leitura dos professores Mauro Santos de Brito e Danielly Duarte
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AzK3-yLaCjM?start=172" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Tópico 3 - Variação Linguística
+
+## Aula das professoras Luciana Barbosa e Lucifrance Carvalhar sobre Variação Linguística.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JRJFIP9QhsU?start=186" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
