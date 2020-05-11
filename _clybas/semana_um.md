@@ -15,7 +15,7 @@ A participação nos grupos de Whatsapp de Língua Portuguesa é obrigatória. O
 Este roteiro contém 3 ciclos de atividades, que são descritos abaixo.
 
 
----
+-
 
 # Ciclo 1 - Retomada do conteúdo enviado durante o recesso escolar
 

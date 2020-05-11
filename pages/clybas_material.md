@@ -9,7 +9,7 @@ Olá!
 
 Página que contém links importantes e materiais relacionados às aulas de Língua Portuguesa!
 
-# Link importantes
+# Links importantes
 
 [Site do Centro de Mídias do Estado de São Paulo](https://centrodemidiasp.educacao.sp.gov.br/)
 

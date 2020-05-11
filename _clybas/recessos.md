@@ -38,8 +38,6 @@ comments: true
 [Q.C.4.1 Recordando e interpretando]({{site.baseurl}}/clybas/recessos/qc41)
 
 
----
-
 # Atividades avaliativas
 
 [Q.O.2.2 Formulário - Compreendendo uma notícia 1]({{site.baseurl}}/clybas/recessos/qc22)
