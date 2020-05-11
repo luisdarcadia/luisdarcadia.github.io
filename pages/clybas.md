@@ -22,3 +22,4 @@ Estou disponível para dúvidas e demais informações nos grupos das turmas.
 # [Atividades para os recessos escolares (23 de março a 3 de abril)]({{site.baseurl}}/clybas/recessos)
 # [Semana 1 - 27 a 30 de abril]({{site.baseurl}}/clybas/semana_um)
 # [Semana 2 - 4 a 8 de maio]({{site.baseurl}}/clybas/semana_dois)
+# [Semana 2 - 11 a 15 de maio]({{site.baseurl}}/clybas/semana_tres)
