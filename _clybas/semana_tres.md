@@ -47,3 +47,9 @@ Bons estudos a todos.
 ## Aula das professoras Luciana Barbosa e Lucifrance Carvalhar sobre Variação Linguística.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JRJFIP9QhsU?start=186" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Tópico 4 - O texto jornalístico
+
+## Aula das professoras Márcia Cardoso e Fernanda Maria Borges
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uTsm1Ghku6Q?start=430" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
