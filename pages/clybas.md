@@ -9,9 +9,9 @@ Olá pais e responsáveis!
 
 Este blog foi elaborado com o conteúdo das atividades referentes aos períodos de recesso e do retorno das aulas após as férias escolares.
 
-Cada semana possui um roteiro de estudo, com links a materiais e recursos necessários. Ainda, no menu do blog é possível acessar diretamente links para materiais necessários.
+Cada semana possui um roteiro de estudo, com *links* a materiais e recursos necessários. Ainda, no menu do blog é possível acessar diretamente *links* para materiais necessários.
 
-Para cada atividade no caderno, peço que **registrem data em que fez a atividade**, assim como **o respectivo título e enunciados**. Isso é importante para manter seus estudos a distância organizados. Nas atividades que fazem uso de vídeos, **reservem um espaço no caderno e anotem as informações importantes**.
+É importantíssimo salientar que durante o período afetado pela pandemia de Covid-19, é necessário que o aluno adote medidas de organização pessoal, tais como manter um **registro de datas, prazos e atividades já feitas**. Para cada atividade no caderno, peço que registrem para cada atividade **o respectivo título e enunciados**. Nas atividades que fazem uso de vídeos, **reservem um espaço no caderno e anotem as informações importantes**.
 
 Estou disponível para dúvidas e demais informações nos grupos das turmas.
 
