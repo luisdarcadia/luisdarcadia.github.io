@@ -20,6 +20,8 @@ Estou disponível para dúvidas e demais informações nos grupos das turmas.
 -
 
 # [Atividades para os recessos escolares (23 de março a 3 de abril)]({{site.baseurl}}/clybas/recessos)
-# [Semana 1 - 27 a 30 de abril]({{site.baseurl}}/clybas/semana_um)
-# [Semana 2 - 4 a 8 de maio]({{site.baseurl}}/clybas/semana_dois)
-# [Semana 3 - 11 a 15 de maio]({{site.baseurl}}/clybas/semana_tres)
+
+# [1º bimestre - 27 de abril a 29 de maio]({{site.baseurl}}/clybas/1_bimestre)
+
+# [2º bimestre - 8 de maio a 31 de julho]({{site.baseurl}}/clybas/2_bimestre)
+

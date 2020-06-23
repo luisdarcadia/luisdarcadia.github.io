@@ -9,7 +9,7 @@ background: orcamento
 <div class="grid">
 {% assign colecao = site.data.startlinks %}
 
-{% assign titulo = "Estudos" %}
+{% assign titulo = "Estudos e Trabalho" %}
 {% assign tipo = "facul" %}
 {% include dataloop.html %}
 

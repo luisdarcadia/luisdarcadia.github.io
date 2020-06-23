@@ -6,6 +6,10 @@
 #  tipo: facul
 #  link: https://sistemas.unesp.br/sentinela/login.open.action
 
+- nome: Google Classroom
+  tipo: facul
+  link: http://classroom.google.com/u/1/h
+
 - nome: Calendar
   tipo: localhost
   link: http://google.com/calendar
@@ -26,33 +30,33 @@
   tipo: facul
   link: https://www.athena.biblioteca.unesp.br/
 
-- nome: Lattes
-  tipo: facul
-  link: https://wwws.cnpq.br/cvlattesweb/pkg_login.prc_form
+  #- nome: Lattes
+  #tipo: facul
+  #link: https://wwws.cnpq.br/cvlattesweb/pkg_login.prc_form
 
 - nome: Busca - VOLP
   tipo: facul
   link: http://www.academia.org.br/nossa-lingua/busca-no-vocabulario
 
-- nome: BNP Digital
-  tipo: facul
-  link: http://www.purl.pt
+  #- nome: BNP Digital
+  #tipo: facul
+  #link: http://www.purl.pt
 
-- nome: Google Books
-  tipo: facul
-  link: https://www.google.com/books
+  #- nome: Google Books
+  #tipo: facul
+  #link: https://www.google.com/books
 
 - nome: JSTOR 
   tipo: facul
   link: https://www.jstor.org
 
-- nome: Archive.org
-  tipo: facul
-  link: https://archive.org
+  #- nome: Archive.org
+  #tipo: facul
+  #link: https://archive.org
 
-- nome: Dicionário Bluteau
-  tipo: facul
-  link: http://dicionarios.bbm.usp.br/pt-br/dicionario/edicao/1
+  #- nome: Dicionário Bluteau
+  #tipo: facul
+  #link: http://dicionarios.bbm.usp.br/pt-br/dicionario/edicao/1
 
 - nome: Netflix 
   tipo: fun
