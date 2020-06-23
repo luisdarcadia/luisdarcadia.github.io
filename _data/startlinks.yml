@@ -10,6 +10,14 @@
   tipo: facul
   link: http://classroom.google.com/u/1/h
 
+- nome: Google Mail SED
+  tipo: facul
+  link: http://mail.google.com/mail/u/1/
+
+- nome: Conta Microsoft SED
+  tipo: facul
+  link: http://login.microsoftonline.com/
+
 - nome: Google Drive SED
   tipo: facul
   link: http://drive.google.com/drive/u/1/my-drive
