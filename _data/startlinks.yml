@@ -6,21 +6,21 @@
 #  tipo: facul
 #  link: https://sistemas.unesp.br/sentinela/login.open.action
 
-- nome: Google Classroom
+- nome: Google Classroom SED
   tipo: facul
   link: http://classroom.google.com/u/1/h
+
+- nome: Google Drive SED
+  tipo: facul
+  link: http://drive.google.com/drive/u/1/my-drive
+
+- nome: Google Drive MEI
+  tipo: facul
+  link: http://drive.google.com/drive/u/2/my-drive
 
 - nome: Calendar
   tipo: localhost
   link: http://google.com/calendar
-
-- nome: CUPS
-  tipo: localhost
-  link: http://localhost:631
-
-  #- nome: UNOPAR
-  #tipo: facul
-  #link: https://www.colaboraread.com.br/login/auth
 
 - nome: Secretaria de Educação
   tipo: facul
@@ -98,7 +98,7 @@
   tipo: varia
   link: https://bitbucket.org/
 
-- nome: Google Drive  
+- nome: Google Drive Pessoal
   tipo: varia
   link: https://drive.google.com/drive/my-drive
 
@@ -114,6 +114,10 @@
   tipo: varia
   link: https://www.dropbox.com/ 
 
+- nome: CUPS
+  tipo: localhost
+  link: http://localhost:631
+
 - nome: Jekyll
   tipo: localhost
   link: http://localhost:4000
@@ -126,6 +130,12 @@
   tipo: localhost
   link: http://192.168.1.1
 
-- nome: Django
-  tipo: localhost
-  link: http://localhost:8000
+  #- nome: Django
+  #tipo: localhost
+  #link: http://localhost:8000
+  #
+  #
+  #- nome: UNOPAR
+  #tipo: facul
+  #link: https://www.colaboraread.com.br/login/auth
+
