@@ -6,6 +6,10 @@
 #  tipo: facul
 #  link: https://sistemas.unesp.br/sentinela/login.open.action
 
+- nome: Secretaria de Educação
+  tipo: facul
+  link: https://sed.educacao.sp.gov.br
+
 - nome: Google Classroom SED
   tipo: facul
   link: http://classroom.google.com/u/1/h
@@ -22,6 +26,14 @@
   tipo: facul
   link: http://drive.google.com/drive/u/1/my-drive
 
+- nome: Blog CLYBAS
+  tipo: facul
+  link: http://www.luisdarcadia.com/clybas
+
+- nome: Google Mail MEI
+  tipo: facul
+  link: http://mail.google.com/mail/u/2/
+
 - nome: Google Drive MEI
   tipo: facul
   link: http://drive.google.com/drive/u/2/my-drive
@@ -29,10 +41,6 @@
 - nome: Calendar
   tipo: localhost
   link: http://google.com/calendar
-
-- nome: Secretaria de Educação
-  tipo: facul
-  link: https://sed.educacao.sp.gov.br
 
 - nome: Biblio - UNESP
   tipo: facul
