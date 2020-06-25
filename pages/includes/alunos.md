@@ -6,7 +6,7 @@ Ofereço também correção avulsa de redações. Ela é acompanhada de uma **[f
 
 As aulas podem ser *online* ou presenciais (município de Assis-SP).
 
-<a id="agendar" target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NHE5bHNsOG9pOWhkZG84bTNrNjVucHEwcTAgZTBjMDdrc2luMnVvMHE5aTZyamFkNjQxZXNAZw&amp;tmsrc=e0c07ksin2uo0q9i6rjad641es%40group.calendar.google.com"> Clique aqui para agendar uma aula! </a>
+Para agendar uma aula, entre em contato por nosso *email*: demachinamundi@gmail.com.
 
 # Preços
 
