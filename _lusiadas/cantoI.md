@@ -427,7 +427,7 @@ A Aurora nasce, & o claro Sol se esconde.
 
 <div  class="numero">{% increment quadra %}.</div>
 
-Estava o padre ali sublime & dino,
+Estava o Padre ali sublime & dino,
 
 Que vibra os feros raios de Vulcano,
 
@@ -442,6 +442,256 @@ Que divino tornara um corpo humano:
 Com u'a coroa, & ceptro rutilante,
 
 De outra pedra mais clara que diamante.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Em luzentes assentos, marchetados
+
+De ouro, & perlas, mais abaixo estavão
+
+Os outros Deoses todos assentados,
+
+Como a Razão, & a Ordem concertavão.
+
+Precedem os antigos mais honrados,
+
+Mais abaixo os menores se assentavão:
+
+Cum tom de voz começa, grave & horrendo:
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Eternos moradores do luzente
+
+Estelífero polo & claro assento,
+
+Se do grande valor da forte gente,
+
+De Luso, não perdeis o pensamento,
+
+Deveis de ter sabido claramente
+
+Como é dos fados grandes certo intento
+
+Que por ela se esqueçam os humanos,
+
+De Assírios, Persas, Gregos & Romanos.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Já lhe foi (bem o vistes) concedido
+
+Com poder tão singelo & tão pequeno
+
+Toda a terra que rega o Tejo ameno:
+
+Pois contra o Castelhano tão temido
+
+Sempre alcançous favor do Céu sereno.
+
+Assi que sempre em fim com fama & glória,
+
+Teve os troféus pendentes da victória.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+Deixo Deoses atras a fama antigua,
+
+Que co a gente de Romulo alcançaram,
+
+Quando com Variato, na inimiga
+
+Guerra Romana tanto se afamaram.
+
+Também deixo a memória, que os obriga
+
+A grande nome, quando alevantaram
+
+Hum, por seu capitão, que peregrino
+
+Fingiu na Cerva espírito divino.
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
+
+---
+
+<div  class="numero">{% increment quadra %}.</div>
+
+<++>
 
 ---
 
