@@ -523,49 +523,146 @@ Fingiu na Cerva espírito divino.
 
 <div  class="numero">{% increment quadra %}.</div>
 
-<++>
+Agora vedes bem, que cometendo,
+
+O divino mar, num lenho leve
+
+Por vias nuncas usadas, não temendo
+
+De Africo & Noto a força a mais s'atreve:
+
+Que havendo tanto já que as partes vendo,
+
+Onde o dia é comprido, & onde breve.
+
+Inclinam seu propósito, & perfia
+
+A ver os berços, onde nasce o dia.
 
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
-<++>
+Prometido lhe está do fado eterno,
+
+Cuja alta lei não pode ser quebrada,
+
+Que tenham longos tempos o governo
+
+Do mar, que vê do Sol a roxa entrada:
+
+Nas águas tem passado o duro Inverno,
+
+A gente vem perdida & trabalhada.
+
+Já parece bem feito, que lhe seja
+
+Mostrada a nova terra que deseja.
 
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
-<++>
+E por que, como vistes, tem passados
+
+Na viagem, tão ásperos perigos,
+
+Tantos Climas & Céus experimentados,
+
+Tanto furor de ventos inimigos
+
+Que sejam, de término, agasalhados
+
+Nesta costa Africana como amigos.
+
+E tendo guarnecida a lassa frota,
+
+Tornaram a seguir sua longa rata:
 
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
-<++>
+Estas palavras Iupiter dezia,
+
+Quando os Deuses por ordem respondendo,
+
+Na sentença um do outro diferia,
+
+Razões diversas dando & recebendo.
+
+O padre Baco, ali não consentia
+
+No que Iupiter disse, conhecendo
+
+Que esqueceram seus feitos no Oriente,
+
+Se lá passar a Lusitana gente.
 
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
-<++>
+Ouvindo tinha aos Fados que viria
+
+Uma gente fortíssimo de Espanha,
+
+Pelo mar alto, a qual sujeitaria
+
+Da Índia, tudo quanto Doris banha:
+
+E com novas victórias venceria,
+
+A fama antiga, ou sua, ou fosse estranha.
+
+Altamente lhe dói perder a glória,
+
+De que Nisa celebra ainda a memória.
 
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
-<++>
+Vê que já teve o Indo Subjugado,
+
+E nunca lhe tirou Fortuna, ou caso,
+
+Por vencedor da Índia ser cantado,
+
+De quantos bebem a água do Parnaso.
+
+Teme agora que seja sepultado,
+
+Seu tão célebre nome, em negro vaso,
+
+D'água do esquecimento, se la chegam
+
+Os fortes Portugueses, que navegam, 
 
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
-<++>
+Sustentava contre ele a Vênus bela
 
+Afeiçoada à gente Lusitana,
+
+Por quantas qualidades via nela,
+
+Da antiga tão amam sua Romana,
+
+Nos fortes corações, na grande estrela,
+
+Que mostraram na terra Tingitana:
+
+E na língua, na qual, quando imagina,
+
+Com pouca corrupção crê que é a Latina.
 ---
 
 <div  class="numero">{% increment quadra %}.</div>
 
-<++>
+Estas causas moviam Cyterea
 
 ---
 
