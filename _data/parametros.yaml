@@ -1,8 +1,8 @@
 luis:
   tamanholauda: 300
-  precolauda: 4
-  laudaspordia: 15
-  horaaula: 30
-  correcao: 10
+  precolauda: 5
+  laudaspordia: 10
+  horaaula: 60
+  correcao: 20
   precominimo: 50
   prazominimo: 2
