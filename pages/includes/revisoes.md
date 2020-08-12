@@ -18,7 +18,7 @@ Consideramos **uma lauda** o conjunto de **{{site.data.parametros[page.professor
 
 O preço de **uma lauda**\* é R$ {{site.data.parametros[page.professor].precolauda}},00.
 
-\* preço mínimo para qualquer orçamento é R$ {{site.data.parametros[page.professor].precominimo}},00.
+\* preço mínimo para qualquer serviço é R$ {{site.data.parametros[page.professor].precominimo}},00.
 
 O prazo para a revisão é de **um dia útil** por cada **{{site.data.parametros[page.professor].laudaspordia}} laudas** requisitadas pelo cliente.
 
