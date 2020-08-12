@@ -1,0 +1,62 @@
+I"�
+<h1 id="um-editor-de-textos-na-linha-de-comando">Um editor de textos na linha de comando</h1>
+
+<p><em>VI IMproved</em> é uma extensão do <a href="https://pt.wikipedia.org/wiki/Vi">vi</a> criada pelo programador holandês <a href="http://www.moolenaar.net/">Bram Moolenar</a>. Muito usado como editor de códigos-fonte, ele não precisa se limitar à programação.
+Escritores, <em>bloggers</em>, jornalistas e estudantes fazem uso do programa, havendo uma série de <em>plugins</em> criados para extender sua funcionalidade nesse sentido.</p>
+
+<p>Comecei utilizando o vim para editar arquivos de configuração do Linux na linha de comando.
+O hábito que o Linux tem de pedir a edição de arquivos como usuário <em>root</em> era trabalhoso.
+Abrir um navegador de arquivos, rolar pela pasta até encontrar o arquivo e chamar o <em>gedit</em> como root era um pouco irritante.
+Nesse caso a linha de comando é a opção de demanda o menor esforço.
+A busca por um editor na linha de comando ofereceu tanto o Nano quanto o Vim, e eu acabei optei pelo último.</p>
+
+<p>O hábito de usar o <em>vim</em> então se mostrou bastante útil quando iniciei meu o interesse pela linguagem <strong>LaTeX</strong>.
+Essa combinação está se mostrando uma enorme ajuda para a redação da minha tese de doutorado.
+Minha experiência de escrita está mais rápido e o ambiente da escrita, o que é mais importante, não possui distrações. 
+Plugins como <a href="https://github.com/junegunn/goyo.vim">Goyo</a> e <a href="https://github.com/junegunn/limelight.vim">Limelight</a> contribuem ainda mais para isso.</p>
+
+<p><img src="/assets/img/goyo.gif" alt="limegif" />
+<em>Minha rotina com a tese :)</em></p>
+
+<h1 id="esquecendo-o-mouse">Esquecendo o mouse</h1>
+
+<p>Originalmente criado para o sistema operacional <a href="https://pt.wikipedia.org/wiki/Unix">Unix</a>, o <em>vim</em> procura seguir a “filosofia” que orientou o desenvolvimento daquele sistema: <strong>cada programa deve cumprir somente uma função e cumpri-la bem</strong>.
+Por esse mesmo motivo (olha a frase de efeito) o <em>vim</em> é ao mesmo tempo limitado e sem limites.</p>
+
+<p>Diferente de editores de texto <em>WYSIWYG</em>, ele trabalha somente com <em>plain text</em>.
+O programa não é capaz de preparar um texto para impressão.
+Não é capaz de criar itálicos, negritos, rodapés, números de página, etc. Essa é a função de programas especializados e das linguagens <em>markup</em>.</p>
+
+<p>No entanto, para a redação do texto em si, ou seja, o processo de inserir, apagar e alterar caracteres e palavras, o <em>vim</em> é extremamente eficiente.
+Sua relação com computadores mais antigos é também responsável por essa eficiência. Tendo em mente um usuário sem mouse.
+Todas as funcionalidades do <em>vim</em> são acessíveis sem que seja necessário afastar as mãos do <em>home row</em> do teclado. Esse fato por si só torna o trabalho com o texto mais rápido.</p>
+
+<p>Não bastasse isso, grande parte da eficiência do <em>vim</em> é fruto de sua maior peculiaridade: a modalidade.</p>
+
+<h1 id="editor-modal">Editor Modal</h1>
+
+<p>Quando escrevemos com lápis e papel, nunca nos movimentamos pelo texto com o lápis em contato com a página quando não estamos escrevendo.
+Com essa mesma lógica o <em>vim</em> possui modos diferentes para a redação e para a edição de um texto já escrito.
+Os modos do editor, resumindo:</p>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+
+      <ul>
+        <li><strong>normal</strong> - modo padrão, projetado para a movimentação e edição, acessível com <code class="language-plaintext highlighter-rouge">Esc</code> ou <code class="language-plaintext highlighter-rouge">Ctrl + [</code></li>
+        <li><strong>inserção</strong> - modo para escrita em si, acessível com <code class="language-plaintext highlighter-rouge">i</code></li>
+        <li><strong>visual</strong> - modo para a seleção visual, ocorrendo por caractere <code class="language-plaintext highlighter-rouge">v</code>, por linha <code class="language-plaintext highlighter-rouge">V</code> ou (mais complicado) por bloco <code class="language-plaintext highlighter-rouge">Ctrl + v</code></li>
+        <li><strong>comando</strong> - modo da interface do usuário, com <code class="language-plaintext highlighter-rouge">:</code></li>
+      </ul>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<p>Ao abrir o programa, o usuário se encontra em modo normal, que é o modo para movimentação e alteração do texto.
+Para inserir texto, devemos entra no modo de <em>inserção</em>, pressionando a tecla <code class="language-plaintext highlighter-rouge">i</code>. É nesse modo, e somente nesse modo, que o texto é inserido. Pressionamos <code class="language-plaintext highlighter-rouge">Esc</code> ou <code class="language-plaintext highlighter-rouge">ctrl + [</code> para retornarmos ao modo normal.</p>
+
+<p>Toda a interação do usuário com o programa acontece pelo modo de comando, que é acessado pressionando a tecla <code class="language-plaintext highlighter-rouge">:</code> a partir do modo normal. Comando como sair <code class="language-plaintext highlighter-rouge">:q</code> ou <code class="language-plaintext highlighter-rouge">:quit</code>, salvar (<em>write</em>) <code class="language-plaintext highlighter-rouge">:w</code> são passados por meio da linha de comando. Comando mais importante, no entanto, é a ajuda. Ao inserir <code class="language-plaintext highlighter-rouge">:h r</code>, por exemplo, o programa informa qual a função da tecla r, o mesmo servindo para todas as teclas da <em>home row</em> do teclado.</p>
+
+<p>O <em>vim</em> ainda apresenta uma série de características interessantes, como a capacidade de concatenar com um sintaxe própria. Pretendo colocar aqui minhas “colinhas” sobre isso.</p>
+:ET

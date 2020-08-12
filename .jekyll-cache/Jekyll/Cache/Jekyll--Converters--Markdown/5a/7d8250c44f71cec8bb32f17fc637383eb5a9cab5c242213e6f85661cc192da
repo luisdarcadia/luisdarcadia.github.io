@@ -1,0 +1,84 @@
+I"�<h1 id="quais-são-os-elementos-pré-textuais-obrigatórios-segundo-a-abnt">Quais são os elementos pré-textuais obrigatórios segundo a ABNT?</h1>
+
+<p>A NBR 14724 lista os elementos pré-textuais como obrigatórios:</p>
+
+<ul>
+  <li>Folha de rosto</li>
+  <li>Folha de aprovação</li>
+  <li>Resumo em língua vernácula</li>
+  <li>Resumo em língua estrangeira</li>
+  <li>Sumário</li>
+</ul>
+
+<p>Nessa parte do texto, <strong>não se colocam números de página</strong>, e as páginas devem ser contadas a partir da folha de rosto.</p>
+
+<p>Eles devem ser iniciados no <em>anverso</em> da folha.</p>
+
+<h2 id="um-aparte-importante-a-ficha-catalográfica">Um aparte importante: a ficha catalográfica</h2>
+
+<p>Ela deve vir <strong>no verso da folha de rosto</strong>, procure a biblioteca de sua faculdade ou procure um profissional de biblioteconomia para elaborá-la</p>
+
+<h1 id="mas-e-a-dedicatória-agradecimentos-e-epígrafe">Mas e a dedicatória, agradecimentos e epígrafe?</h1>
+
+<p>Eles são elementos opcionais e devem aparecer <em>entre a folha de aprovação e o resumo</em>.</p>
+
+<p>A respeito da dedicatória, a ABNT não dá muitas regras, a não ser que não possui um título. 
+A única outra regra implícita é que deve seguir o tamanho de letra, com tipo 12.</p>
+
+<p>Desses, <strong>só o agradecimento deve receber título</strong>, sendo este em negrito e centralizado.</p>
+
+<p>A respeito da epígrafe, <strong>não possui título</strong>, mas a ABNT não dá mais detalhes, a não ser que deve ser uma citação nos moldes da NBR 6023.</p>
+
+<h1 id="e-as-listas">E as listas?</h1>
+
+<p>Devem aparecer na seguinte ordem:</p>
+
+<ul>
+  <li>Lista de ilustrações</li>
+  <li>Lista de tabelas</li>
+  <li>Lista de abreviaturas e siglas</li>
+  <li>Lista de símbolos</li>
+</ul>
+
+<p>São todas opcionais, o <em>bom senso</em> diz que se o seu trabalho possui poucos desses elementos, ele pode ser dispensada.
+(Se bem que ABNT e bom senso não andam muito juntos, mas tudo bem.)</p>
+
+<p>Caso apresente ilustrações de categorias diferentes, é permitido criar listas separadas (desenhos, fotografia, retratos, etc.).
+Em qual ordem apareceriam essas listas? A ABNT não diz, portanto faça o mais conveniente.
+Cada entrada deve ser apresentada <strong>na ordem em que aparecem no texto</strong>, com a ** designação + número + travessão + título + espaçamento + número da página**.</p>
+
+<p>Exemplo:</p>
+<blockquote>
+  <p>Figura 1 - Esta é uma figura                                               10</p>
+</blockquote>
+
+<p>Essa fórmula é a mesma para tabelas.</p>
+
+<p>Quanto às listas de abreviaturas e fórmulas, utilize uma linha para item.
+O exemplo da ABNT mostra uma tabulação separando o item de sua descrição, no entanto, não há descrição explícita de formato.</p>
+
+<h1 id="resumindo">Resumindo</h1>
+
+<p>A ordem pedida dos elementos pré-textuais pela ABNT é:</p>
+
+<ul>
+  <li>Folha de rosto <strong>(obrigatório)</strong></li>
+  <li>Folha de aprovação <strong>(obrigatório)</strong></li>
+  <li>Dedicatória <em>(opcional)</em></li>
+  <li>Agradecimentos <em>(opcional)</em></li>
+  <li>Epígrafe <em>(opcional)</em></li>
+  <li>Resumo em língua vernácula <strong>(obrigatório)</strong></li>
+  <li>Resumo em língua estrangeira <strong>(obrigatório)</strong></li>
+  <li>Lista de ilustrações <em>(opcional)</em></li>
+  <li>Lista de tabelas <em>(opcional)</em></li>
+  <li>Lista de abreviaturas e siglas <em>(opcional)</em></li>
+  <li>Lista de símbolos <em>(opcional)</em></li>
+  <li>Sumário <strong>(obrigatório)</strong></li>
+</ul>
+
+<h1 id="mas-e-a-capa">Mas e a capa?</h1>
+
+<p>A capa, conforme a NBR 14724:2011 é um elemento da <strong>parte externa</strong>!
+Por esse motivo não é uma página contada (é o que se pode inferir do item 5.3 da norma, pelo menos).</p>
+
+:ET

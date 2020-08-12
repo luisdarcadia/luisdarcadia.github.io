@@ -1,0 +1,118 @@
+I"B<h2 id="questões-de-anulação">Questões de anulação</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Fuga completa do tema</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Texto não escrito em língua portuguesa</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Uso de gênero textual que não o dissertativo</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Número de linhas</li>
+</ul>
+
+<h2 id="tema">Tema</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Abordagem tangencial do tema</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Falha na apresentação do ponto de vista (tese)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Argumentação não direcionada (não apoia uma tese em específico, falha na linha argumentativa, argumentos “soltos”)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Digressão</li>
+</ul>
+
+<h2 id="gênero-dissertativo">Gênero dissertativo</h2>
+
+<ul>
+  <li>Falhas na macroestrutura
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Introdução</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Desenvolvimento</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Conclusão</li>
+    </ul>
+  </li>
+  <li>Quebra da impessoalidade
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Uso de primeira pessoa</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Diálogo com leitor ou corretor</li>
+    </ul>
+  </li>
+  <li>Quebra da objetividade
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Referências à situação comunicativa</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Linguagem apaixonada</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="coerência">Coerência</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Texto incoerente (<em>sopa de palavras</em>)</li>
+  <li class="task-list-item">Coerência interna
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Contradições</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Circularidade</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Causas e consequências improcedentes</li>
+    </ul>
+  </li>
+  <li class="task-list-item">Coerência externa
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Informação falsa</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Informação não pertence a campo de conhecimento de prestígio</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Autoridade mencionada não pertence a campo do conhecimento reconhecido</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="coesão">Coesão</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Repetição excessiva de termos</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Texto sem paragrafação</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Ocorrência de parágrafos com período único</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Isolamento de orações subordinadas</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Uso não apropriado de elemento coesivo</li>
+  <li class="task-list-item">Uso de termos coesivos
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Falta de relações entre parágrafos</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Falta de relações internas ao parágrafo.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="linguagem">Linguagem</h2>
+
+<p>::: {.columns}
+:::: {.column}</p>
+<ul>
+  <li>Registro e modalidade linguísticas
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Uso inadequado de termo</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Jargão técnico ou profissional</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Gírias</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Palavras de baixo calão</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Termo não dicionarizado</li>
+    </ul>
+  </li>
+  <li>Convenções da língua escrita
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Ortografia</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Acentuação</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Capitalização</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Hifenização</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Separação de sílabas
+::::
+:::: {.column}</li>
+    </ul>
+  </li>
+  <li>Outros desvios da norma culta escrita
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Pontuação</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Regência verbal</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Regência nominal</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Concordância verbal</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Concordância nominal</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><em>“Dequeísmo”</em> - falha nas variações do pronome <em>que</em> e <em>cujo</em>
+::::
+:::</li>
+    </ul>
+  </li>
+</ul>
+
+:ET

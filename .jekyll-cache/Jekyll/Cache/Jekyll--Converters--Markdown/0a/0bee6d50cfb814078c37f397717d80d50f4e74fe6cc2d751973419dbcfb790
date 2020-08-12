@@ -1,0 +1,24 @@
+I"�<h1 id="simule-seu-orçamento">Simule seu orçamento!</h1>
+
+<p>Importante! Os valores e prazos apresentados aqui são somente uma estimativa, entre em contato conosco para mais detalhes.</p>
+
+<h2 id="insira-o-número-de-palavras-de-seu-trabalho">Insira o número de <em>palavras</em> de seu trabalho</h2>
+
+<p><input placeholder="Insira aqui o número de palavras de seu trabalho" type="text" name="fname" class="palavras" id="palavras" /></p>
+
+<p class="alert-small" id="erros"></p>
+
+<p><strong>Total de laudas</strong></p>
+
+<div class="notice" id="laudas"></div>
+
+<p><strong>Preço</strong></p>
+
+<div class="notice" id="preco"></div>
+<div class="alert" id="desconto"></div>
+
+<p><strong>Prazo</strong></p>
+
+<p class="notice" id="prazo"></p>
+
+:ET

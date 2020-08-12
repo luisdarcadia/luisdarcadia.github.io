@@ -1,0 +1,366 @@
+I"u<div id="search-form">
+	<form action="https://duckduckgo.com/" method="get" target="_blank">
+	<input type="text" name="q" autofocus="autofocus" placeholder="Duck Duck Go" />
+	</form>
+</div>
+
+<div class="grid">
+
+
+
+
+<div class="coluna">
+  <h2>Estudos e Trabalho</h2>
+  <ul>
+    
+       
+        <li><a href="https://sed.educacao.sp.gov.br"> Secretaria de Educação </a></li>
+      
+    
+       
+        <li><a href="http://classroom.google.com/u/1/h"> Google Classroom SED </a></li>
+      
+    
+       
+        <li><a href="http://mail.google.com/mail/u/1/"> Google Mail SED </a></li>
+      
+    
+       
+        <li><a href="http://login.microsoftonline.com/"> Conta Microsoft SED </a></li>
+      
+    
+       
+        <li><a href="http://drive.google.com/drive/u/1/my-drive"> Google Drive SED </a></li>
+      
+    
+       
+        <li><a href="http://www.luisdarcadia.com/clybas"> Blog CLYBAS </a></li>
+      
+    
+       
+        <li><a href="http://classroom.google.com/u/2/h"> Google Classroom MEI </a></li>
+      
+    
+       
+        <li><a href="http://mail.google.com/mail/u/2/"> Google Mail MEI </a></li>
+      
+    
+       
+        <li><a href="http://drive.google.com/drive/u/2/my-drive"> Google Drive MEI </a></li>
+      
+    
+      
+    
+       
+        <li><a href="https://www.athena.biblioteca.unesp.br/"> Biblio - UNESP </a></li>
+      
+    
+       
+        <li><a href="http://www.academia.org.br/nossa-lingua/busca-no-vocabulario"> Busca - VOLP </a></li>
+      
+    
+       
+        <li><a href="https://www.jstor.org"> JSTOR </a></li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ul>
+</div>
+
+
+
+
+<div class="coluna">
+  <h2>Social &amp; Fun</h2>
+  <ul>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+       
+        <li><a href="https://www.netflix.com"> Netflix </a></li>
+      
+    
+       
+        <li><a href="https://www.youtube.com/feed/subscriptions"> Youtube </a></li>
+      
+    
+       
+        <li><a href="https://www.google.com/mail"> Gmail </a></li>
+      
+    
+       
+        <li><a href="https://www.yahoo.com/mail"> Yahoo! </a></li>
+      
+    
+       
+        <li><a href="https://www.facebook.com"> Facebook </a></li>
+      
+    
+       
+        <li><a href="https://twitter.com"> Twitter </a></li>
+      
+    
+       
+        <li><a href="https://www.instagram.com"> Instagram </a></li>
+      
+    
+       
+        <li><a href="https://web.whatsapp.com"> WhatsApp </a></li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ul>
+</div>
+
+
+
+
+<div class="coluna">
+  <h2>Misc</h2>
+  <ul>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+       
+        <li><a href="http://www.github.com/"> Github </a></li>
+      
+    
+       
+        <li><a href="https://bitbucket.org/"> BitBucket </a></li>
+      
+    
+       
+        <li><a href="https://drive.google.com/drive/my-drive"> Google Drive Pessoal </a></li>
+      
+    
+       
+        <li><a href="https://www.mega.nz"> MEGA Folder </a></li>
+      
+    
+       
+        <li><a href="https://outlook.live.com/owa"> Onedrive + Outlook </a></li>
+      
+    
+       
+        <li><a href="https://www.dropbox.com/"> Dropbox </a></li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ul>
+</div>
+
+
+
+
+<div class="coluna">
+  <h2>Localhost</h2>
+  <ul>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+       
+        <li><a href="http://google.com/calendar"> Calendar </a></li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+       
+        <li><a href="http://localhost:631"> CUPS </a></li>
+      
+    
+       
+        <li><a href="http://localhost:4000"> Jekyll </a></li>
+      
+    
+       
+        <li><a href="http://localhost:3000"> Rails </a></li>
+      
+    
+       
+        <li><a href="http://192.168.1.1"> Router </a></li>
+      
+    
+  </ul>
+</div>
+
+</div>
+
+<ul>
+  <li><a href="/fichamentos">Fichamentos</a></li>
+  <li><a href="/blog">Blog</a></li>
+  <li><a href="/poemas">Poemas</a></li>
+</ul>
+:ET

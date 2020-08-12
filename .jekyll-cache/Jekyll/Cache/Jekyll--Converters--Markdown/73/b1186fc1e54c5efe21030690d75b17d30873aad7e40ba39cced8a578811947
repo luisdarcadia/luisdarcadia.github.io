@@ -1,0 +1,45 @@
+I"�
+<h1 id="sobre-o-markdown">Sobre o <em>markdown</em></h1>
+
+<p><a href="https://daringfireball.net/projects/markdown/">Markdown</a> é uma <em>markup language</em> como <em>html</em> e <em>LaTeX</em>, ou seja, a escrita ocorre primeiramente em <em>plain text</em> e formatação se dá a partir de marcações convencionadas, quando o código-fonte é compilado. Esse processo é diferente de editores como <em>Microsoft Word</em>, <em>Libreoffice Writer</em> ou <em>Pages</em>, conhecidos como programas <em>WYSIWYG</em> (<em>What you see is what you get</em>). Editores de texto simples como <em>Notepad++</em> e <em>Vim</em> permitem um ambiente de escrita mais “limpo” e sem distrações, razão pela qual ela atraiu meu interese.</p>
+
+<p>Foi criada por <a href="https://en.wikipedia.org/wiki/John_Gruber">John Gruber</a> um escritor e blogger americano, com o objetivo de facilitar a escrita e publicação <em>online</em>, <code class="language-plaintext highlighter-rouge">Markdown</code> foi extendida em diversos “<a href="https://en.wikipedia.org/wiki/Markdown#Standardization">sabores</a>”, que variam quanto ao processo de compilação e nas convenções de marcação. O “sabor” utilizado aqui é o <a href="https://github.github.com/gfm/">Github Flavoured Markdown</a>, principalmente pela compilação automática proporcionada pela plataforma, além de oferecer mais recursos no momento da formatação.</p>
+
+<p>Depois de anos com editores de texto <em>WYSIWYG</em>, apesar da “facilidade” superficial, estou convencido de que não são a melhor alternativa para a escrita mais “exigente” como a acadêmica. O contato direto com o texto e a formatação <strong>realmente consistente</strong> de linguagens como a <code class="language-plaintext highlighter-rouge">Markdown</code> e <code class="language-plaintext highlighter-rouge">LaTeX</code> tornam impossível retornar ao Word. Ainda mais depois de ter contato com <em>Vim</em> (o que é outro assunto).</p>
+
+<p>A convenção para a criação de um parágrafo é deixar uma linha em branco, por exemplo. A fonte destes mesmos parágrafos tem a seguinte aparência:</p>
+
+<pre><code class="language-plain-text">[Markdown][Markdown] é uma *markup language* como *html* e *LaTeX*, ou seja, a escrita ocorre primeiramente em *plain text* e formatação se dá a partir de marcações convencionadas, quando o código-fonte é compilado. Esse processo é diferente de editores como *Microsoft Word*, *Libreoffice Writer* ou *Pages*, conhecidos como programas *WYSIWYG* (*What you see is what you get*). Editores de texto simples como *Notepad++* e *Vim* permitem um ambiente de escrita mais "limpo" e sem distrações, razão pela qual ela atraiu meu interese.
+
+Foi criada por [John Gruber][JohnGruber] um escritor e blogger americano, com o objetivo de facilitar a escrita e publicação *online*, `Markdown` foi extendida em diversos "[sabores][mdflavours]", que variam quanto ao processo de compilação e nas convenções de marcação. O "sabor" utilizado aqui é o [Github Flavoured Markdown][gitmd], principalmente pela compilação automática proporcionada pela plataforma, além de oferecer mais recursos no momento da formatação. 
+</code></pre>
+
+<p>Títulos são criados usando o sinal <code class="language-plaintext highlighter-rouge">#</code> e subtítulos são iterações do mesmo sinal repetido, com os subníveis crescendo na mesma medida:</p>
+
+<pre><code class="language-plain-text">## Subtítulo
+</code></pre>
+
+<blockquote>
+  <h2 id="subtítulo">Subtítulo</h2>
+</blockquote>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>### Subsubtítulo
+</code></pre></div></div>
+<blockquote>
+  <h3 id="subsubtítulo">Subsubtítulo</h3>
+</blockquote>
+
+<p>Acima destaquei os exemplos utilizando <code class="language-plaintext highlighter-rouge">&gt;</code>, assim como demarquei blocos de código colocando o trecho entre acentos graves (<code class="language-plaintext highlighter-rouge"></code>). Marcações como <strong>negrito</strong> e <em>itálico</em> são possíveis com o uso de arteriscos, e a versão do <code class="language-plaintext highlighter-rouge">markdown</code> oferecida pelo Github ainda permite o texto <del>tachado</del>.</p>
+
+<p>O código fonte deste artigo está disponível publicamente no <a href="https://raw.githubusercontent.com/luigi-finando/luigi-finando.github.io/master/_posts/2017-12-21-primeiro-post.markdown">meu Github</a>.</p>
+
+<h1 id="a-plataforma-jekyll-e-o-github-pages">A plataforma <a href="https://jekyllrb.com/docs/home">Jekyll</a> e o <a href="https://pages.github.com">Github Pages</a></h1>
+
+<p>Essa plataforma, instalada como uma <a href="https://en.wikipedia.org/wiki/RubyGems">Ruby Gem</a>, é uma combinação de <a href="https://shopify.github.io/liquid/">Liquid</a> e <a href="https://daringfireball.net/projects/markdown/">Markdown</a>, sendo uma ferramenta para a geração de <em>websites</em> estáticos.</p>
+
+<p>A integração com <em>markdown</em> é essencial pois permite que a sintaxe Liquid e o uso de <em>Frontmatters <a href="yaml.org">YAML</a></em> automatizem a geração de <em>htmls</em> a partir de templates e pedaços de código.</p>
+
+<p>Ao executar <code class="language-plaintext highlighter-rouge">jekyll new [nome da página]</code>, Jekyll produz um ambiente de desenvolvimento com uma estrutura de pastas e o arquivo <code class="language-plaintext highlighter-rouge">_config.yml</code>, permitindo ao usuário inserir criar layout e trechos de HTML reutilizáveis por meio da sintaxe <em>Liquid</em>. Como qualquer documento em HTML, é possível que o usuário crie estilos no formato CSS. A pasta <code class="language-plaintext highlighter-rouge">_posts</code> aceita arquivos no formato <em>markdown</em>, convertendo-os para HTML automaticamente no momento da construção do <em>site</em>.</p>
+
+<p>A plataforma <a href="https://pages.github.com">Github Pages</a> oferece a compilação automática do código do Jekyll, bastando sincronizar os arquivos fonte no repositório. A geração deste <em>blog</em> é feita quando o código fonte é enviado ao <a href="https://www.github.com/luigi-finando">meu repositório</a> no <a href="https://www.github.com">Github</a>.</p>
+:ET
