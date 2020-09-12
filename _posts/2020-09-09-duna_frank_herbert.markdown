@@ -3,7 +3,7 @@ layout: post
 title: "*Duna*, de Frank Herbert"
 date: 2019-09-09 15:35:00 -0200
 author_id: 1
-comments: false
+comments: true
 background: blog
 category: blog
 ---
