@@ -1,10 +1,10 @@
-# Modalidades de aulas particulares
+Oferecemos aulas de Língua Portuguesa e Redação (reforço escolar, concursos e escrita acadêmica) e Língua Francesa (incluindo instrumental).
 
-Aulas de Língua Portuguesa e redação (reforço escolar e concursos) e Língua Francesa (incluindo instrumental).
+Aulas remotas são por intermédio das plataformas Zoom ou Google Meet. O material é elaborado para a necessidade individual do aluno a partir de obras de referência clássicas da área desejada. Utilizamos tanto o Google Classroom quanto o Moodle como plataforma de apoio para atividades.
+
+O trabalho presencial está suspenso durante a pandemia de Covid-19. Em tempos normais, cobramos um adicional de R$ 5,00 pelo deslocamento. 
 
 Ofereço também correção avulsa de redações. Ela é acompanhada de uma **[ficha detalhada de correção](/ficha_de_correcao)** e também **temas elaborados de acordo com necessidades do aluno**.
-
-As aulas podem ser *online* ou presenciais (município de Assis-SP).
 
 Para agendar uma aula, entre em contato por nosso *email*: demachinamundi@gmail.com.
 
@@ -16,7 +16,7 @@ Para agendar uma aula, entre em contato por nosso *email*: demachinamundi@gmail.
 
 **R$ {{site.data.parametros[page.professor].horaaula | times: 4 | times: 0.85 | ceil}},00** pacote com **quatro** aulas.
 
-## Correções de redação (inclui elaboração de temas)
+## Correções de redação
 
 **R$ {{site.data.parametros[page.professor].correcao}},00** por correção.
 
@@ -24,6 +24,4 @@ Para agendar uma aula, entre em contato por nosso *email*: demachinamundi@gmail.
 
 ## Como é feito o pagamento?
 
-Depósito bancário, emissão de boletos para depósito ou por intermédio do PagSeguro.
-
-Emitimos nota fiscal (CNPJ 32.958.137/0001-40).
+Depósito bancário e emissão de boletos. Emitimos nota fiscal (CNPJ 32.958.137/0001-40).
