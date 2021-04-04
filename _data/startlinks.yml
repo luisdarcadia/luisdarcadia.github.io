@@ -94,13 +94,13 @@
   tipo: fun
   link: https://www.yahoo.com/mail 
 
-- nome: Facebook  
-  tipo: fun
-  link: https://www.facebook.com 
+#- nome: Facebook  
+#  tipo: fun
+#  link: https://www.facebook.com 
 
-- nome: Twitter  
-  tipo: fun
-  link: https://twitter.com 
+#- nome: Twitter  
+#  tipo: fun
+#  link: https://twitter.com 
 
 - nome: Instagram  
   tipo: fun
