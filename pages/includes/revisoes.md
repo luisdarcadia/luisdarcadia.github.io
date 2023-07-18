@@ -14,13 +14,17 @@ Emitimos nota fiscal (CNPJ 32.958.137/0001-40).
 
 # Preços e prazos
 
-Consideramos **uma lauda** o conjunto de **{{site.data.parametros[page.professor].tamanholauda}} palavras**.
+Os preços são calculados a partir do **total de palavras** do trabalho.
 
-O preço de **uma lauda**\* é R$ {{site.data.parametros[page.professor].precolauda}},00.
+A revisão textual é realizada a R$ {{site.parametros[page.professor].precorevisaotextual}}.
+
+A revisão de convenções de escrita (inclui ABNT) é realizada a R$ {{site.parametros[page.professor].precorevisaoabnt}}.
 
 \* preço mínimo para qualquer serviço é R$ {{site.data.parametros[page.professor].precominimo}},00.
 
-O prazo para a revisão é de **um dia útil** por cada **{{site.data.parametros[page.professor].laudaspordia}} laudas** requisitadas pelo cliente.
+O prazo para a revisão é de **um dia útil** por cada **{{site.data.parametros[page.professor].palavraspordia}} palavras**. O prazo é contado a partir do dia útil seguinte à confirmação por parte do cliente.
+
+Há um prazo mínimo de **2 dias úteis** para qualquer serviço.
 
 # [Simule o orçamento de seu trabalho aqui!]({{site.baseurl}}/orcamento)
 
