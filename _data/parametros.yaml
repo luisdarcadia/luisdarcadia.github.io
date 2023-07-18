@@ -1,7 +1,10 @@
 luis:
+  precorevisaotextual: 0,01
+  precorevisaoabnt: 0,0025
+  palavraspordia: 5000
   tamanholauda: 300
   precolauda: 5
-  laudaspordia: 10
+  laudaspordia: 15
   horaaula: 60
   correcao: 20
   precominimo: 70
