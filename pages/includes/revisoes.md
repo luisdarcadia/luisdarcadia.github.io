@@ -16,9 +16,9 @@ Emitimos nota fiscal (CNPJ 32.958.137/0001-40).
 
 Os preços são calculados a partir do **total de palavras** do trabalho.
 
-A revisão textual é realizada a R$ {{site.parametros[page.professor].precorevisaotextual}}.
+A revisão textual é realizada a R$ {{site.data.parametros[page.professor].precorevisaotextual}}.
 
-A revisão de convenções de escrita (inclui ABNT) é realizada a R$ {{site.parametros[page.professor].precorevisaoabnt}}.
+A revisão de convenções de escrita (inclui ABNT) é realizada a R$ {{site.data.parametros[page.professor].precorevisaoabnt}}.
 
 \* preço mínimo para qualquer serviço é R$ {{site.data.parametros[page.professor].precominimo}},00.
 
