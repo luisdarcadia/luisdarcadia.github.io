@@ -1,6 +1,6 @@
 luis:
   precorevisaotextual: "0,02"
-  precorevisaoabnt: "0,0025"
+  precorevisaoabnt: "0,01"
   palavraspordia: 3000
   tamanholauda: 300
   precolauda: 5
