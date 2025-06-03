@@ -1,11 +1,11 @@
 luis:
-  precorevisaotextual: "0,03"
+  precorevisaotextual: "0,05"
   precorevisaoabnt: "0,01"
   palavraspordia: 3000
   tamanholauda: 300
-  precolauda: 5
+  precolauda: 8
   laudaspordia: 15
-  horaaula: 80
-  correcao: 20
-  precominimo: 80
+  horaaula: 100
+  correcao: 50
+  precominimo: 120
   prazominimo: 2
